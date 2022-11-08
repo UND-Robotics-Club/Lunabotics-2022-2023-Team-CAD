@@ -1,0 +1,63 @@
+﻿!trail file version No. 2020
+!Creo  TM  9.0  (c) 2022 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 44964
+!	Application: Creo_Parametric
+!	Start date&time: 2022/11/08  09:47:57
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 9.0.0.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\traceback.log
+!end Exit Logger data.
+< 0 1.220741 1912 0 0 1030 1920 0 0 1080 13
+!mem_use INCREASE Blocks 912129, AppSize 12191635, SysSize 33083904
+< 0 1.052000 1052 0 0 1000 1920 0 0 1080 13
+< 0 1.055000 1055 0 0 1000 1920 0 0 1080 13
+< 0 1.055000 1055 0 0 1003 1920 0 0 1080 13
+< 0 1.055000 1055 0 0 1006 1920 0 0 1080 13
+< 0 0.950000 950 0 0 1006 1920 0 0 1080 13
+< 0 0.433778 592 0 0 366 1920 0 0 1080 13
+< 0 0.433778 627 0 0 366 1920 0 0 1080 13
+< 0 0.432593 627 0 0 365 1920 0 0 1080 13
+< 0 0.990815 1722 0 0 836 1920 0 0 1080 13
+< 0 0.990815 1613 0 0 836 1920 0 0 1080 13
+!%CIWelcome to Creo Parametric Educational Edition 9.0.0.0.
+!AFX datecode: 9.0.0.0-rc.1 2021.12.09
+!AFX exec path: C:\Program Files\PTC\Creo 9.0.0.0\Common Files\afx\x86e_win64\afx90.dll
+!AFX text path: C:\Program Files\PTC\Creo 9.0.0.0\Common Files\afx\
+~ Activate `pse_abnorm_exit_dlg` `psh_continue`
+!mem_use INCREASE Blocks 982744, AppSize 42304935, SysSize 64672304
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1143 370 0 1 1613 836 1920 1080 8497
+** 0.839619 0.556220 0 1 1
+0.839619 0.469311 L 0 0.990814815 0
+~ Move `main_dlg_cur` `proe_win` 9 1142 370 0 513 1613 836 1920 1080 8513
+~ Move `main_dlg_cur` `proe_win` 9 1140 370 0 513 1613 836 1920 1080 8513
+~ Move `main_dlg_cur` `proe_win` 9 1136 370 0 513 1613 836 1920 1080 8528
+~ Move `main_dlg_cur` `proe_win` 9 1128 370 0 513 1613 836 1920 1080 8528
+~ Move `main_dlg_cur` `proe_win` 9 1121 372 0 1537 1613 836 1920 1080 8547
+~ Move `main_dlg_cur` `proe_win` 9 1113 373 0 1537 1613 836 1920 1080 8547
+~ Move `main_dlg_cur` `proe_win` 9 1101 374 0 1537 1613 836 1920 1080 8560
+~ Move `main_dlg_cur` `proe_win` 9 1089 374 0 513 1613 836 1920 1080 8560
+~ Move `main_dlg_cur` `proe_win` 9 1074 372 0 1537 1613 836 1920 1080 8583
+~ Move `main_dlg_cur` `proe_win` 9 1050 368 0 1537 1613 836 1920 1080 8586
+~ Move `main_dlg_cur` `proe_win` 9 1018 360 0 1537 1613 836 1920 1080 8596
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1018 360 0 0 1613 836 1920 1080 8597
+~ Command `ProCmdSessionChangeDir` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Close `file_open` `file_open`
+< 0 0.432593 518 0 0 365 1920 0 0 1080 13
+~ Resize `main_dlg_cur` `main_dlg_cur` 4 2.153846 1.531047 21.616311 14.765524
+~ Move `main_dlg_cur` `main_dlg_cur` 2 2.153846 1.531047
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
