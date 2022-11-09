@@ -4,7 +4,10 @@
 The following position constraints can't be satisfied:
 
 
-1) The following kinematic loop can't be closed: Ground - body3 - body4 -
+1) The following kinematic loop can't be closed: Ground - body6 - Ground.
+
+
+2) The following kinematic loop can't be closed: Ground - body6 - body4 -
 Ground.
 
 
