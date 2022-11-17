@@ -1,0 +1,12 @@
+﻿display shadewithedges
+edge_display_quality normal
+orientation isometric
+shade_quality 5
+sketcher_lock_modified_dims yes
+sketcher_dimension_autolock yes
+sketcher_disp_grid no
+sketcher_starts_in_2d yes
+sketcher_import_convert_units yes
+enable_fsaa 16
+hlr_adv_interference_check_asm yes
+spin_surface_mesh no
