@@ -1,0 +1,36 @@
+﻿  MODEL DRIVESYS_WHEEL_YOST :
+ 
+
+  2 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 3
+
+Feature number 23 (COMPONENT, id = 173) 
+  in model DRIVESYS_WHEEL_YOST refers to:
+
+Feature number 2 (EXTRUDE_1, id = 611) 
+  in model DRIVESYS_SPKSUPPORT_YOST refers to:
+
+Feature number 23 (COMPONENT, id = 173) 
+  in model DRIVESYS_WHEEL_YOST - circle closed.
+
+
+   LOOP #  2
+
+   Depth of loop is 4
+
+Feature number 23 (COMPONENT, id = 173) 
+  in model DRIVESYS_WHEEL_YOST refers to:
+
+Feature number 2 (EXTRUDE_1, id = 611) 
+  in model DRIVESYS_SPKSUPPORT_YOST must follow after:
+
+Feature number 1 (SKETCH_1, id = 1) 
+  in model DRIVESYS_SPKSUPPORT_YOST refers to:
+
+Feature number 23 (COMPONENT, id = 173) 
+  in model DRIVESYS_WHEEL_YOST - circle closed.
+
