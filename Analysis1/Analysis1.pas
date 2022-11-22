@@ -1,58 +1,58 @@
 ------------------------------------------------------------
 Creo Simulate Structure Version P-90-47:spg
 Diagnostic Log
-Sun Nov 20, 2022   20:53:09
+Tue Nov 22, 2022   12:16:21
 ------------------------------------------------------------
 
 Begin Creating Database for Design Study
-Sun Nov 20, 2022   20:53:09
+Tue Nov 22, 2022   12:16:21
 
 Begin Integrated Mode Error Checking
-Sun Nov 20, 2022   20:53:09
+Tue Nov 22, 2022   12:16:21
 
 Begin Generating Elements
-Sun Nov 20, 2022   20:53:09
+Tue Nov 22, 2022   12:16:21
 
 Begin Integrated Mode Error Checking
-Sun Nov 20, 2022   20:53:10
+Tue Nov 22, 2022   12:16:22
 
 Begin Engine Bookkeeping
-Sun Nov 20, 2022   20:53:10
+Tue Nov 22, 2022   12:16:22
 
 Begin Analysis: "Analysis1"
-Sun Nov 20, 2022   20:53:10
+Tue Nov 22, 2022   12:16:22
 
 Using Sparse Solver
 
 Begin Mass Calculation
-Sun Nov 20, 2022   20:53:10
+Tue Nov 22, 2022   12:16:22
 
 Begin P-Loop Pass 1
-Sun Nov 20, 2022   20:53:10
+Tue Nov 22, 2022   12:16:22
 
 Begin Processing Multi-Point Constraints
-Sun Nov 20, 2022   20:53:11
+Tue Nov 22, 2022   12:16:22
 
 Begin Matrix Profile Minimization
-Sun Nov 20, 2022   20:53:11
+Tue Nov 22, 2022   12:16:22
 
 Begin Element Calculations, Pass 1
-Sun Nov 20, 2022   20:53:11
+Tue Nov 22, 2022   12:16:22
 
 Begin Global Matrix Assembly, Pass 1
-Sun Nov 20, 2022   20:53:11
+Tue Nov 22, 2022   12:16:22
 
 Begin Equation Solve, Pass 1
-Sun Nov 20, 2022   20:53:11
+Tue Nov 22, 2022   12:16:22
 
-Number of equations: 43036
-Average bandwidth:   191.858
-Maximum bandwidth:   744
-Size of global matrix profile (mb): 66.0544
-Number of terms in global matrix profile: 8256805     
-Minimum recommended solram for direct solver: 2
+Number of equations: 38812
+Average bandwidth:   183.649
+Maximum bandwidth:   840
+Size of global matrix profile (mb): 57.0223
+Number of terms in global matrix profile: 7127790     
+Minimum recommended solram for direct solver: 3
 
-Size of element file (mb): 33.7891
+Size of element file (mb): 30.1584
 Maximum element matrix size (kb): 14.64
 Average element matrix size (kb): 14.64
 
@@ -103,66 +103,66 @@ greater than the memory limits set for your operating
 system.
 
 Begin Load Calculations
-Sun Nov 20, 2022   20:53:11
+Tue Nov 22, 2022   12:16:23
 
 Begin Post-Processing Calculations, Pass 1
-Sun Nov 20, 2022   20:53:11
+Tue Nov 22, 2022   12:16:23
 
 Begin Convergence Check Pass 1
-Sun Nov 20, 2022   20:53:12
+Tue Nov 22, 2022   12:16:24
 
 Begin Strain Energy Calculations
-Sun Nov 20, 2022   20:53:12
+Tue Nov 22, 2022   12:16:24
 
 Begin P-Loop Pass 2
-Sun Nov 20, 2022   20:53:12
+Tue Nov 22, 2022   12:16:24
 
 Begin Processing Multi-Point Constraints
-Sun Nov 20, 2022   20:53:12
+Tue Nov 22, 2022   12:16:24
 
 Begin Matrix Profile Minimization
-Sun Nov 20, 2022   20:53:12
+Tue Nov 22, 2022   12:16:24
 
 Begin Element Calculations, Pass 2
-Sun Nov 20, 2022   20:53:12
+Tue Nov 22, 2022   12:16:24
 
 Begin Global Matrix Assembly, Pass 2
-Sun Nov 20, 2022   20:53:12
+Tue Nov 22, 2022   12:16:24
 
 Begin Equation Solve, Pass 2
-Sun Nov 20, 2022   20:53:12
+Tue Nov 22, 2022   12:16:24
 
-Number of equations: 45841
-Average bandwidth:   191.543
-Maximum bandwidth:   885
-Size of global matrix profile (mb): 70.2443
-Number of terms in global matrix profile: 8780533     
+Number of equations: 39445
+Average bandwidth:   184.723
+Maximum bandwidth:   816
+Size of global matrix profile (mb): 58.2913
+Number of terms in global matrix profile: 7286410     
 Minimum recommended solram for direct solver: 3
 
-Size of element file (mb): 38.3118
-Maximum element matrix size (kb): 255.024
-Average element matrix size (kb): 16.5995
+Size of element file (mb): 30.9343
+Maximum element matrix size (kb): 44.52
+Average element matrix size (kb): 15.0166
 
 Begin Load Calculations
-Sun Nov 20, 2022   20:53:13
+Tue Nov 22, 2022   12:16:24
 
 Begin Post-Processing Calculations, Pass 2
-Sun Nov 20, 2022   20:53:13
+Tue Nov 22, 2022   12:16:24
 
 Begin Convergence Check Pass 2
-Sun Nov 20, 2022   20:53:13
+Tue Nov 22, 2022   12:16:25
 
 Begin Displacement and Stress Calculation
-Sun Nov 20, 2022   20:53:14
+Tue Nov 22, 2022   12:16:25
 
 Begin Reaction Calculation
-Sun Nov 20, 2022   20:53:14
+Tue Nov 22, 2022   12:16:25
 
 Begin Strain Energy Calculations
-Sun Nov 20, 2022   20:53:14
+Tue Nov 22, 2022   12:16:26
 
 Completed P-Loop
-Sun Nov 20, 2022   20:53:14
+Tue Nov 22, 2022   12:16:26
 
 Completed Analysis: Analysis1
-Sun Nov 20, 2022   20:53:14
+Tue Nov 22, 2022   12:16:26

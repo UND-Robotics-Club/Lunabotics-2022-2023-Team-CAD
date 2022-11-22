@@ -1,0 +1,58 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY COLLECTOR_ACTUATEMOTOR_GJS
+
+VOLUME =  1.0364443e+01  INCH^3
+SURFACE AREA =  1.1416953e+02  INCH^2
+AVERAGE DENSITY =  1.1317152e-01 POUND / INCH^3
+MASS =  1.1729598e+00 POUND 
+CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
+X   Y   Z     5.6004352e-03  1.4984224e-02 -1.5196217e-01  INCH
+
+INERTIA with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  4.0028536e+00 -1.2145306e-02  1.3014689e-02
+Iyx Iyy Iyz -1.2145306e-02  4.0016029e+00 -9.3966938e-03
+Izx Izy Izz  1.3014689e-02 -9.3966938e-03  4.7346004e-01
+
+INERTIA at CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  3.9755036e+00 -1.2046874e-02  1.2016436e-02
+Iyx Iyy Iyz -1.2046874e-02  3.9744795e+00 -1.2067565e-02
+Izx Izy Izz  1.2016436e-02 -1.2067565e-02  4.7315989e-01
+
+PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3   4.7307736e-01  3.9629339e+00  3.9871318e+00
+
+ROTATION MATRIX from ASM_DEF_CSYS orientation to PRINCIPAL AXES:
+      -0.00342        0.69199       -0.72190
+       0.00343        0.72191        0.69198
+       0.99999       -0.00011       -0.00484
+
+ROTATION ANGLES from ASM_DEF_CSYS orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -90.401        -46.212        -90.283 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 6.3507427e-01  1.8380903e+00  1.8436935e+00  INCH
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the ASM_DEF_CSYS coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+     COLLECTOR_217_3351_BAGMOTOR            MATERIAL:                                     
+         1.26000e-01  7.09473e-01  8.53553e-03  8.53560e-03 -1.40426e+00
+       COLLECTOR_BAG_MOTOR_MOUNT            MATERIAL:                               AL6061
+         9.79121e-02  2.93614e-02  0.00000e+00  0.00000e+00  6.80812e-02
+       COLLECTOR_VERSA_INPUT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  8.37622e-02  1.68760e-03  1.24770e-03  4.58204e-01
+ COLLECTOR_217_2816_RING_GEARADD            MATERIAL:                               AL6061
+         9.79121e-02  4.20088e-02  4.00306e-03  2.95700e-03  1.04154e+00
+ COLLECTOR_217_2816_RING_GEARADD            MATERIAL:                               AL6061
+         9.79121e-02  4.20088e-02  4.00306e-03  2.95700e-03  1.54154e+00
+  COLLECTOR_217_5046_ENCODER_GJS            MATERIAL:                              UNKNOWN
+         9.79121e-02  7.46532e-02 -2.65457e-05  1.49129e-01  2.01270e+00
+  COLLECTOR_VERSA_OUTPUT_1_2_GJS            MATERIAL:                              UNKNOWN
+         9.79121e-02  1.91692e-01  1.96425e-04  1.78344e-04  2.70692e+00

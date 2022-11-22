@@ -299,7 +299,7 @@
                                 <SIM_DB_MEASURE>NULL</SIM_DB_MEASURE>
                                 <SIM_DB_MATERIAL ICON_NAME="sim_material_16" pointer="TRUE">
                                     <MATERIAL_ARRAY SOAP-ENC:Array="[2]">
-                                        <MATERIAL_ARRAY_ENTRY FAIL_CRITERIA="V_MISES" ICON_NAME="sim_material_16" IS_ASSIGNED="1" MATL_ID="-1" MATL_MODEL="NULL" MODEL_NAME_EXT="COLLECTOR_HINGE2CHASSIS_GJS.PRT" MODEL_NAME_INT="COLLECTOR_HINGE2CHASSIS_GJS.PRT" NAME="PTC_SYSTEM_MTRL_PROPS" SUB_TYPE="LINEAR" THRM_TYPE="ISOTROPIC" TYPE="ISOTROPIC" pointer="TRUE">
+                                        <MATERIAL_ARRAY_ENTRY FAIL_CRITERIA="V_MISES" ICON_NAME="sim_material_16" IS_ASSIGNED="0" MATL_ID="-1" MATL_MODEL="NULL" MODEL_NAME_EXT="COLLECTOR_HINGE2CHASSIS_GJS.PRT" MODEL_NAME_INT="COLLECTOR_HINGE2CHASSIS_GJS.PRT" NAME="PTC_SYSTEM_MTRL_PROPS" SUB_TYPE="LINEAR" THRM_TYPE="ISOTROPIC" TYPE="ISOTROPIC" pointer="TRUE">
                                             <DESCRIPTION>NULL</DESCRIPTION>
                                             <YOUNGS_MOD pointer="TRUE">
                                                 <SCALAR_ARRAY SOAP-ENC:Array="[1]">
@@ -347,7 +347,7 @@
                                             <MODULUS>NULL</MODULUS>
                                             <EXPONENT>NULL</EXPONENT>
                                         </MATERIAL_ARRAY_ENTRY>
-                                        <MATERIAL_ARRAY_ENTRY FAIL_CRITERIA="NONE" ICON_NAME="sim_material_16" IS_ASSIGNED="0" MATL_ID="-1" MATL_MODEL="NULL" MODEL_NAME_EXT="COLLECTOR_HINGE2CHASSIS_GJS.PRT" MODEL_NAME_INT="COLLECTOR_HINGE2CHASSIS_GJS.PRT" NAME="AL6061" SUB_TYPE="LINEAR" THRM_TYPE="ISOTROPIC" TYPE="ISOTROPIC" pointer="TRUE">
+                                        <MATERIAL_ARRAY_ENTRY FAIL_CRITERIA="NONE" ICON_NAME="sim_material_16" IS_ASSIGNED="1" MATL_ID="-1" MATL_MODEL="NULL" MODEL_NAME_EXT="COLLECTOR_HINGE2CHASSIS_GJS.PRT" MODEL_NAME_INT="COLLECTOR_HINGE2CHASSIS_GJS.PRT" NAME="AL6061" SUB_TYPE="LINEAR" THRM_TYPE="ISOTROPIC" TYPE="ISOTROPIC" pointer="TRUE">
                                             <DESCRIPTION>NULL</DESCRIPTION>
                                             <YOUNGS_MOD pointer="TRUE">
                                                 <SCALAR_ARRAY SOAP-ENC:Array="[1]">

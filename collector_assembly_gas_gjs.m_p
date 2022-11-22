@@ -1,0 +1,236 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY COLLECTOR_ASSEMBLY_GAS_GJS
+
+VOLUME =  2.7602511e+02  INCH^3
+SURFACE AREA =  4.5307058e+03  INCH^2
+AVERAGE DENSITY =  9.7418967e-02 POUND / INCH^3
+MASS =  2.6890081e+01 POUND 
+CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
+X   Y   Z     3.1085666e+00  1.5227904e+01  1.7076339e-03  INCH
+
+INERTIA with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  9.8176900e+03 -1.3078616e+03  1.8380515e+00
+Iyx Iyy Iyz -1.3078616e+03  6.9885956e+02 -1.5856386e+01
+Izx Izy Izz  1.8380515e+00 -1.5856386e+01  1.0103972e+04
+
+INERTIA at CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  3.5821742e+03 -3.4967074e+01  1.9807919e+00
+Iyx Iyy Iyz -3.4967074e+01  4.3901561e+02 -1.5157144e+01
+Izx Izy Izz  1.9807919e+00 -1.5157144e+01  3.6086122e+03
+
+PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3   4.3855440e+02  3.5823875e+03  3.6088601e+03
+
+ROTATION MATRIX from ASM_DEF_CSYS orientation to PRINCIPAL AXES:
+       0.01112       -0.99662        0.08140
+       0.99993        0.01069       -0.00566
+       0.00477        0.08146        0.99667
+
+ROTATION ANGLES from ASM_DEF_CSYS orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   0.326          4.669         89.361 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 4.0384590e+00  1.1542243e+01  1.1584811e+01  INCH
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the ASM_DEF_CSYS coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+           COLLECTOR_IGUS_RAIL_L            MATERIAL:                               AL6061
+         9.79121e-02  1.58875e+00  2.27668e-01  1.67836e+01  0.00000e+00
+           COLLECTOR_IGUS_RAIL_R            MATERIAL:                               AL6061
+         9.79121e-02  1.59056e+00  5.95553e+00  1.67972e+01  0.00000e+00
+     COLLECTOR_DIGMOTORMOUNT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.14042e-01  2.95480e+00  3.06601e+01  1.05854e-03
+ COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
+         3.19759e-01  2.37497e-02  7.73063e-02  3.20000e+01  0.00000e+00
+ COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
+         3.19759e-01  2.37497e-02  6.10576e+00  3.20000e+01  0.00000e+00
+ COLLECTOR_217_4002_TOPSHAFT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.51758e-01  3.09154e+00  3.20000e+01  0.00000e+00
+          COLLECTOR_15TBEVEL_GJS            MATERIAL:                                STEEL
+         2.82771e-01  9.16195e-02  3.69365e+00  3.19988e+01 -1.82630e-03
+       COLLECTOR_217_2592_HEXHUB            MATERIAL:                               AL6061
+         9.79121e-02  6.21373e-02  6.57152e+00  3.19989e+01 -2.53318e-03
+       COLLECTOR_217_2592_HEXHUB            MATERIAL:                               AL6061
+         9.79121e-02  6.21373e-02 -3.88446e-01  3.19989e+01 -2.53326e-03
+  COLLECTOR_217_2647_44TSPROCKET            MATERIAL:                               AL6061
+         9.79121e-02  3.22999e-01  6.83007e+00  3.20001e+01 -5.10534e-05
+  COLLECTOR_217_2647_44TSPROCKET            MATERIAL:                               AL6061
+         9.79121e-02  3.22999e-01 -6.47002e-01  3.20001e+01  5.53502e-05
+    COLLECTOR_217_3259_HEXSPACER            MATERIAL:                                NYLON
+         4.33577e-02  2.57601e-03  6.87057e+00  3.20000e+01  0.00000e+00
+    COLLECTOR_217_3259_HEXSPACER            MATERIAL:                                NYLON
+         4.33577e-02  2.57601e-03 -6.87500e-01  3.20000e+01  0.00000e+00
+    COLLECTOR_217_2737_HEXCOLLAR            MATERIAL:                               AL6061
+         9.79121e-02  1.27395e-02  7.12057e+00  3.20075e+01 -1.57321e-02
+    COLLECTOR_217_2737_HEXCOLLAR            MATERIAL:                               AL6061
+         9.79121e-02  1.27395e-02 -9.37498e-01  3.19936e+01 -1.62015e-02
+      COLLECTOR_GEAR_SUPPORT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  4.00188e-02  3.00404e+00  3.16180e+01  0.00000e+00
+ COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
+         3.19759e-01  2.37497e-02  3.05173e+00  3.20000e+01  0.00000e+00
+       COLLECTOR_MININGMOTOR_GJS            MATERIAL:                              UNKNOWN
+         1.12565e-01  1.21497e+00  4.45058e+00  2.71522e+01 -1.45684e-02
+ COLLECTOR_STANDOFF_ASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.79121e-02  3.14877e-02  5.52494e+00  2.99446e+01  0.00000e+00
+ COLLECTOR_STANDOFF_ASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.79121e-02  3.14877e-02  5.52494e+00  2.76964e+01  0.00000e+00
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  5.74277e+00  8.42913e+00  9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  4.40299e-01  8.42913e+00  9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  5.74277e+00  8.42913e+00 -9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  4.40299e-01  8.42913e+00 -9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  4.40299e-01  4.28740e+00  9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  5.74277e+00  4.28740e+00  9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  4.40299e-01  4.28740e+00 -9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  5.74277e+00  4.28740e+00 -9.90050e-01
+      COLLECTOR_PILLOW_PLATE_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.59099e-01  5.34941e+00  6.37078e+00  0.00000e+00
+      COLLECTOR_PILLOW_PLATE_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.59099e-01  8.33661e-01  6.37078e+00  0.00000e+00
+          COLLECTOR_15TBEVEL_GJS            MATERIAL:                                STEEL
+         2.82771e-01  9.16195e-02  4.44621e+00  3.12348e+01  2.00298e-03
+      COLLECTOR_2BY3ALUMINUM_GJS            MATERIAL:                               AL6061
+         9.79121e-02  4.24000e-01  6.83979e+00  6.35827e+00  0.00000e+00
+      COLLECTOR_2BY3ALUMINUM_GJS            MATERIAL:                               AL6061
+         9.79121e-02  4.24000e-01 -6.56724e-01  6.35827e+00  0.00000e+00
+      COLLECTOR_HINGE_SPACER_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.21802e-02  7.59941e+00  7.29577e+00  0.00000e+00
+      COLLECTOR_HINGE_SPACER_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.21802e-02  7.59941e+00  5.42077e+00  0.00000e+00
+      COLLECTOR_HINGE_SPACER_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.21802e-02 -1.41634e+00  7.29577e+00  0.00000e+00
+      COLLECTOR_HINGE_SPACER_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.21802e-02 -1.41634e+00  5.42077e+00  0.00000e+00
+ COLLECTOR_GASHINGE_INSIDE_L_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.08667e-01 -1.78834e+00  6.38717e+00 -3.54838e-01
+ COLLECTOR_GASHINGE_INSIDE_R_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.09412e-01  7.97142e+00  6.39270e+00 -3.53542e-01
+       COLLECTOR_MFI_0810_08_GJS            MATERIAL:                               AL6061
+         9.79121e-02  7.15718e-03  8.09334e+00  3.42077e+00 -2.39500e+00
+       COLLECTOR_MFI_0810_08_GJS            MATERIAL:                               AL6061
+         9.79121e-02  7.15718e-03 -1.91027e+00  3.42077e+00 -2.39500e+00
+        COLLECTOR_HINGESHAFT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.25496e-02  8.44941e+00  3.42077e+00 -2.39500e+00
+     COLLECTOR_HINGE2CHASSIS_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.29817e-01  8.53641e+00  2.29822e+00 -4.70638e+00
+         COLLECTOR_90341A107_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.09639e-03  7.68941e+00  3.46843e+00 -2.39411e+00
+        COLLECTOR_HINGESHAFT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  3.25496e-02 -2.26634e+00  3.42077e+00 -2.39500e+00
+     COLLECTOR_HINGE2CHASSIS_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.29817e-01 -2.35334e+00  2.29822e+00 -4.70638e+00
+         COLLECTOR_90341A107_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.09639e-03 -1.50634e+00  3.46843e+00 -2.39407e+00
+       COLLECTOR_MFI_0810_08_GJS            MATERIAL:                               AL6061
+         9.79121e-02  7.15718e-03  8.65534e+00  3.42077e+00 -2.39500e+00
+           COLLECTOR_6157K14_GJS            MATERIAL:                               AL6061
+         9.79121e-02  2.84257e-02  9.05169e+00  3.38019e+00 -2.38668e+00
+       COLLECTOR_MFI_0810_08_GJS            MATERIAL:                               AL6061
+         9.79121e-02  7.15718e-03 -2.47227e+00  3.42077e+00 -2.39500e+00
+           COLLECTOR_6157K14_GJS            MATERIAL:                               AL6061
+         9.79121e-02  2.84257e-02 -2.86831e+00  3.38019e+00 -2.38667e+00
+             COLLECTOR_SCREW_GJS            MATERIAL:                                   SS
+         2.79760e-01  1.34285e+00  3.09148e+00  1.74020e+01  0.00000e+00
+       COLLECTOR_BOTTOMBRACE_GJS            MATERIAL:                               AL6061
+         9.79121e-02  2.14706e-01  3.09154e+00  3.46600e+00  0.00000e+00
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  4.40299e-01  1.63913e+00  9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  4.40299e-01  1.63913e+00 -9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  5.74277e+00  1.63913e+00  9.90050e-01
+   COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
+         9.79121e-02  4.52557e-02  5.74277e+00  1.63913e+00 -9.90050e-01
+  COLLECTOR_TENSION_IG2SHAFT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.45604e-01  5.22441e+00  1.59907e+00 -1.10238e-03
+  COLLECTOR_TENSION_IG2SHAFT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.45604e-01  9.58661e-01  1.59907e+00 -1.10234e-03
+      COLLECTOR_TENSIONBRACE_GJS            MATERIAL:                               AL6061
+         9.79121e-02  2.19901e-01  3.09547e+00  2.46496e+00 -1.10226e-03
+ COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
+         3.19759e-01  2.37497e-02  1.13136e+00  1.39185e+00 -1.10236e-03
+ COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
+         3.19759e-01  2.37497e-02  5.05172e+00  1.39185e+00 -1.10236e-03
+ COLLECTOR_217_4002_BOTSHAFT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.51758e-01  3.09154e+00  1.39185e+00 -1.10236e-03
+    COLLECTOR_217_2737_HEXCOLLAR            MATERIAL:                               AL6061
+         9.79121e-02  1.27395e-02  4.78691e+00  1.40846e+00 -6.38602e-03
+    COLLECTOR_217_2737_HEXCOLLAR            MATERIAL:                               AL6061
+         9.79121e-02  1.27395e-02  1.39616e+00  1.38169e+00 -1.52556e-02
+ COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
+         3.19759e-01  2.37497e-02  6.10576e+00  1.39185e+00 -1.10236e-03
+ COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
+         3.19759e-01  2.37497e-02  7.73063e-02  1.39185e+00 -1.10236e-03
+       COLLECTOR_217_2592_HEXHUB            MATERIAL:                               AL6061
+         9.79121e-02  6.21373e-02  6.57142e+00  1.39330e+00 -3.60833e-03
+       COLLECTOR_217_2592_HEXHUB            MATERIAL:                               AL6061
+         9.79121e-02  6.21373e-02 -3.88346e-01  1.39330e+00  1.40361e-03
+  COLLECTOR_217_2647_44TSPROCKET            MATERIAL:                               AL6061
+         9.79121e-02  3.22999e-01  6.82997e+00  1.39185e+00 -1.10236e-03
+  COLLECTOR_217_2647_44TSPROCKET            MATERIAL:                               AL6061
+         9.79121e-02  3.22999e-01 -6.46901e-01  1.39185e+00 -1.10236e-03
+    COLLECTOR_217_3259_HEXSPACER            MATERIAL:                                NYLON
+         4.33577e-02  2.57601e-03 -6.87401e-01  1.39185e+00 -1.10236e-03
+    COLLECTOR_217_2737_HEXCOLLAR            MATERIAL:                               AL6061
+         9.79121e-02  1.27395e-02 -9.37398e-01  1.39867e+00  1.49325e-02
+    COLLECTOR_217_3259_HEXSPACER            MATERIAL:                                NYLON
+         4.33577e-02  2.57601e-03  6.87047e+00  1.39185e+00 -1.10236e-03
+    COLLECTOR_217_2737_HEXCOLLAR            MATERIAL:                               AL6061
+         9.79121e-02  1.27395e-02  7.12047e+00  1.39867e+00  1.49325e-02
+  COLLECTOR_ACTUATE_BRACKET1_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.10903e-01  3.09154e+00  4.02904e+00  0.00000e+00
+      COLLECTOR_THRUSTWASHER_GJS            MATERIAL:                               AL6061
+         9.79121e-02  2.29942e-03  3.09154e+00  4.30829e+00  3.03871e-03
+         COLLECTOR_SCREWGEAR_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.02946e-01  3.09154e+00  4.58754e+00  0.00000e+00
+          COLLECTOR_LEAD_NUT_GJS            MATERIAL:                               AL6061
+         9.79121e-02  6.01574e-02  3.09154e+00  4.85405e+00  0.00000e+00
+      COLLECTOR_THRUSTWASHER_GJS            MATERIAL:                               AL6061
+         9.79121e-02  2.29942e-03  3.09154e+00  5.36679e+00 -3.03871e-03
+  COLLECTOR_ACTUATE_BRACKET1_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.10903e-01  3.09154e+00  5.64604e+00  0.00000e+00
+      COLLECTOR_ACTUATEMOTOR_GJS            MATERIAL:                              UNKNOWN
+         1.13172e-01  1.17296e+00  2.08926e+00  8.29725e+00  1.34797e+00
+         COLLECTOR_MOTORGEAR_GJS            MATERIAL:                               AL6061
+         9.79121e-02  6.61985e-02  2.08366e+00  4.58754e+00  1.33299e+00
+   COLLECTOR_IGUS2MOTORPLATE_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.24883e-01  1.08366e+00  6.78239e+00  1.08288e+00
+        COLLECTOR_FULL_CHAIN_GJS            MATERIAL:                              UNKNOWN
+         2.82771e-01  1.57676e+00  6.83112e+00  1.67727e+01 -4.29176e-04
+        COLLECTOR_FULL_CHAIN_GJS            MATERIAL:                              UNKNOWN
+         2.82771e-01  1.57676e+00 -6.45849e-01  1.67727e+01 -4.29176e-04
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09110e+00  1.70555e+01  4.09444e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09207e+00  9.18046e+00  4.09444e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09207e+00  1.30542e+00  4.09443e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09110e+00  7.84070e-01 -4.05333e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09207e+00  8.97124e+00 -4.09665e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09207e+00  1.68462e+01 -4.09665e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09207e+00  2.47212e+01 -4.09665e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09207e+00  3.27032e+01 -4.05905e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09110e+00  3.21602e+01  4.09637e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         7.10671e-02  9.55429e-01  3.09110e+00  2.49305e+01  4.09444e+00
