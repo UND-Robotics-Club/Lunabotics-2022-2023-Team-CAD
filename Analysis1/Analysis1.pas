@@ -1,49 +1,49 @@
 ------------------------------------------------------------
 Creo Simulate Structure Version P-90-47:spg
 Diagnostic Log
-Tue Nov 22, 2022   12:16:21
+Tue Nov 22, 2022   12:28:45
 ------------------------------------------------------------
 
 Begin Creating Database for Design Study
-Tue Nov 22, 2022   12:16:21
+Tue Nov 22, 2022   12:28:45
 
 Begin Integrated Mode Error Checking
-Tue Nov 22, 2022   12:16:21
+Tue Nov 22, 2022   12:28:45
 
 Begin Generating Elements
-Tue Nov 22, 2022   12:16:21
+Tue Nov 22, 2022   12:28:45
 
 Begin Integrated Mode Error Checking
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Begin Engine Bookkeeping
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Begin Analysis: "Analysis1"
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Using Sparse Solver
 
 Begin Mass Calculation
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Begin P-Loop Pass 1
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Begin Processing Multi-Point Constraints
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Begin Matrix Profile Minimization
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Begin Element Calculations, Pass 1
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Begin Global Matrix Assembly, Pass 1
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Begin Equation Solve, Pass 1
-Tue Nov 22, 2022   12:16:22
+Tue Nov 22, 2022   12:28:45
 
 Number of equations: 38812
 Average bandwidth:   183.649
@@ -103,34 +103,34 @@ greater than the memory limits set for your operating
 system.
 
 Begin Load Calculations
-Tue Nov 22, 2022   12:16:23
+Tue Nov 22, 2022   12:28:46
 
 Begin Post-Processing Calculations, Pass 1
-Tue Nov 22, 2022   12:16:23
+Tue Nov 22, 2022   12:28:46
 
 Begin Convergence Check Pass 1
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:46
 
 Begin Strain Energy Calculations
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:47
 
 Begin P-Loop Pass 2
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:47
 
 Begin Processing Multi-Point Constraints
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:47
 
 Begin Matrix Profile Minimization
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:47
 
 Begin Element Calculations, Pass 2
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:47
 
 Begin Global Matrix Assembly, Pass 2
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:47
 
 Begin Equation Solve, Pass 2
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:47
 
 Number of equations: 39445
 Average bandwidth:   184.723
@@ -144,25 +144,25 @@ Maximum element matrix size (kb): 44.52
 Average element matrix size (kb): 15.0166
 
 Begin Load Calculations
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:47
 
 Begin Post-Processing Calculations, Pass 2
-Tue Nov 22, 2022   12:16:24
+Tue Nov 22, 2022   12:28:47
 
 Begin Convergence Check Pass 2
-Tue Nov 22, 2022   12:16:25
+Tue Nov 22, 2022   12:28:48
 
 Begin Displacement and Stress Calculation
-Tue Nov 22, 2022   12:16:25
+Tue Nov 22, 2022   12:28:48
 
 Begin Reaction Calculation
-Tue Nov 22, 2022   12:16:25
+Tue Nov 22, 2022   12:28:48
 
 Begin Strain Energy Calculations
-Tue Nov 22, 2022   12:16:26
+Tue Nov 22, 2022   12:28:48
 
 Completed P-Loop
-Tue Nov 22, 2022   12:16:26
+Tue Nov 22, 2022   12:28:48
 
 Completed Analysis: Analysis1
-Tue Nov 22, 2022   12:16:26
+Tue Nov 22, 2022   12:28:48
