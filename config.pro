@@ -1,7 +1,7 @@
 ﻿animate_explode_states no
 datum_point_display no
 dim_background legacy
-display shadewithedges
+display HIDDENVIS
 display_annotations no
 display_axes no
 display_coord_sys no
@@ -10,7 +10,7 @@ enable_fsaa off
 enable_legacy_datum_planes yes
 keep_info_datums yes
 orientation isometric
-sketcher_snap_sensitivity VERY_LOW
+sketcher_snap_sensitivity MEDIUM
 sketcher_starts_in_2d yes
 spin_surface_mesh no
 spin_with_orientation_center no
