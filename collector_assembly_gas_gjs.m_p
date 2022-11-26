@@ -1,44 +1,44 @@
 ﻿MASS PROPERTIES OF THE ASSEMBLY COLLECTOR_ASSEMBLY_GAS_GJS
 
-VOLUME =  1.6136148e+02  INCH^3
-SURFACE AREA =  1.9903577e+03  INCH^2
-AVERAGE DENSITY =  1.2910134e-01 POUND / INCH^3
-MASS =  2.0831982e+01 POUND 
-CENTER OF GRAVITY with respect to _COLLECTOR_ASSEMBLY_GAS_GJS coordinate frame:
-X   Y   Z     3.1330291e+00  1.4904318e+01  2.2379779e-02  INCH
+VOLUME =  1.5977532e+02  INCH^3
+SURFACE AREA =  1.9842342e+03  INCH^2
+AVERAGE DENSITY =  1.2941097e-01 POUND / INCH^3
+MASS =  2.0676678e+01 POUND 
+CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
+X   Y   Z     3.1294923e+00  1.4900259e+01  6.5169997e-03  INCH
 
-INERTIA with respect to _COLLECTOR_ASSEMBLY_GAS_GJS coordinate frame:  (POUND * INCH^2)
-
-INERTIA TENSOR:
-Ixx Ixy Ixz  7.2637206e+03 -1.0151549e+03  2.0724487e-02
-Iyx Iyy Iyz -1.0151549e+03  4.5939004e+02 -3.9959522e+00
-Izx Izy Izz  2.0724487e-02 -3.9959522e+00  7.5601338e+03
-
-INERTIA at CENTER OF GRAVITY with respect to _COLLECTOR_ASSEMBLY_GAS_GJS coordinate frame:  (POUND * INCH^2)
+INERTIA with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
 
 INERTIA TENSOR:
-Ixx Ixy Ixz  2.6361205e+03 -4.2391712e+01  1.4813902e+00
-Iyx Iyy Iyz -4.2391712e+01  2.5489555e+02  2.9526670e+00
-Izx Izy Izz  1.4813902e+00  2.9526670e+00  2.7280602e+03
+Ixx Ixy Ixz  7.2399573e+03 -1.0073556e+03  8.9718692e-01
+Iyx Iyy Iyz -1.0073556e+03  4.5926351e+02 -6.5599568e+00
+Izx Izy Izz  8.9718692e-01 -6.5599568e+00  7.5319944e+03
+
+INERTIA at CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  2.6493675e+03 -4.3196959e+01  1.3188857e+00
+Iyx Iyy Iyz -4.3196959e+01  2.5676099e+02 -4.5521482e+00
+Izx Izy Izz  1.3188857e+00 -4.5521482e+00  2.7389038e+03
 
 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
-I1  I2  I3   2.5413752e+02  2.6368526e+03  2.7280861e+03
+I1  I2  I3   2.5597309e+02  2.6501250e+03  2.7389341e+03
 
-ROTATION MATRIX from _COLLECTOR_ASSEMBLY_GAS_GJS orientation to PRINCIPAL AXES:
-       0.01779       -0.99972        0.01568
-       0.99984        0.01781        0.00092
-      -0.00120        0.01566        0.99988
+ROTATION MATRIX from ASM_DEF_CSYS orientation to PRINCIPAL AXES:
+       0.01804       -0.99971        0.01574
+       0.99984        0.01801       -0.00211
+       0.00182        0.01578        0.99987
 
-ROTATION ANGLES from _COLLECTOR_ASSEMBLY_GAS_GJS orientation to PRINCIPAL AXES (degrees):
-angles about x  y  z  -0.053          0.898         88.980 
+ROTATION ANGLES from ASM_DEF_CSYS orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   0.121          0.902         88.966 
 
 RADII OF GYRATION with respect to PRINCIPAL AXES:
-R1  R2  R3 3.4927628e+00  1.1250650e+01  1.1443628e+01  INCH
+R1  R2  R3 3.5184937e+00  1.1321209e+01  1.1509340e+01  INCH
 
 ---------------------------------------------
 
 MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
-(in assembly units and the _COLLECTOR_ASSEMBLY_GAS_GJS coordinate frame)
+(in assembly units and the ASM_DEF_CSYS coordinate frame)
 
    DENSITY             MASS          C.G.:  X        Y         Z
 
@@ -47,7 +47,7 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
            COLLECTOR_IGUS_RAIL_R            MATERIAL:                               AL6061
          9.79121e-02  1.59056e+00  5.95553e+00  1.67972e+01  0.00000e+00
      COLLECTOR_DIGMOTORMOUNT_GJS            MATERIAL:                               AL6061
-         9.79121e-02  3.14042e-01  2.95480e+00  3.06601e+01  1.05854e-03
+         9.79121e-02  3.05579e-01  2.97650e+00  3.06601e+01 -1.33898e-03
  COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
          3.19759e-01  2.37497e-02  7.73063e-02  3.20000e+01  0.00000e+00
  COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
@@ -73,9 +73,9 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
     COLLECTOR_217_2737_HEXCOLLAR            MATERIAL:                               AL6061
          9.79121e-02  1.27395e-02 -9.37498e-01  3.19936e+01 -1.62015e-02
       COLLECTOR_GEAR_SUPPORT_GJS            MATERIAL:                               AL6061
-         9.79121e-02  4.00188e-02  3.00404e+00  3.16180e+01  0.00000e+00
+         9.79121e-02  4.04859e-02  2.87904e+00  3.16123e+01  0.00000e+00
  COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
-         3.19759e-01  2.37497e-02  3.05173e+00  3.20000e+01  0.00000e+00
+         3.19759e-01  2.37497e-02  2.92673e+00  3.20000e+01  0.00000e+00
        COLLECTOR_MININGMOTOR_GJS            MATERIAL:                              UNKNOWN
          1.00000e+00  1.62000e+00  4.44504e+00  2.74937e+01  0.00000e+00
  COLLECTOR_STANDOFF_ASSEMBLY_GJS            MATERIAL:                              UNKNOWN
@@ -99,11 +99,11 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
    COLLECTOR_PILLOWBLOCK_AL_IGUS            MATERIAL:                               AL6061
          9.79121e-02  4.52557e-02  5.74277e+00  4.28740e+00 -9.90050e-01
       COLLECTOR_PILLOW_PLATE_GJS            MATERIAL:                               AL6061
-         9.79121e-02  3.59099e-01  5.34941e+00  6.37078e+00  0.00000e+00
+         9.79121e-02  3.01410e-01  5.34941e+00  6.28626e+00 -6.78357e-04
       COLLECTOR_PILLOW_PLATE_GJS            MATERIAL:                               AL6061
-         9.79121e-02  3.59099e-01  8.33661e-01  6.37078e+00  0.00000e+00
+         9.79121e-02  3.01410e-01  8.33661e-01  6.28626e+00 -6.78309e-04
           COLLECTOR_15TBEVEL_GJS            MATERIAL:                                STEEL
-         2.82771e-01  9.16195e-02  4.44621e+00  3.12348e+01  2.00298e-03
+         2.82771e-01  9.16195e-02  4.44621e+00  3.12521e+01  2.00298e-03
       COLLECTOR_2BY3ALUMINUM_GJS            MATERIAL:                               AL6061
          9.79121e-02  4.24000e-01  6.83979e+00  6.35827e+00  0.00000e+00
       COLLECTOR_2BY3ALUMINUM_GJS            MATERIAL:                               AL6061
@@ -117,9 +117,9 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
       COLLECTOR_HINGE_SPACER_GJS            MATERIAL:                               AL6061
          9.79121e-02  3.21802e-02 -1.41634e+00  5.42077e+00  0.00000e+00
  COLLECTOR_GASHINGE_INSIDE_L_GJS            MATERIAL:                               AL6061
-         9.79121e-02  2.76918e-01 -1.78800e+00  6.38068e+00 -3.58276e-01
+         9.79121e-02  2.82982e-01 -1.78807e+00  6.06107e+00 -3.52470e-01
  COLLECTOR_GASHINGE_INSIDE_R_GJS            MATERIAL:                               AL6061
-         9.79121e-02  3.09412e-01  7.97142e+00  6.39270e+00 -3.53542e-01
+         9.79121e-02  2.80881e-01  7.97111e+00  6.05913e+00 -3.54723e-01
        COLLECTOR_MFI_0810_08_GJS            MATERIAL:                               AL6061
          9.79121e-02  7.15718e-03  8.09334e+00  3.42077e+00 -2.39500e+00
        COLLECTOR_MFI_0810_08_GJS            MATERIAL:                               AL6061
@@ -127,13 +127,13 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
         COLLECTOR_HINGESHAFT_GJS            MATERIAL:                               AL6061
          9.79121e-02  3.25496e-02  8.44941e+00  3.42077e+00 -2.39500e+00
      COLLECTOR_HINGE2CHASSIS_GJS            MATERIAL:                               AL6061
-         9.79121e-02  1.29817e-01  8.53641e+00  5.07574e+00 -4.36062e+00
+         9.79121e-02  1.47375e-01  8.53641e+00  2.34478e+00 -4.82841e+00
          COLLECTOR_90341A107_GJS            MATERIAL:                               AL6061
          9.79121e-02  1.09639e-03  7.68941e+00  3.46843e+00 -2.39411e+00
         COLLECTOR_HINGESHAFT_GJS            MATERIAL:                               AL6061
          9.79121e-02  3.25496e-02 -2.26634e+00  3.42077e+00 -2.39500e+00
      COLLECTOR_HINGE2CHASSIS_GJS            MATERIAL:                               AL6061
-         9.79121e-02  1.29817e-01 -2.35334e+00  5.07573e+00 -4.36062e+00
+         9.79121e-02  1.47375e-01 -2.35334e+00  2.34478e+00 -4.82841e+00
          COLLECTOR_90341A107_GJS            MATERIAL:                               AL6061
          9.79121e-02  1.09639e-03 -1.50634e+00  3.46843e+00 -2.39407e+00
        COLLECTOR_MFI_0810_08_GJS            MATERIAL:                               AL6061
@@ -205,11 +205,11 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
   COLLECTOR_ACTUATE_BRACKET1_GJS            MATERIAL:                               AL6061
          9.79121e-02  1.10903e-01  3.09154e+00  5.64604e+00  0.00000e+00
       COLLECTOR_ACTUATEMOTOR_GJS            MATERIAL:                              UNKNOWN
-         2.00000e-01  1.45000e+00  2.08366e+00  8.14529e+00  1.33299e+00
+         2.00000e-01  1.45000e+00  2.08366e+00  8.07177e+00  1.33299e+00
          COLLECTOR_MOTORGEAR_GJS            MATERIAL:                               AL6061
          9.79121e-02  6.61985e-02  2.08366e+00  4.58754e+00  1.33299e+00
    COLLECTOR_IGUS2MOTORPLATE_GJS            MATERIAL:                               AL6061
-         9.79121e-02  1.24883e-01  1.08366e+00  6.78239e+00  1.08288e+00
+         9.79121e-02  8.03013e-02  1.08517e+00  6.71019e+00  1.07973e+00
         COLLECTOR_FULL_CHAIN_GJS            MATERIAL:                              UNKNOWN
          2.36512e-01  1.44572e+00  6.83007e+00  1.67633e+01 -1.10236e-03
         COLLECTOR_FULL_CHAIN_GJS            MATERIAL:                              UNKNOWN
