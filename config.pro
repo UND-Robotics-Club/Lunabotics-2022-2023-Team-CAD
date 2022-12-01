@@ -1,9 +1,9 @@
 ﻿animate_explode_states no
 datum_point_display no
 dim_background legacy
-display HIDDENVIS
+display SHADEWITHEDGES
 display_annotations no
-display_axes YES
+display_axes NO
 display_coord_sys no
 display_planes no
 enable_fsaa off
@@ -16,3 +16,10 @@ spin_surface_mesh no
 spin_with_orientation_center no
 tol_display no
 default_dec_places 3
+edge_display_quality normal
+hlr_adv_interference_check_asm yes
+sketcher_dimension_autolock yes
+sketcher_lock_modified_dims yes
+sketcher_auto_create_references no
+shade_quality 5
+intelligent_fastener_enabled yes

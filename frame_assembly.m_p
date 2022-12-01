@@ -1,0 +1,184 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY FRAME_ASSEMBLY
+
+VOLUME =  5.4288654e+01  INCH^3
+SURFACE AREA =  5.6810418e+02  INCH^2
+AVERAGE DENSITY =  9.8934361e-02 POUND / INCH^3
+MASS =  5.3710133e+00 POUND 
+CENTER OF GRAVITY with respect to _FRAME_ASSEMBLY coordinate frame:
+X   Y   Z     1.5973578e-01  6.5459820e+00 -1.2491259e+00  INCH
+
+INERTIA with respect to _FRAME_ASSEMBLY coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  6.5562909e+02 -5.4488789e+00 -6.7760874e+00
+Iyx Iyy Iyz -5.4488789e+00  6.2149225e+02  4.1975497e+01
+Izx Izy Izz -6.7760874e+00  4.1975497e+01  4.3928509e+02
+
+INERTIA at CENTER OF GRAVITY with respect to _FRAME_ASSEMBLY coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  4.1710133e+02  1.6720063e-01 -7.8477662e+00
+Iyx Iyy Iyz  1.6720063e-01  6.1297474e+02 -1.9419657e+00
+Izx Izy Izz -7.8477662e+00 -1.9419657e+00  2.0900077e+02
+
+PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3   2.0869598e+02  4.1739657e+02  6.1298428e+02
+
+ROTATION MATRIX from _FRAME_ASSEMBLY orientation to PRINCIPAL AXES:
+       0.03763        0.99929        0.00105
+       0.00478       -0.00123        0.99999
+       0.99928       -0.03762       -0.00483
+
+ROTATION ANGLES from _FRAME_ASSEMBLY orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -90.277          0.060        -87.844 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 6.2334565e+00  8.8154873e+00  1.0683082e+01  INCH
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _FRAME_ASSEMBLY coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+                         FRAME_L            MATERIAL:                               AL6061
+         9.75000e-02  1.23190e+00  6.85991e+00  7.29879e+00 -1.63994e+00
+                  FRAME_FR_PLATE            MATERIAL:                               AL6061
+         9.79121e-02  8.27730e-01  4.99926e-04  5.32072e+00  9.12190e+00
+                  FRAME_FR_PLATE            MATERIAL:                               AL6061
+         9.79121e-02  8.27730e-01  5.00074e-04  5.32072e+00 -1.31724e+01
+                         FRAME_R            MATERIAL:                               AL6061
+         9.79121e-02  1.23711e+00 -6.85891e+00  7.29879e+00 -1.63994e+00
+             FRAME_UPPER_BRACE_1            MATERIAL:                               AL6061
+         9.79121e-02  1.17572e-01  6.15967e+00  6.88432e+00  7.47195e+00
+             FRAME_UPPER_BRACE_1            MATERIAL:                               AL6061
+         9.79121e-02  1.17572e-01 -6.15867e+00  6.88432e+00 -1.15224e+01
+             FRAME_LOWER_BRACE_1            MATERIAL:                               AL6061
+         9.79121e-02  7.54585e-02  5.81116e+00  5.82266e+00  6.78656e+00
+             FRAME_LOWER_BRACE_1            MATERIAL:                               AL6061
+         9.79121e-02  7.54585e-02 -5.81016e+00  5.82266e+00 -1.08370e+01
+             FRAME_UPPER_BRACE_2            MATERIAL:                               AL6061
+         9.79121e-02  1.17572e-01 -6.15867e+00  6.88432e+00  7.47195e+00
+             FRAME_UPPER_BRACE_2            MATERIAL:                               AL6061
+         9.79121e-02  1.17572e-01  6.15967e+00  6.88432e+00 -1.15224e+01
+             FRAME_LOWER_BRACE_2            MATERIAL:                               AL6061
+         9.79121e-02  7.45524e-02  5.79721e+00  5.81725e+00 -1.08516e+01
+             FRAME_LOWER_BRACE_2            MATERIAL:                               AL6061
+         9.79121e-02  7.45524e-02 -5.79621e+00  5.81725e+00  6.80115e+00
+ 7815K19_MULTIPURPOSE_FLANGED_SL            MATERIAL:                                STEEL
+         2.82771e-01  1.54307e-02  6.90292e+00  7.33000e+00  3.49977e+00
+ 7815K19_MULTIPURPOSE_FLANGED_SL            MATERIAL:                                STEEL
+         2.82771e-01  1.54307e-02 -6.90192e+00  7.33000e+00  3.49977e+00
+                          113_06            MATERIAL:                                STEEL
+         2.82771e-01  1.31691e-02  7.14550e+00  7.33000e+00  3.49977e+00
+                     112_0518_18            MATERIAL:                                STEEL
+         2.82771e-01  7.02104e-02  6.50803e+00  7.32998e+00  3.49977e+00
+                          113_06            MATERIAL:                                STEEL
+         2.82771e-01  1.31691e-02 -7.14450e+00  7.33000e+00  3.49977e+00
+                     112_0518_18            MATERIAL:                                STEEL
+         2.82771e-01  7.02104e-02 -6.50703e+00  7.32998e+00  3.49976e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.23500e+00  6.38613e+00  9.12477e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.23500e+00  6.47500e+00  9.12477e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  4.88500e+00  6.38613e+00  9.12477e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  4.88500e+00  6.47500e+00  9.12477e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.23500e+00  6.38613e+00  6.74977e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.23500e+00  6.47500e+00  6.74977e+00
+                           WA005            MATERIAL:                                STEEL
+         2.82771e-01  1.70308e-03  6.23500e+00  6.18050e+00  6.74977e+00
+                          HMSN09            MATERIAL:                                STEEL
+         2.82771e-01  2.96416e-03  6.23500e+00  6.09100e+00  6.74977e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.23500e+00  6.38613e+00  6.01632e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.23500e+00  6.47500e+00  6.01632e+00
+                           WA005            MATERIAL:                                STEEL
+         2.82771e-01  1.70308e-03  6.23500e+00  6.18050e+00  6.01632e+00
+                          HMSN09            MATERIAL:                                STEEL
+         2.82771e-01  2.96416e-03  6.23500e+00  6.09100e+00  6.01632e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  5.01258e+00  6.38613e+00  6.74977e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  5.01258e+00  6.47500e+00  6.74977e+00
+                           WA005            MATERIAL:                                STEEL
+         2.82771e-01  1.70308e-03  5.01258e+00  6.18050e+00  6.74977e+00
+                          HMSN09            MATERIAL:                                STEEL
+         2.82771e-01  2.96416e-03  5.01258e+00  6.09100e+00  6.74977e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  4.45547e+00  5.00323e+00  7.06864e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  4.45547e+00  5.00323e+00  6.97977e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.86000e+00  6.00323e+00  7.06864e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.86000e+00  6.00323e+00  6.97977e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  4.45547e+00  6.00323e+00  7.06864e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  4.45547e+00  6.00323e+00  6.97977e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.86000e+00  5.00323e+00  7.06864e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.86000e+00  5.00323e+00  6.97977e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.86000e+00  6.27387e+00  6.54132e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.86000e+00  6.18500e+00  6.54132e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.86000e+00  6.27387e+00  5.64132e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.86000e+00  6.18500e+00  5.64132e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.86000e+00  6.00323e+00  9.10590e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.86000e+00  6.00323e+00  9.19477e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  4.45547e+00  6.00323e+00  9.10590e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  4.45547e+00  6.00323e+00  9.19477e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.86000e+00  5.00323e+00  9.10590e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.86000e+00  5.00323e+00  9.19477e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  4.45547e+00  5.00323e+00  9.10590e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  4.45547e+00  5.00323e+00  9.19477e+00
+                   HOPPER_SPACER            MATERIAL:                                NYLON
+         4.33577e-02  6.55411e-02 -6.14900e+00  7.33000e+00  3.49977e+00
+                   HOPPER_SPACER            MATERIAL:                                NYLON
+         4.33577e-02  6.55411e-02  6.15000e+00  7.33000e+00  3.49977e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.55387e+00  8.08000e+00  8.27121e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.46500e+00  8.08000e+00  8.27121e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.55387e+00  7.05500e+00  9.12477e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.46500e+00  7.05500e+00  9.12477e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.55387e+00  8.08000e+00  7.04799e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.46500e+00  8.08000e+00  7.04799e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.55387e+00  8.08000e+00  5.82477e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.46500e+00  8.08000e+00  5.82477e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.55387e+00  6.90500e+00  5.82477e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.46500e+00  6.90500e+00  5.82477e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.55387e+00  6.70500e+00  7.49977e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.46500e+00  6.70500e+00  7.49977e+00
+                         CSDD238            MATERIAL:                                STEEL
+         2.82771e-01  5.13412e-03  6.55387e+00  6.70500e+00  8.37477e+00
+                           WB022            MATERIAL:                                STEEL
+         2.82771e-01  9.35266e-04  6.46500e+00  6.70500e+00  8.37477e+00
