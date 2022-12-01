@@ -1,0 +1,28 @@
+﻿  MODEL FRAME_ASSEMBLY :
+ 
+
+  1 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 6
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 14 (HOLE_3, id = 3463) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 9 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY - circle closed.
+
