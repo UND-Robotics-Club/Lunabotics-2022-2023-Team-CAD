@@ -1,0 +1,2661 @@
+﻿!trail file version No. 2020
+!Creo  TM  9.0  (c) 2022 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 15848
+!	Application: Creo_Parametric
+!	Start date&time: 2022/12/01  20:16:28
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 9.0.0.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Users\16512\Desktop\Lunabotics-2022-2023-Team-CAD\traceback.log
+!end Exit Logger data.
+< 0 1.220741 1912 0 0 1030 1920 0 0 1080 13
+!mem_use INCREASE Blocks 905875, AppSize 12272315, SysSize 33055288
+< 0 1.052000 1052 0 0 1000 1920 0 0 1080 13
+< 0 1.055000 1055 0 0 1000 1920 0 0 1080 13
+< 0 1.055000 1055 0 0 1003 1920 0 0 1080 13
+< 0 1.055000 1055 0 0 1006 1920 0 0 1080 13
+< 0 0.950000 950 0 0 1006 1920 0 0 1080 13
+< 0 0.782222 1199 0 0 660 1920 0 0 1080 13
+< 0 0.782222 1174 0 0 660 1920 0 0 1080 13
+< 0 0.781037 1174 0 0 659 1920 0 0 1080 13
+< 0 1.000296 1662 0 0 844 1920 0 0 1080 13
+< 0 1.000296 1613 0 0 844 1920 0 0 1080 13
+!%CIWelcome to Creo Parametric Educational Edition 9.0.0.0.
+!AFX datecode: 9.0.0.0-rc.1 2021.12.09
+!AFX exec path: C:\Program Files\PTC\Creo 9.0.0.0\Common Files\afx\x86e_win64\afx90.dll
+!AFX text path: C:\Program Files\PTC\Creo 9.0.0.0\Common Files\afx\
+~ Close `pse_abnorm_exit_dlg` `pse_abnorm_exit_dlg`
+!mem_use INCREASE Blocks 977053, AppSize 42459543, SysSize 64664072
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1062 279 0 1 1613 844 1920 1080 29961
+** 0.755424 0.668246 0 1 1
+0.755424 0.563833 L 0 1.000296296 0
+~ Move `main_dlg_cur` `proe_win` 9 1062 278 0 1025 1613 844 1920 1080 29998
+~ Move `main_dlg_cur` `proe_win` 9 1061 278 0 513 1613 844 1920 1080 30003
+~ Move `main_dlg_cur` `proe_win` 9 1061 277 0 1025 1613 844 1920 1080 30010
+~ Move `main_dlg_cur` `proe_win` 9 1061 276 0 1025 1613 844 1920 1080 30017
+~ Move `main_dlg_cur` `proe_win` 9 1061 275 0 1025 1613 844 1920 1080 30023
+~ Move `main_dlg_cur` `proe_win` 9 1060 275 0 513 1613 844 1920 1080 30024
+~ Move `main_dlg_cur` `proe_win` 9 1060 274 0 1025 1613 844 1920 1080 30034
+~ Move `main_dlg_cur` `proe_win` 9 1059 274 0 513 1613 844 1920 1080 30035
+~ Move `main_dlg_cur` `proe_win` 9 1059 273 0 1025 1613 844 1920 1080 30040
+~ Move `main_dlg_cur` `proe_win` 9 1058 273 0 513 1613 844 1920 1080 30045
+~ Move `main_dlg_cur` `proe_win` 9 1058 272 0 1025 1613 844 1920 1080 30048
+~ Move `main_dlg_cur` `proe_win` 9 1057 271 0 1537 1613 844 1920 1080 30049
+~ Move `main_dlg_cur` `proe_win` 9 1056 270 0 1537 1613 844 1920 1080 30053
+~ Move `main_dlg_cur` `proe_win` 9 1055 269 0 1537 1613 844 1920 1080 30058
+~ Move `main_dlg_cur` `proe_win` 9 1054 268 0 1537 1613 844 1920 1080 30062
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1054 268 0 0 1613 844 1920 1080 30062
+~ Command `ProCmdSessionChangeDir` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `SAB_.|`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CISuccessfully changed to C:\Users\16512\Desktop\Lunabotics-2022-2023-Team-CAD directory.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `In Session`
+~ Activate `file_open` `mydocs_pb`
+~ Activate `file_open` `desktop_pb`
+~ Activate `file_open` `SAB_C:\\Users\\16512`
+~ Activate `file_open` `SAB_C:\\Users`
+~ LButtonArm `file_open` `tb_EMBED_BROWSER_TB_SAB_LAYOUT` 3 248 10 0
+~ LButtonDisarm `file_open` `tb_EMBED_BROWSER_TB_SAB_LAYOUT` 3 248 10 0
+~ LButtonActivate `file_open` `tb_EMBED_BROWSER_TB_SAB_LAYOUT` 3 248 10 0
+~ Activate `file_open` `bkw_browser_EMBED_BROWSER_TB_BFH_LAYOUT`
+~ Activate `file_open` `desktop_pb`
+~ Activate `file_open` `SAB_C:\\Users\\16512`
+~ Select `file_open` `Ph_list.Filelist` 1 `Downloads`
+~ Activate `file_open` `Ph_list.Filelist` 1 `Downloads`
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` 1 `db_-1`
+~ Select `file_open` `Ph_list.Filelist` 1 `60355K703_Ball Bearing.STEP`
+~ Command `ProFileSelPushOpen_Import@context_dlg_open_cmd` 
+!Command ProCmdModelImpCreateExe was pushed from the software.
+~ Input `impt_new_model` `InputPanel1` `H`
+~ Input `impt_new_model` `InputPanel1` `Ho`
+~ Input `impt_new_model` `InputPanel1` `Hop`
+~ Input `impt_new_model` `InputPanel1` `Hopp`
+~ Input `impt_new_model` `InputPanel1` `Hoppe`
+~ Input `impt_new_model` `InputPanel1` `Hopper`
+~ Input `impt_new_model` `InputPanel1` `Hopper_`
+~ Input `impt_new_model` `InputPanel1` `Hopper_B`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Ba`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Bac`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_P`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pi`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pip`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Piper`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe_`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe_B`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe_Be`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe_Bea`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe_Bear`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe_Beari`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe_Bearin`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Back_Pipe_Bearing`
+~ Update `impt_new_model` `InputPanel1` `Hopper_Back_Pipe_Bearing`
+~ Activate `impt_new_model` `PushButton3`
+@ ok
+!LIGHT_FIX_MODEL_RMODE is 51
+!Undo: added rec_id -1 type 5304 
+!%CIReading STEP data.
+!%CIReading 60355K703_Ball Bearing.step. Step 1:  5 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 1:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 2:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 3:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 4:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 5:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 6:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 7:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 8:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 9:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 10:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 11:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 12:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 13:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 14:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 15:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 16:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 17:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 18:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 19:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 20:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 21:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 22:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 23:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 24:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 25:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 26:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 27:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 28:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 29:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 30:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 31:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 32:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 33:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 34:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 35:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 36:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 37:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 38:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 39:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 40:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 41:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 42:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 43:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 44:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 45:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 46:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 47:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 48:  100 percent completed.
+!%CIReading 60355K703_Ball Bearing.step. Step 49:  100 percent completed.
+!%CIProcessing interface data.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 1:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 2:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 3:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 4:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 5:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 6:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 7:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 8:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 9:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 10:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 11:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 12:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 13:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 14:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 15:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 16:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 17:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 18:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 19:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 20:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 21:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 22:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 23:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 24:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 25:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 26:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 27:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 28:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 29:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 30:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 31:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 32:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 33:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 34:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 35:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 36:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 37:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 38:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 39:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 40:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 41:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 42:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 43:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 44:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 45:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 46:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 47:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 48:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 49:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 50:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 51:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 52:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 53:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 54:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 55:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 56:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 57:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 58:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 59:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 60:  100 percent completed.
+!%CIProcessing 60355K703_Ball Bearing.step. Step 61:  100 percent completed.
+!Undo: added rec_id 10 type 5304 
+!Undo: added rec_id -1 type 5304 
+!%CIProcessing interface data.
+!%CIProcessing . Step 62:  100 percent completed.
+!%CIProcessing . Step 63:  100 percent completed.
+!%CIProcessing . Step 64:  100 percent completed.
+!%CIProcessing . Step 65:  100 percent completed.
+!%CIProcessing . Step 66:  100 percent completed.
+!%CIProcessing . Step 67:  100 percent completed.
+!%CIProcessing . Step 68:  100 percent completed.
+!%CIProcessing . Step 69:  100 percent completed.
+!%CIProcessing . Step 70:  100 percent completed.
+!%CIProcessing . Step 71:  100 percent completed.
+!%CIProcessing . Step 72:  100 percent completed.
+!%CIProcessing . Step 73:  100 percent completed.
+!%CIProcessing . Step 74:  100 percent completed.
+!%CIProcessing . Step 75:  100 percent completed.
+!%CIProcessing . Step 76:  100 percent completed.
+!%CIProcessing . Step 77:  100 percent completed.
+!%CIProcessing . Step 78:  100 percent completed.
+!%CIProcessing . Step 79:  100 percent completed.
+!%CIProcessing . Step 80:  100 percent completed.
+!%CIProcessing . Step 81:  100 percent completed.
+!%CIProcessing . Step 82:  100 percent completed.
+!%CIProcessing . Step 83:  100 percent completed.
+!%CIProcessing . Step 84:  100 percent completed.
+!%CIProcessing . Step 85:  100 percent completed.
+!%CIProcessing . Step 86:  100 percent completed.
+!%CIProcessing . Step 87:  100 percent completed.
+!%CIProcessing . Step 88:  100 percent completed.
+!%CIProcessing . Step 89:  100 percent completed.
+!%CIProcessing . Step 90:  100 percent completed.
+!%CIProcessing . Step 91:  100 percent completed.
+!%CIProcessing . Step 92:  100 percent completed.
+!%CIProcessing . Step 93:  100 percent completed.
+!%CIProcessing . Step 94:  100 percent completed.
+!%CIProcessing . Step 95:  100 percent completed.
+!%CIProcessing . Step 96:  100 percent completed.
+!%CIProcessing . Step 97:  100 percent completed.
+!%CIProcessing . Step 98:  100 percent completed.
+!%CIProcessing . Step 99:  100 percent completed.
+!%CIProcessing . Step 100:  100 percent completed.
+!%CIProcessing . Step 101:  100 percent completed.
+!%CIProcessing . Step 102:  100 percent completed.
+!%CIProcessing . Step 103:  100 percent completed.
+!%CIProcessing . Step 104:  100 percent completed.
+!%CIProcessing . Step 105:  100 percent completed.
+!%CIProcessing . Step 106:  100 percent completed.
+!%CIProcessing . Step 107:  100 percent completed.
+!%CIProcessing . Step 108:  100 percent completed.
+!%CIProcessing . Step 109:  100 percent completed.
+!%CIProcessing . Step 110:  100 percent completed.
+!%CIProcessing . Step 111:  100 percent completed.
+!%CIProcessing . Step 112:  100 percent completed.
+!%CIProcessing . Step 113:  100 percent completed.
+!%CIProcessing . Step 114:  100 percent completed.
+!%CIProcessing . Step 115:  100 percent completed.
+!%CIProcessing . Step 116:  100 percent completed.
+!%CIProcessing . Step 117:  100 percent completed.
+!%CIProcessing . Step 118:  100 percent completed.
+!%CIProcessing . Step 119:  100 percent completed.
+!%CIProcessing . Step 120:  100 percent completed.
+!%CIProcessing . Step 121:  100 percent completed.
+!%CIProcessing . Step 122:  100 percent completed.
+!Undo: added rec_id 10 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing Revolve5_2_. Step 1:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 2:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 3:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 4:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 5:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 6:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 7:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 8:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 9:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 10:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 11:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 12:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 13:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 14:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 15:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 16:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 17:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 18:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 19:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 20:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 21:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 22:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 23:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 24:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 25:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 26:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 27:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 28:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 29:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 30:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 31:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 32:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 33:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 34:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 35:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 36:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 37:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 38:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 39:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 40:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 41:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 42:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 43:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 44:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 45:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 46:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 47:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 48:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 49:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 50:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 51:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 52:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 53:  100 percent completed.
+!%CIProcessing Revolve5_2_. Step 54:  100 percent completed.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing CirPattern1_4_. Step 1:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 2:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 3:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 4:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 5:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 6:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 7:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 8:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 9:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 10:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 11:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 12:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 13:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 14:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 15:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 16:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 17:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 18:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 19:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 20:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 21:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 22:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 23:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 24:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 25:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 26:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 27:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 28:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 29:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 30:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 31:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 32:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 33:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 34:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 35:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 36:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 37:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 38:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 39:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 40:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 41:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 42:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 43:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 44:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 45:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 46:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 47:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 48:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 49:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 50:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 51:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 52:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 53:  100 percent completed.
+!%CIProcessing CirPattern1_4_. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in CIRPATTERN1_4_. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing CirPattern1_8_. Step 1:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 2:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 3:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 4:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 5:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 6:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 7:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 8:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 9:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 10:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 11:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 12:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 13:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 14:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 15:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 16:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 17:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 18:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 19:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 20:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 21:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 22:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 23:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 24:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 25:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 26:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 27:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 28:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 29:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 30:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 31:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 32:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 33:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 34:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 35:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 36:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 37:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 38:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 39:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 40:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 41:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 42:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 43:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 44:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 45:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 46:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 47:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 48:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 49:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 50:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 51:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 52:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 53:  100 percent completed.
+!%CIProcessing CirPattern1_8_. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in CIRPATTERN1_8_. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing CirPattern1_5_. Step 1:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 2:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 3:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 4:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 5:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 6:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 7:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 8:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 9:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 10:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 11:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 12:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 13:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 14:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 15:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 16:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 17:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 18:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 19:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 20:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 21:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 22:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 23:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 24:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 25:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 26:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 27:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 28:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 29:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 30:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 31:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 32:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 33:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 34:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 35:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 36:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 37:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 38:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 39:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 40:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 41:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 42:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 43:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 44:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 45:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 46:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 47:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 48:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 49:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 50:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 51:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 52:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 53:  100 percent completed.
+!%CIProcessing CirPattern1_5_. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in CIRPATTERN1_5_. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing CirPattern1_7_. Step 1:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 2:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 3:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 4:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 5:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 6:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 7:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 8:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 9:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 10:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 11:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 12:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 13:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 14:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 15:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 16:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 17:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 18:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 19:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 20:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 21:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 22:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 23:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 24:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 25:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 26:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 27:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 28:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 29:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 30:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 31:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 32:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 33:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 34:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 35:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 36:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 37:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 38:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 39:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 40:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 41:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 42:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 43:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 44:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 45:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 46:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 47:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 48:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 49:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 50:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 51:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 52:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 53:  100 percent completed.
+!%CIProcessing CirPattern1_7_. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in CIRPATTERN1_7_. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing Revolve3. Step 1:  100 percent completed.
+!%CIProcessing Revolve3. Step 2:  100 percent completed.
+!%CIProcessing Revolve3. Step 3:  100 percent completed.
+!%CIProcessing Revolve3. Step 4:  100 percent completed.
+!%CIProcessing Revolve3. Step 5:  100 percent completed.
+!%CIProcessing Revolve3. Step 6:  100 percent completed.
+!%CIProcessing Revolve3. Step 7:  100 percent completed.
+!%CIProcessing Revolve3. Step 8:  100 percent completed.
+!%CIProcessing Revolve3. Step 9:  100 percent completed.
+!%CIProcessing Revolve3. Step 10:  100 percent completed.
+!%CIProcessing Revolve3. Step 11:  100 percent completed.
+!%CIProcessing Revolve3. Step 12:  100 percent completed.
+!%CIProcessing Revolve3. Step 13:  100 percent completed.
+!%CIProcessing Revolve3. Step 14:  100 percent completed.
+!%CIProcessing Revolve3. Step 15:  100 percent completed.
+!%CIProcessing Revolve3. Step 16:  100 percent completed.
+!%CIProcessing Revolve3. Step 17:  100 percent completed.
+!%CIProcessing Revolve3. Step 18:  100 percent completed.
+!%CIProcessing Revolve3. Step 19:  100 percent completed.
+!%CIProcessing Revolve3. Step 20:  100 percent completed.
+!%CIProcessing Revolve3. Step 21:  100 percent completed.
+!%CIProcessing Revolve3. Step 22:  100 percent completed.
+!%CIProcessing Revolve3. Step 23:  100 percent completed.
+!%CIProcessing Revolve3. Step 24:  100 percent completed.
+!%CIProcessing Revolve3. Step 25:  100 percent completed.
+!%CIProcessing Revolve3. Step 26:  100 percent completed.
+!%CIProcessing Revolve3. Step 27:  100 percent completed.
+!%CIProcessing Revolve3. Step 28:  100 percent completed.
+!%CIProcessing Revolve3. Step 29:  100 percent completed.
+!%CIProcessing Revolve3. Step 30:  100 percent completed.
+!%CIProcessing Revolve3. Step 31:  100 percent completed.
+!%CIProcessing Revolve3. Step 32:  100 percent completed.
+!%CIProcessing Revolve3. Step 33:  100 percent completed.
+!%CIProcessing Revolve3. Step 34:  100 percent completed.
+!%CIProcessing Revolve3. Step 35:  100 percent completed.
+!%CIProcessing Revolve3. Step 36:  100 percent completed.
+!%CIProcessing Revolve3. Step 37:  100 percent completed.
+!%CIProcessing Revolve3. Step 38:  100 percent completed.
+!%CIProcessing Revolve3. Step 39:  100 percent completed.
+!%CIProcessing Revolve3. Step 40:  100 percent completed.
+!%CIProcessing Revolve3. Step 41:  100 percent completed.
+!%CIProcessing Revolve3. Step 42:  100 percent completed.
+!%CIProcessing Revolve3. Step 43:  100 percent completed.
+!%CIProcessing Revolve3. Step 44:  100 percent completed.
+!%CIProcessing Revolve3. Step 45:  100 percent completed.
+!%CIProcessing Revolve3. Step 46:  100 percent completed.
+!%CIProcessing Revolve3. Step 47:  100 percent completed.
+!%CIProcessing Revolve3. Step 48:  100 percent completed.
+!%CIProcessing Revolve3. Step 49:  100 percent completed.
+!%CIProcessing Revolve3. Step 50:  100 percent completed.
+!%CIProcessing Revolve3. Step 51:  100 percent completed.
+!%CIProcessing Revolve3. Step 52:  100 percent completed.
+!%CIProcessing Revolve3. Step 53:  100 percent completed.
+!%CIProcessing Revolve3. Step 54:  100 percent completed.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing CirPattern1_6_. Step 1:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 2:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 3:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 4:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 5:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 6:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 7:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 8:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 9:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 10:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 11:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 12:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 13:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 14:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 15:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 16:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 17:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 18:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 19:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 20:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 21:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 22:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 23:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 24:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 25:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 26:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 27:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 28:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 29:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 30:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 31:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 32:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 33:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 34:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 35:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 36:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 37:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 38:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 39:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 40:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 41:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 42:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 43:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 44:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 45:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 46:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 47:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 48:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 49:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 50:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 51:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 52:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 53:  100 percent completed.
+!%CIProcessing CirPattern1_6_. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in CIRPATTERN1_6_. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing Revolve1. Step 1:  54 percent completed.
+!%CIProcessing Revolve1. Step 1:  100 percent completed.
+!%CIProcessing Revolve1. Step 2:  100 percent completed.
+!%CIProcessing Revolve1. Step 3:  100 percent completed.
+!%CIProcessing Revolve1. Step 4:  100 percent completed.
+!%CIProcessing Revolve1. Step 5:  100 percent completed.
+!%CIProcessing Revolve1. Step 6:  100 percent completed.
+!%CIProcessing Revolve1. Step 7:  100 percent completed.
+!%CIProcessing Revolve1. Step 8:  100 percent completed.
+!%CIProcessing Revolve1. Step 9:  100 percent completed.
+!%CIProcessing Revolve1. Step 10:  100 percent completed.
+!%CIProcessing Revolve1. Step 11:  100 percent completed.
+!%CIProcessing Revolve1. Step 12:  100 percent completed.
+!%CIProcessing Revolve1. Step 13:  100 percent completed.
+!%CIProcessing Revolve1. Step 14:  100 percent completed.
+!%CIProcessing Revolve1. Step 15:  100 percent completed.
+!%CIProcessing Revolve1. Step 16:  100 percent completed.
+!%CIProcessing Revolve1. Step 17:  100 percent completed.
+!%CIProcessing Revolve1. Step 18:  100 percent completed.
+!%CIProcessing Revolve1. Step 19:  100 percent completed.
+!%CIProcessing Revolve1. Step 20:  100 percent completed.
+!%CIProcessing Revolve1. Step 21:  100 percent completed.
+!%CIProcessing Revolve1. Step 22:  100 percent completed.
+!%CIProcessing Revolve1. Step 23:  100 percent completed.
+!%CIProcessing Revolve1. Step 24:  100 percent completed.
+!%CIProcessing Revolve1. Step 25:  100 percent completed.
+!%CIProcessing Revolve1. Step 26:  100 percent completed.
+!%CIProcessing Revolve1. Step 27:  100 percent completed.
+!%CIProcessing Revolve1. Step 28:  100 percent completed.
+!%CIProcessing Revolve1. Step 29:  100 percent completed.
+!%CIProcessing Revolve1. Step 30:  100 percent completed.
+!%CIProcessing Revolve1. Step 31:  100 percent completed.
+!%CIProcessing Revolve1. Step 32:  100 percent completed.
+!%CIProcessing Revolve1. Step 33:  100 percent completed.
+!%CIProcessing Revolve1. Step 34:  100 percent completed.
+!%CIProcessing Revolve1. Step 35:  100 percent completed.
+!%CIProcessing Revolve1. Step 36:  100 percent completed.
+!%CIProcessing Revolve1. Step 37:  100 percent completed.
+!%CIProcessing Revolve1. Step 38:  100 percent completed.
+!%CIProcessing Revolve1. Step 39:  100 percent completed.
+!%CIProcessing Revolve1. Step 40:  100 percent completed.
+!%CIProcessing Revolve1. Step 41:  100 percent completed.
+!%CIProcessing Revolve1. Step 42:  100 percent completed.
+!%CIProcessing Revolve1. Step 43:  100 percent completed.
+!%CIProcessing Revolve1. Step 44:  100 percent completed.
+!%CIProcessing Revolve1. Step 45:  100 percent completed.
+!%CIProcessing Revolve1. Step 46:  100 percent completed.
+!%CIProcessing Revolve1. Step 47:  100 percent completed.
+!%CIProcessing Revolve1. Step 48:  100 percent completed.
+!%CIProcessing Revolve1. Step 49:  100 percent completed.
+!%CIProcessing Revolve1. Step 50:  100 percent completed.
+!%CIProcessing Revolve1. Step 51:  100 percent completed.
+!%CIProcessing Revolve1. Step 52:  100 percent completed.
+!%CIProcessing Revolve1. Step 53:  100 percent completed.
+!%CIProcessing Revolve1. Step 54:  100 percent completed.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing CirPattern1_2_. Step 1:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 2:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 3:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 4:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 5:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 6:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 7:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 8:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 9:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 10:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 11:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 12:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 13:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 14:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 15:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 16:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 17:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 18:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 19:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 20:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 21:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 22:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 23:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 24:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 25:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 26:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 27:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 28:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 29:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 30:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 31:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 32:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 33:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 34:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 35:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 36:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 37:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 38:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 39:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 40:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 41:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 42:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 43:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 44:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 45:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 46:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 47:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 48:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 49:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 50:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 51:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 52:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 53:  100 percent completed.
+!%CIProcessing CirPattern1_2_. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in CIRPATTERN1_2_. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing Revolve5_1_. Step 1:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 2:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 3:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 4:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 5:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 6:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 7:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 8:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 9:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 10:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 11:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 12:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 13:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 14:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 15:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 16:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 17:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 18:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 19:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 20:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 21:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 22:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 23:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 24:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 25:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 26:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 27:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 28:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 29:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 30:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 31:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 32:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 33:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 34:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 35:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 36:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 37:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 38:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 39:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 40:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 41:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 42:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 43:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 44:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 45:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 46:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 47:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 48:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 49:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 50:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 51:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 52:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 53:  100 percent completed.
+!%CIProcessing Revolve5_1_. Step 54:  100 percent completed.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing CirPattern1_3_. Step 1:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 2:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 3:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 4:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 5:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 6:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 7:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 8:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 9:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 10:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 11:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 12:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 13:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 14:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 15:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 16:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 17:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 18:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 19:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 20:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 21:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 22:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 23:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 24:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 25:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 26:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 27:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 28:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 29:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 30:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 31:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 32:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 33:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 34:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 35:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 36:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 37:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 38:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 39:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 40:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 41:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 42:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 43:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 44:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 45:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 46:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 47:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 48:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 49:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 50:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 51:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 52:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 53:  100 percent completed.
+!%CIProcessing CirPattern1_3_. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in CIRPATTERN1_3_. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing CirPattern1_1_. Step 1:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 2:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 3:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 4:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 5:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 6:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 7:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 8:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 9:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 10:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 11:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 12:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 13:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 14:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 15:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 16:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 17:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 18:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 19:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 20:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 21:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 22:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 23:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 24:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 25:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 26:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 27:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 28:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 29:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 30:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 31:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 32:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 33:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 34:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 35:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 36:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 37:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 38:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 39:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 40:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 41:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 42:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 43:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 44:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 45:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 46:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 47:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 48:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 49:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 50:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 51:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 52:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 53:  100 percent completed.
+!%CIProcessing CirPattern1_1_. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in CIRPATTERN1_1_. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing Revolve4. Step 1:  100 percent completed.
+!%CIProcessing Revolve4. Step 2:  100 percent completed.
+!%CIProcessing Revolve4. Step 3:  100 percent completed.
+!%CIProcessing Revolve4. Step 4:  100 percent completed.
+!%CIProcessing Revolve4. Step 5:  100 percent completed.
+!%CIProcessing Revolve4. Step 6:  100 percent completed.
+!%CIProcessing Revolve4. Step 7:  100 percent completed.
+!%CIProcessing Revolve4. Step 8:  100 percent completed.
+!%CIProcessing Revolve4. Step 9:  100 percent completed.
+!%CIProcessing Revolve4. Step 10:  100 percent completed.
+!%CIProcessing Revolve4. Step 11:  100 percent completed.
+!%CIProcessing Revolve4. Step 12:  100 percent completed.
+!%CIProcessing Revolve4. Step 13:  100 percent completed.
+!%CIProcessing Revolve4. Step 14:  100 percent completed.
+!%CIProcessing Revolve4. Step 15:  100 percent completed.
+!%CIProcessing Revolve4. Step 16:  100 percent completed.
+!%CIProcessing Revolve4. Step 17:  100 percent completed.
+!%CIProcessing Revolve4. Step 18:  100 percent completed.
+!%CIProcessing Revolve4. Step 19:  100 percent completed.
+!%CIProcessing Revolve4. Step 20:  100 percent completed.
+!%CIProcessing Revolve4. Step 21:  100 percent completed.
+!%CIProcessing Revolve4. Step 22:  100 percent completed.
+!%CIProcessing Revolve4. Step 23:  100 percent completed.
+!%CIProcessing Revolve4. Step 24:  100 percent completed.
+!%CIProcessing Revolve4. Step 25:  100 percent completed.
+!%CIProcessing Revolve4. Step 26:  100 percent completed.
+!%CIProcessing Revolve4. Step 27:  100 percent completed.
+!%CIProcessing Revolve4. Step 28:  100 percent completed.
+!%CIProcessing Revolve4. Step 29:  100 percent completed.
+!%CIProcessing Revolve4. Step 30:  100 percent completed.
+!%CIProcessing Revolve4. Step 31:  100 percent completed.
+!%CIProcessing Revolve4. Step 32:  100 percent completed.
+!%CIProcessing Revolve4. Step 33:  100 percent completed.
+!%CIProcessing Revolve4. Step 34:  100 percent completed.
+!%CIProcessing Revolve4. Step 35:  100 percent completed.
+!%CIProcessing Revolve4. Step 36:  100 percent completed.
+!%CIProcessing Revolve4. Step 37:  100 percent completed.
+!%CIProcessing Revolve4. Step 38:  100 percent completed.
+!%CIProcessing Revolve4. Step 39:  100 percent completed.
+!%CIProcessing Revolve4. Step 40:  100 percent completed.
+!%CIProcessing Revolve4. Step 41:  100 percent completed.
+!%CIProcessing Revolve4. Step 42:  100 percent completed.
+!%CIProcessing Revolve4. Step 43:  100 percent completed.
+!%CIProcessing Revolve4. Step 44:  100 percent completed.
+!%CIProcessing Revolve4. Step 45:  100 percent completed.
+!%CIProcessing Revolve4. Step 46:  100 percent completed.
+!%CIProcessing Revolve4. Step 47:  100 percent completed.
+!%CIProcessing Revolve4. Step 48:  100 percent completed.
+!%CIProcessing Revolve4. Step 49:  100 percent completed.
+!%CIProcessing Revolve4. Step 50:  100 percent completed.
+!%CIProcessing Revolve4. Step 51:  100 percent completed.
+!%CIProcessing Revolve4. Step 52:  100 percent completed.
+!%CIProcessing Revolve4. Step 53:  100 percent completed.
+!%CIProcessing Revolve4. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in REVOLVE4. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIProcessing interface data.
+!%CIProcessing CirPattern1_9_. Step 1:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 2:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 3:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 4:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 5:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 6:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 7:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 8:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 9:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 10:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 11:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 12:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 13:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 14:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 15:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 16:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 17:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 18:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 19:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 20:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 21:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 22:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 23:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 24:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 25:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 26:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 27:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 28:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 29:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 30:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 31:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 32:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 33:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 34:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 35:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 36:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 37:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 38:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 39:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 40:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 41:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 42:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 43:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 44:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 45:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 46:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 47:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 48:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 49:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 50:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 51:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 52:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 53:  100 percent completed.
+!%CIProcessing CirPattern1_9_. Step 54:  100 percent completed.
+!%CPWarning: Design intent is unclear in CIRPATTERN1_9_. Use Geometry Checks command on the Tools Tab in Part mode for more information.
+!Undo: added rec_id 12 type 5304 
+!%CPSee the results of processing in 60355k703_ball_bearing.log
+!ProgressBarDlg: Regen Started
+< 0 1.000296 1602 0 0 844 1920 0 0 1080 13
+!ProgressBarDlg: Regen Completed
+@ oa_sel_filter_set _30_
+@ stack attr 2
+< 0 0.995556 1602 0 0 840 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Wheel `main_dlg_cur` `proe_win` 9 1059 406 393216 1536 1602 840 1920 1080 94291
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1148 399 0 2 1602 840 1920 1080 94888
+~ Move `main_dlg_cur` `proe_win` 9 1147 399 0 514 1602 840 1920 1080 94896
+~ Move `main_dlg_cur` `proe_win` 9 1146 399 0 514 1602 840 1920 1080 94906
+~ Move `main_dlg_cur` `proe_win` 9 1145 399 0 514 1602 840 1920 1080 94912
+~ Move `main_dlg_cur` `proe_win` 9 1144 399 0 514 1602 840 1920 1080 94918
+~ Move `main_dlg_cur` `proe_win` 9 1143 399 0 514 1602 840 1920 1080 94921
+~ Move `main_dlg_cur` `proe_win` 9 1142 399 0 514 1602 840 1920 1080 94924
+~ Move `main_dlg_cur` `proe_win` 9 1141 399 0 514 1602 840 1920 1080 94928
+~ Move `main_dlg_cur` `proe_win` 9 1130 399 0 514 1602 840 1920 1080 94961
+~ Move `main_dlg_cur` `proe_win` 9 1124 399 0 514 1602 840 1920 1080 94976
+~ Move `main_dlg_cur` `proe_win` 9 1118 399 0 514 1602 840 1920 1080 94993
+~ Move `main_dlg_cur` `proe_win` 9 1113 399 0 514 1602 840 1920 1080 95009
+~ Move `main_dlg_cur` `proe_win` 9 1109 399 0 514 1602 840 1920 1080 95026
+~ Move `main_dlg_cur` `proe_win` 9 1104 399 0 514 1602 840 1920 1080 95042
+~ Move `main_dlg_cur` `proe_win` 9 1100 400 0 1538 1602 840 1920 1080 95059
+~ Move `main_dlg_cur` `proe_win` 9 1097 400 0 514 1602 840 1920 1080 95076
+~ Move `main_dlg_cur` `proe_win` 9 1093 401 0 1538 1602 840 1920 1080 95092
+~ Move `main_dlg_cur` `proe_win` 9 1089 402 0 1538 1602 840 1920 1080 95109
+~ Move `main_dlg_cur` `proe_win` 9 1085 402 0 514 1602 840 1920 1080 95126
+~ Move `main_dlg_cur` `proe_win` 9 1082 404 0 1538 1602 840 1920 1080 95142
+~ Move `main_dlg_cur` `proe_win` 9 1080 405 0 1538 1602 840 1920 1080 95159
+~ Move `main_dlg_cur` `proe_win` 9 1078 406 0 1538 1602 840 1920 1080 95176
+~ Move `main_dlg_cur` `proe_win` 9 1077 407 0 1538 1602 840 1920 1080 95193
+~ Move `main_dlg_cur` `proe_win` 9 1075 407 0 514 1602 840 1920 1080 95210
+~ Move `main_dlg_cur` `proe_win` 9 1073 408 0 1538 1602 840 1920 1080 95226
+~ Move `main_dlg_cur` `proe_win` 9 1071 409 0 1538 1602 840 1920 1080 95242
+~ Move `main_dlg_cur` `proe_win` 9 1069 409 0 514 1602 840 1920 1080 95259
+~ Move `main_dlg_cur` `proe_win` 9 1067 410 0 1538 1602 840 1920 1080 95276
+~ Move `main_dlg_cur` `proe_win` 9 1063 410 0 514 1602 840 1920 1080 95292
+~ Move `main_dlg_cur` `proe_win` 9 1059 412 0 1538 1602 840 1920 1080 95309
+~ Move `main_dlg_cur` `proe_win` 9 1054 414 0 1538 1602 840 1920 1080 95326
+~ Move `main_dlg_cur` `proe_win` 9 1049 415 0 1538 1602 840 1920 1080 95343
+~ Move `main_dlg_cur` `proe_win` 9 1045 415 0 514 1602 840 1920 1080 95359
+~ Move `main_dlg_cur` `proe_win` 9 1040 416 0 1538 1602 840 1920 1080 95376
+~ Move `main_dlg_cur` `proe_win` 9 1036 417 0 1538 1602 840 1920 1080 95392
+~ Move `main_dlg_cur` `proe_win` 9 1033 417 0 514 1602 840 1920 1080 95409
+~ Move `main_dlg_cur` `proe_win` 9 1031 418 0 1538 1602 840 1920 1080 95426
+~ Move `main_dlg_cur` `proe_win` 9 1029 418 0 514 1602 840 1920 1080 95442
+~ Move `main_dlg_cur` `proe_win` 9 1026 418 0 514 1602 840 1920 1080 95459
+~ Move `main_dlg_cur` `proe_win` 9 1023 418 0 514 1602 840 1920 1080 95475
+~ Move `main_dlg_cur` `proe_win` 9 1020 418 0 514 1602 840 1920 1080 95492
+~ Move `main_dlg_cur` `proe_win` 9 1017 419 0 1538 1602 840 1920 1080 95509
+~ Move `main_dlg_cur` `proe_win` 9 1014 419 0 514 1602 840 1920 1080 95526
+~ Move `main_dlg_cur` `proe_win` 9 1011 419 0 514 1602 840 1920 1080 95542
+~ Move `main_dlg_cur` `proe_win` 9 1009 419 0 514 1602 840 1920 1080 95559
+~ Move `main_dlg_cur` `proe_win` 9 1007 420 0 1538 1602 840 1920 1080 95576
+~ Move `main_dlg_cur` `proe_win` 9 1004 421 0 1538 1602 840 1920 1080 95592
+~ Move `main_dlg_cur` `proe_win` 9 1001 422 0 1538 1602 840 1920 1080 95609
+~ Move `main_dlg_cur` `proe_win` 9 998 422 0 514 1602 840 1920 1080 95626
+~ Move `main_dlg_cur` `proe_win` 9 995 423 0 1538 1602 840 1920 1080 95642
+~ Move `main_dlg_cur` `proe_win` 9 993 424 0 1538 1602 840 1920 1080 95659
+~ Move `main_dlg_cur` `proe_win` 9 990 425 0 1538 1602 840 1920 1080 95676
+~ Move `main_dlg_cur` `proe_win` 9 987 426 0 1538 1602 840 1920 1080 95693
+~ Move `main_dlg_cur` `proe_win` 9 984 427 0 1538 1602 840 1920 1080 95709
+~ Move `main_dlg_cur` `proe_win` 9 981 428 0 1538 1602 840 1920 1080 95726
+~ Move `main_dlg_cur` `proe_win` 9 979 429 0 1538 1602 840 1920 1080 95742
+~ Move `main_dlg_cur` `proe_win` 9 977 430 0 1538 1602 840 1920 1080 95759
+~ Move `main_dlg_cur` `proe_win` 9 974 431 0 1538 1602 840 1920 1080 95775
+~ Move `main_dlg_cur` `proe_win` 9 970 432 0 1538 1602 840 1920 1080 95793
+~ Move `main_dlg_cur` `proe_win` 9 967 434 0 1538 1602 840 1920 1080 95809
+~ Move `main_dlg_cur` `proe_win` 9 965 435 0 1538 1602 840 1920 1080 95825
+~ Move `main_dlg_cur` `proe_win` 9 962 435 0 514 1602 840 1920 1080 95842
+~ Move `main_dlg_cur` `proe_win` 9 959 437 0 1538 1602 840 1920 1080 95859
+~ Move `main_dlg_cur` `proe_win` 9 955 439 0 1538 1602 840 1920 1080 95875
+~ Move `main_dlg_cur` `proe_win` 9 951 440 0 1538 1602 840 1920 1080 95892
+~ Move `main_dlg_cur` `proe_win` 9 948 442 0 1538 1602 840 1920 1080 95909
+~ Move `main_dlg_cur` `proe_win` 9 944 444 0 1538 1602 840 1920 1080 95926
+~ Move `main_dlg_cur` `proe_win` 9 941 445 0 1538 1602 840 1920 1080 95942
+~ Move `main_dlg_cur` `proe_win` 9 937 447 0 1538 1602 840 1920 1080 95959
+~ Move `main_dlg_cur` `proe_win` 9 935 449 0 1538 1602 840 1920 1080 95976
+~ Move `main_dlg_cur` `proe_win` 9 932 450 0 1538 1602 840 1920 1080 95993
+~ Move `main_dlg_cur` `proe_win` 9 931 452 0 1538 1602 840 1920 1080 96009
+~ Move `main_dlg_cur` `proe_win` 9 929 452 0 514 1602 840 1920 1080 96026
+~ Move `main_dlg_cur` `proe_win` 9 926 455 0 1538 1602 840 1920 1080 96042
+~ Move `main_dlg_cur` `proe_win` 9 922 458 0 1538 1602 840 1920 1080 96059
+~ Move `main_dlg_cur` `proe_win` 9 918 460 0 1538 1602 840 1920 1080 96076
+~ Move `main_dlg_cur` `proe_win` 9 914 463 0 1538 1602 840 1920 1080 96092
+~ Move `main_dlg_cur` `proe_win` 9 911 466 0 1538 1602 840 1920 1080 96108
+~ Move `main_dlg_cur` `proe_win` 9 908 468 0 1538 1602 840 1920 1080 96125
+~ Move `main_dlg_cur` `proe_win` 9 906 470 0 1538 1602 840 1920 1080 96142
+~ Move `main_dlg_cur` `proe_win` 9 903 472 0 1538 1602 840 1920 1080 96159
+~ Move `main_dlg_cur` `proe_win` 9 901 474 0 1538 1602 840 1920 1080 96175
+~ Move `main_dlg_cur` `proe_win` 9 899 476 0 1538 1602 840 1920 1080 96192
+~ Move `main_dlg_cur` `proe_win` 9 896 479 0 1538 1602 840 1920 1080 96209
+~ Move `main_dlg_cur` `proe_win` 9 895 481 0 1538 1602 840 1920 1080 96225
+~ Move `main_dlg_cur` `proe_win` 9 893 483 0 1538 1602 840 1920 1080 96242
+~ Move `main_dlg_cur` `proe_win` 9 892 484 0 1538 1602 840 1920 1080 96259
+~ Move `main_dlg_cur` `proe_win` 9 892 485 0 1026 1602 840 1920 1080 96275
+~ Move `main_dlg_cur` `proe_win` 9 891 486 0 1538 1602 840 1920 1080 96292
+~ Move `main_dlg_cur` `proe_win` 9 891 488 0 1026 1602 840 1920 1080 96309
+~ Move `main_dlg_cur` `proe_win` 9 891 489 0 1026 1602 840 1920 1080 96326
+~ Move `main_dlg_cur` `proe_win` 9 890 490 0 1538 1602 840 1920 1080 96343
+~ Move `main_dlg_cur` `proe_win` 9 890 493 0 1026 1602 840 1920 1080 96359
+~ Move `main_dlg_cur` `proe_win` 9 888 495 0 1538 1602 840 1920 1080 96376
+~ Move `main_dlg_cur` `proe_win` 9 887 499 0 1538 1602 840 1920 1080 96392
+~ Move `main_dlg_cur` `proe_win` 9 886 502 0 1538 1602 840 1920 1080 96409
+~ Move `main_dlg_cur` `proe_win` 9 884 506 0 1538 1602 840 1920 1080 96426
+~ Move `main_dlg_cur` `proe_win` 9 883 510 0 1538 1602 840 1920 1080 96443
+~ Move `main_dlg_cur` `proe_win` 9 882 513 0 1538 1602 840 1920 1080 96459
+~ Move `main_dlg_cur` `proe_win` 9 882 517 0 1026 1602 840 1920 1080 96476
+~ Move `main_dlg_cur` `proe_win` 9 882 521 0 1026 1602 840 1920 1080 96492
+~ Move `main_dlg_cur` `proe_win` 9 882 526 0 1026 1602 840 1920 1080 96509
+~ Move `main_dlg_cur` `proe_win` 9 882 528 0 1026 1602 840 1920 1080 96525
+~ Move `main_dlg_cur` `proe_win` 9 882 531 0 1026 1602 840 1920 1080 96542
+~ Move `main_dlg_cur` `proe_win` 9 882 534 0 1026 1602 840 1920 1080 96559
+~ Move `main_dlg_cur` `proe_win` 9 882 536 0 1026 1602 840 1920 1080 96575
+~ Move `main_dlg_cur` `proe_win` 9 882 537 0 1026 1602 840 1920 1080 96592
+~ Move `main_dlg_cur` `proe_win` 9 883 539 0 1538 1602 840 1920 1080 96609
+~ Move `main_dlg_cur` `proe_win` 9 883 540 0 1026 1602 840 1920 1080 96625
+~ Move `main_dlg_cur` `proe_win` 9 884 541 0 1538 1602 840 1920 1080 96642
+~ Move `main_dlg_cur` `proe_win` 9 885 542 0 1538 1602 840 1920 1080 96659
+~ Move `main_dlg_cur` `proe_win` 9 885 543 0 1026 1602 840 1920 1080 96676
+~ Move `main_dlg_cur` `proe_win` 9 886 544 0 1538 1602 840 1920 1080 96693
+~ Move `main_dlg_cur` `proe_win` 9 887 545 0 1538 1602 840 1920 1080 96709
+~ Move `main_dlg_cur` `proe_win` 9 889 547 0 1538 1602 840 1920 1080 96726
+~ Move `main_dlg_cur` `proe_win` 9 892 549 0 1538 1602 840 1920 1080 96742
+~ Move `main_dlg_cur` `proe_win` 9 896 551 0 1538 1602 840 1920 1080 96758
+~ Move `main_dlg_cur` `proe_win` 9 901 553 0 1538 1602 840 1920 1080 96776
+~ Move `main_dlg_cur` `proe_win` 9 906 554 0 1538 1602 840 1920 1080 96792
+~ Move `main_dlg_cur` `proe_win` 9 911 555 0 1538 1602 840 1920 1080 96809
+~ Move `main_dlg_cur` `proe_win` 9 917 555 0 514 1602 840 1920 1080 96825
+~ Move `main_dlg_cur` `proe_win` 9 923 556 0 1538 1602 840 1920 1080 96842
+~ Move `main_dlg_cur` `proe_win` 9 930 556 0 514 1602 840 1920 1080 96859
+~ Move `main_dlg_cur` `proe_win` 9 936 556 0 514 1602 840 1920 1080 96876
+~ Move `main_dlg_cur` `proe_win` 9 942 554 0 1538 1602 840 1920 1080 96892
+~ Move `main_dlg_cur` `proe_win` 9 947 553 0 1538 1602 840 1920 1080 96908
+~ Move `main_dlg_cur` `proe_win` 9 952 550 0 1538 1602 840 1920 1080 96925
+~ Move `main_dlg_cur` `proe_win` 9 956 548 0 1538 1602 840 1920 1080 96943
+~ Move `main_dlg_cur` `proe_win` 9 962 545 0 1538 1602 840 1920 1080 96959
+~ Move `main_dlg_cur` `proe_win` 9 967 541 0 1538 1602 840 1920 1080 96975
+~ Move `main_dlg_cur` `proe_win` 9 972 536 0 1538 1602 840 1920 1080 96992
+~ Move `main_dlg_cur` `proe_win` 9 977 531 0 1538 1602 840 1920 1080 97008
+~ Move `main_dlg_cur` `proe_win` 9 983 525 0 1538 1602 840 1920 1080 97025
+~ Move `main_dlg_cur` `proe_win` 9 988 519 0 1538 1602 840 1920 1080 97042
+~ Move `main_dlg_cur` `proe_win` 9 992 513 0 1538 1602 840 1920 1080 97059
+~ Move `main_dlg_cur` `proe_win` 9 997 506 0 1538 1602 840 1920 1080 97075
+~ Move `main_dlg_cur` `proe_win` 9 1002 499 0 1538 1602 840 1920 1080 97092
+~ Move `main_dlg_cur` `proe_win` 9 1008 494 0 1538 1602 840 1920 1080 97108
+~ Move `main_dlg_cur` `proe_win` 9 1013 488 0 1538 1602 840 1920 1080 97125
+~ Move `main_dlg_cur` `proe_win` 9 1018 483 0 1538 1602 840 1920 1080 97142
+~ Move `main_dlg_cur` `proe_win` 9 1024 478 0 1538 1602 840 1920 1080 97159
+~ Move `main_dlg_cur` `proe_win` 9 1031 472 0 1538 1602 840 1920 1080 97175
+~ Move `main_dlg_cur` `proe_win` 9 1040 467 0 1538 1602 840 1920 1080 97192
+~ Move `main_dlg_cur` `proe_win` 9 1049 463 0 1538 1602 840 1920 1080 97208
+~ Move `main_dlg_cur` `proe_win` 9 1059 459 0 1538 1602 840 1920 1080 97225
+~ Move `main_dlg_cur` `proe_win` 9 1070 456 0 1538 1602 840 1920 1080 97242
+~ Move `main_dlg_cur` `proe_win` 9 1083 453 0 1538 1602 840 1920 1080 97259
+~ Move `main_dlg_cur` `proe_win` 9 1097 450 0 1538 1602 840 1920 1080 97276
+~ Move `main_dlg_cur` `proe_win` 9 1113 448 0 1538 1602 840 1920 1080 97292
+~ Move `main_dlg_cur` `proe_win` 9 1134 446 0 1538 1602 840 1920 1080 97309
+~ Move `main_dlg_cur` `proe_win` 9 1155 445 0 1538 1602 840 1920 1080 97326
+~ Move `main_dlg_cur` `proe_win` 9 1175 443 0 1538 1602 840 1920 1080 97343
+~ Move `main_dlg_cur` `proe_win` 9 1192 441 0 1538 1602 840 1920 1080 97359
+~ Move `main_dlg_cur` `proe_win` 9 1203 440 0 1538 1602 840 1920 1080 97375
+~ Move `main_dlg_cur` `proe_win` 9 1211 439 0 1538 1602 840 1920 1080 97392
+~ Move `main_dlg_cur` `proe_win` 9 1216 439 0 514 1602 840 1920 1080 97408
+~ Move `main_dlg_cur` `proe_win` 9 1219 437 0 1538 1602 840 1920 1080 97425
+~ Move `main_dlg_cur` `proe_win` 9 1223 436 0 1538 1602 840 1920 1080 97442
+~ Move `main_dlg_cur` `proe_win` 9 1227 434 0 1538 1602 840 1920 1080 97459
+~ Move `main_dlg_cur` `proe_win` 9 1231 432 0 1538 1602 840 1920 1080 97475
+~ Move `main_dlg_cur` `proe_win` 9 1235 429 0 1538 1602 840 1920 1080 97492
+~ Move `main_dlg_cur` `proe_win` 9 1240 425 0 1538 1602 840 1920 1080 97509
+~ Move `main_dlg_cur` `proe_win` 9 1245 421 0 1538 1602 840 1920 1080 97525
+~ Move `main_dlg_cur` `proe_win` 9 1248 419 0 1538 1602 840 1920 1080 97542
+~ Move `main_dlg_cur` `proe_win` 9 1250 416 0 1538 1602 840 1920 1080 97559
+~ Move `main_dlg_cur` `proe_win` 9 1252 413 0 1538 1602 840 1920 1080 97575
+~ Move `main_dlg_cur` `proe_win` 9 1255 411 0 1538 1602 840 1920 1080 97592
+~ Move `main_dlg_cur` `proe_win` 9 1256 409 0 1538 1602 840 1920 1080 97609
+~ Move `main_dlg_cur` `proe_win` 9 1257 409 0 514 1602 840 1920 1080 97626
+~ Move `main_dlg_cur` `proe_win` 9 1258 409 0 514 1602 840 1920 1080 97642
+~ Move `main_dlg_cur` `proe_win` 9 1258 408 0 1026 1602 840 1920 1080 97659
+~ Move `main_dlg_cur` `proe_win` 9 1259 408 0 514 1602 840 1920 1080 97714
+~ Move `main_dlg_cur` `proe_win` 9 1260 409 0 1538 1602 840 1920 1080 97718
+~ Move `main_dlg_cur` `proe_win` 9 1261 411 0 1538 1602 840 1920 1080 97725
+~ Move `main_dlg_cur` `proe_win` 9 1268 421 0 1538 1602 840 1920 1080 97742
+~ Move `main_dlg_cur` `proe_win` 9 1276 432 0 1538 1602 840 1920 1080 97758
+~ Move `main_dlg_cur` `proe_win` 9 1281 438 0 1538 1602 840 1920 1080 97775
+~ Move `main_dlg_cur` `proe_win` 9 1284 442 0 1538 1602 840 1920 1080 97792
+~ Move `main_dlg_cur` `proe_win` 9 1286 445 0 1538 1602 840 1920 1080 97808
+~ Move `main_dlg_cur` `proe_win` 9 1287 446 0 1538 1602 840 1920 1080 97825
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1287 446 0 0 1602 840 1920 1080 97952
+~ Wheel `main_dlg_cur` `proe_win` 9 286 304 393216 0 1602 840 1920 1080 99483
+~ Wheel `main_dlg_cur` `proe_win` 9 285 304 393216 0 1602 840 1920 1080 99525
+~ Wheel `main_dlg_cur` `proe_win` 9 285 304 393216 0 1602 840 1920 1080 99565
+~ Wheel `main_dlg_cur` `proe_win` 9 337 299 458752 0 1602 840 1920 1080 99827
+~ Activate `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win|.mcs29658718_mp|select_a\
+ll_check` 1
+!%CIAxes will be displayed.
+!%CIDatum points will be displayed.
+!%CICoordinate Systems will be displayed.
+!%CIDatum planes will be displayed.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 865 376 0 2 1602 840 1920 1080 104266
+~ Move `main_dlg_cur` `proe_win` 9 866 376 0 514 1602 840 1920 1080 104287
+~ Move `main_dlg_cur` `proe_win` 9 867 376 0 514 1602 840 1920 1080 104297
+~ Move `main_dlg_cur` `proe_win` 9 868 376 0 514 1602 840 1920 1080 104302
+~ Move `main_dlg_cur` `proe_win` 9 869 376 0 514 1602 840 1920 1080 104308
+~ Move `main_dlg_cur` `proe_win` 9 870 376 0 514 1602 840 1920 1080 104310
+~ Move `main_dlg_cur` `proe_win` 9 871 376 0 514 1602 840 1920 1080 104315
+~ Move `main_dlg_cur` `proe_win` 9 872 376 0 514 1602 840 1920 1080 104320
+~ Move `main_dlg_cur` `proe_win` 9 904 374 0 1538 1602 840 1920 1080 104402
+~ Move `main_dlg_cur` `proe_win` 9 905 374 0 514 1602 840 1920 1080 104404
+~ Move `main_dlg_cur` `proe_win` 9 906 374 0 514 1602 840 1920 1080 104408
+~ Move `main_dlg_cur` `proe_win` 9 911 372 0 1538 1602 840 1920 1080 104425
+~ Move `main_dlg_cur` `proe_win` 9 914 372 0 514 1602 840 1920 1080 104441
+~ Move `main_dlg_cur` `proe_win` 9 918 371 0 1538 1602 840 1920 1080 104458
+~ Move `main_dlg_cur` `proe_win` 9 923 370 0 1538 1602 840 1920 1080 104475
+~ Move `main_dlg_cur` `proe_win` 9 926 369 0 1538 1602 840 1920 1080 104491
+~ Move `main_dlg_cur` `proe_win` 9 929 368 0 1538 1602 840 1920 1080 104508
+~ Move `main_dlg_cur` `proe_win` 9 931 368 0 514 1602 840 1920 1080 104525
+~ Move `main_dlg_cur` `proe_win` 9 932 367 0 1538 1602 840 1920 1080 104541
+~ Move `main_dlg_cur` `proe_win` 9 933 367 0 514 1602 840 1920 1080 104558
+~ Move `main_dlg_cur` `proe_win` 9 934 367 0 514 1602 840 1920 1080 104574
+~ Move `main_dlg_cur` `proe_win` 9 936 367 0 514 1602 840 1920 1080 104591
+~ Move `main_dlg_cur` `proe_win` 9 937 366 0 1538 1602 840 1920 1080 104608
+~ Move `main_dlg_cur` `proe_win` 9 939 366 0 514 1602 840 1920 1080 104625
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 939 366 0 0 1602 840 1920 1080 104724
+~ Wheel `main_dlg_cur` `proe_win` 9 939 366 458752 0 1602 840 1920 1080 104753
+~ Wheel `main_dlg_cur` `proe_win` 9 651 385 458752 0 1602 840 1920 1080 105261
+~ Wheel `main_dlg_cur` `proe_win` 9 650 385 458752 0 1602 840 1920 1080 105296
+~ Wheel `main_dlg_cur` `proe_win` 9 650 385 458752 0 1602 840 1920 1080 105325
+~ Wheel `main_dlg_cur` `proe_win` 9 928 367 393216 0 1602 840 1920 1080 106249
+~ Wheel `main_dlg_cur` `proe_win` 9 934 367 393216 0 1602 840 1920 1080 106265
+~ Wheel `main_dlg_cur` `proe_win` 9 938 365 393216 0 1602 840 1920 1080 106293
+~ Command `ProCmdDatumAxis` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Datum Axis
+!ODUI session started.
+!%CPSelect up to 2 references, such as plane, surface, edge or point to place axis.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 603 265 0 1 1602 840 1920 1080 110778
+~ Move `main_dlg_cur` `proe_win` 9 603 265 0 1 1602 840 1920 1080 110791
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 603 265 0 0 1602 840 1920 1080 110859
+@sel_pz_xyz 301.1160714286 577.5669642857 350.9720284598 588.9276123047 0.0000000000
+@ sel view 0
+ 418.939117 -88.553909 374.583126 113.978738 557.364108 4.289084
+ -367.645428 71.887093 428.174477 500.000000 421.875000 -1443.902084 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 2 [ 5 12] 2 141 -1 (2.2034921447 -0.1657301902) (-0.2587028979 0.3528159019 -0.0251051902)
+!Surf:F2(IMPORT FEATURE):REVOLVE1
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1073 399 0 2 1602 840 1920 1080 111515
+~ Move `main_dlg_cur` `proe_win` 9 1072 399 0 514 1602 840 1920 1080 111517
+~ Move `main_dlg_cur` `proe_win` 9 1071 399 0 514 1602 840 1920 1080 111522
+~ Move `main_dlg_cur` `proe_win` 9 1070 399 0 514 1602 840 1920 1080 111529
+~ Move `main_dlg_cur` `proe_win` 9 1069 399 0 514 1602 840 1920 1080 111534
+~ Move `main_dlg_cur` `proe_win` 9 1068 399 0 514 1602 840 1920 1080 111540
+~ Move `main_dlg_cur` `proe_win` 9 1067 399 0 514 1602 840 1920 1080 111543
+~ Move `main_dlg_cur` `proe_win` 9 1066 399 0 514 1602 840 1920 1080 111545
+~ Move `main_dlg_cur` `proe_win` 9 1059 399 0 514 1602 840 1920 1080 111565
+~ Move `main_dlg_cur` `proe_win` 9 1056 399 0 514 1602 840 1920 1080 111573
+~ Move `main_dlg_cur` `proe_win` 9 1051 399 0 514 1602 840 1920 1080 111590
+~ Move `main_dlg_cur` `proe_win` 9 1048 399 0 514 1602 840 1920 1080 111607
+~ Move `main_dlg_cur` `proe_win` 9 1045 399 0 514 1602 840 1920 1080 111624
+~ Move `main_dlg_cur` `proe_win` 9 1043 399 0 514 1602 840 1920 1080 111640
+~ Move `main_dlg_cur` `proe_win` 9 1041 399 0 514 1602 840 1920 1080 111657
+~ Move `main_dlg_cur` `proe_win` 9 1040 400 0 1538 1602 840 1920 1080 111674
+~ Move `main_dlg_cur` `proe_win` 9 1038 400 0 514 1602 840 1920 1080 111691
+~ Move `main_dlg_cur` `proe_win` 9 1037 400 0 514 1602 840 1920 1080 111707
+~ Move `main_dlg_cur` `proe_win` 9 1036 400 0 514 1602 840 1920 1080 111728
+~ Move `main_dlg_cur` `proe_win` 9 1035 400 0 514 1602 840 1920 1080 111749
+~ Move `main_dlg_cur` `proe_win` 9 1034 400 0 514 1602 840 1920 1080 111783
+~ Move `main_dlg_cur` `proe_win` 9 1033 400 0 514 1602 840 1920 1080 111792
+~ Move `main_dlg_cur` `proe_win` 9 1032 400 0 514 1602 840 1920 1080 111810
+~ Move `main_dlg_cur` `proe_win` 9 1031 400 0 514 1602 840 1920 1080 111828
+~ Move `main_dlg_cur` `proe_win` 9 1031 401 0 1026 1602 840 1920 1080 111832
+~ Move `main_dlg_cur` `proe_win` 9 1030 401 0 514 1602 840 1920 1080 111844
+~ Move `main_dlg_cur` `proe_win` 9 1029 401 0 514 1602 840 1920 1080 111857
+~ Move `main_dlg_cur` `proe_win` 9 1027 401 0 514 1602 840 1920 1080 111873
+~ Move `main_dlg_cur` `proe_win` 9 1025 402 0 1538 1602 840 1920 1080 111890
+~ Move `main_dlg_cur` `proe_win` 9 1023 402 0 514 1602 840 1920 1080 111907
+~ Move `main_dlg_cur` `proe_win` 9 1022 403 0 1538 1602 840 1920 1080 111923
+~ Move `main_dlg_cur` `proe_win` 9 1020 403 0 514 1602 840 1920 1080 111940
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1020 403 0 0 1602 840 1920 1080 112049
+~ Activate `Odui_Dlg_00` `stdbtn_1`
+!ODUI session finished.
+!F4(AA_1)
+!Undo: added rec_id 18 type 5304 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1178 384 0 1 1602 840 1920 1080 113469
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1178 384 0 0 1602 840 1920 1080 113563
+@sel_pz_xyz 878.6830357143 458.0357142857 1253.4204101562 402.1600341797 0.0000000000
+@ sel view 0
+ 543.708212 -114.202352 122.488775 120.384810 555.796960 -16.172008
+ -116.418104 41.374618 555.337072 500.000000 421.875000 -1443.902084 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Command `ProCmdDatumPlane` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Datum Plane
+!ODUI session started.
+!%CPSelect up to 3 references, such as plane, surface, edge or point to place plane.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 710 240 0 1 1602 840 1920 1080 125471
+~ Move `main_dlg_cur` `proe_win` 9 710 240 0 1 1602 840 1920 1080 125475
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 710 240 0 0 1602 840 1920 1080 125542
+@sel_pz_xyz 408.5937500000 602.6785714286 518.9059012277 628.1644984654 0.0000000000
+@ sel view 0
+ 543.708212 -114.202352 122.488775 120.384810 555.796960 -16.172008
+ -116.418104 41.374618 555.337072 500.000000 421.875000 -1443.902084 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 2 [ 5 12] 2 145 -1 (-0.0783463433 -0.0651556242) (0.0783463433 0.3582818758 0.1406250000)
+!Surf:F2(IMPORT FEATURE):REVOLVE1
+!%CPSelect up to 3 references, such as plane, surface, edge or point to place plane.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1056 275 0 2 1602 840 1920 1080 126051
+~ Move `main_dlg_cur` `proe_win` 9 1057 275 0 514 1602 840 1920 1080 126146
+~ Move `main_dlg_cur` `proe_win` 9 1058 275 0 514 1602 840 1920 1080 126152
+~ Move `main_dlg_cur` `proe_win` 9 1059 275 0 514 1602 840 1920 1080 126155
+~ Move `main_dlg_cur` `proe_win` 9 1060 275 0 514 1602 840 1920 1080 126158
+~ Move `main_dlg_cur` `proe_win` 9 1061 275 0 514 1602 840 1920 1080 126162
+~ Move `main_dlg_cur` `proe_win` 9 1062 275 0 514 1602 840 1920 1080 126165
+~ Move `main_dlg_cur` `proe_win` 9 1063 275 0 514 1602 840 1920 1080 126169
+~ Move `main_dlg_cur` `proe_win` 9 1064 275 0 514 1602 840 1920 1080 126172
+~ Move `main_dlg_cur` `proe_win` 9 1065 275 0 514 1602 840 1920 1080 126174
+~ Move `main_dlg_cur` `proe_win` 9 1070 276 0 1538 1602 840 1920 1080 126189
+~ Move `main_dlg_cur` `proe_win` 9 1076 276 0 514 1602 840 1920 1080 126206
+~ Move `main_dlg_cur` `proe_win` 9 1079 276 0 514 1602 840 1920 1080 126222
+~ Move `main_dlg_cur` `proe_win` 9 1082 276 0 514 1602 840 1920 1080 126238
+~ Move `main_dlg_cur` `proe_win` 9 1085 276 0 514 1602 840 1920 1080 126255
+~ Move `main_dlg_cur` `proe_win` 9 1087 276 0 514 1602 840 1920 1080 126272
+~ Move `main_dlg_cur` `proe_win` 9 1088 276 0 514 1602 840 1920 1080 126294
+~ Move `main_dlg_cur` `proe_win` 9 1089 276 0 514 1602 840 1920 1080 126311
+~ Move `main_dlg_cur` `proe_win` 9 1090 276 0 514 1602 840 1920 1080 126322
+~ Move `main_dlg_cur` `proe_win` 9 1092 276 0 514 1602 840 1920 1080 126339
+~ Move `main_dlg_cur` `proe_win` 9 1097 276 0 514 1602 840 1920 1080 126355
+~ Move `main_dlg_cur` `proe_win` 9 1101 277 0 1538 1602 840 1920 1080 126372
+~ Move `main_dlg_cur` `proe_win` 9 1104 277 0 514 1602 840 1920 1080 126389
+~ Move `main_dlg_cur` `proe_win` 9 1106 277 0 514 1602 840 1920 1080 126405
+~ Move `main_dlg_cur` `proe_win` 9 1107 277 0 514 1602 840 1920 1080 126425
+~ Move `main_dlg_cur` `proe_win` 9 1108 277 0 514 1602 840 1920 1080 126440
+~ Move `main_dlg_cur` `proe_win` 9 1109 277 0 514 1602 840 1920 1080 126456
+~ Move `main_dlg_cur` `proe_win` 9 1111 276 0 1538 1602 840 1920 1080 126472
+~ Move `main_dlg_cur` `proe_win` 9 1113 276 0 514 1602 840 1920 1080 126489
+~ Move `main_dlg_cur` `proe_win` 9 1114 276 0 514 1602 840 1920 1080 126506
+~ Move `main_dlg_cur` `proe_win` 9 1115 275 0 1538 1602 840 1920 1080 126522
+~ Move `main_dlg_cur` `proe_win` 9 1118 275 0 514 1602 840 1920 1080 126539
+~ Move `main_dlg_cur` `proe_win` 9 1122 274 0 1538 1602 840 1920 1080 126556
+~ Move `main_dlg_cur` `proe_win` 9 1125 274 0 514 1602 840 1920 1080 126572
+~ Move `main_dlg_cur` `proe_win` 9 1129 274 0 514 1602 840 1920 1080 126588
+~ Move `main_dlg_cur` `proe_win` 9 1131 274 0 514 1602 840 1920 1080 126605
+~ Move `main_dlg_cur` `proe_win` 9 1132 273 0 1538 1602 840 1920 1080 126621
+~ Move `main_dlg_cur` `proe_win` 9 1134 273 0 514 1602 840 1920 1080 126638
+~ Move `main_dlg_cur` `proe_win` 9 1136 273 0 514 1602 840 1920 1080 126655
+~ Move `main_dlg_cur` `proe_win` 9 1138 273 0 514 1602 840 1920 1080 126672
+~ Move `main_dlg_cur` `proe_win` 9 1139 273 0 514 1602 840 1920 1080 126688
+~ Move `main_dlg_cur` `proe_win` 9 1140 273 0 514 1602 840 1920 1080 126745
+~ Move `main_dlg_cur` `proe_win` 9 1140 272 0 1026 1602 840 1920 1080 126747
+~ Move `main_dlg_cur` `proe_win` 9 1140 271 0 1026 1602 840 1920 1080 126756
+~ Move `main_dlg_cur` `proe_win` 9 1141 270 0 1538 1602 840 1920 1080 126772
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1141 270 0 0 1602 840 1920 1080 126789
+~ Activate `Odui_Dlg_00` `stdbtn_1`
+!ODUI session finished.
+!F5(ADTM1)
+!Undo: added rec_id 21 type 5304 
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1046 338 0 2 1602 840 1920 1080 128560
+~ Move `main_dlg_cur` `proe_win` 9 1046 337 0 1026 1602 840 1920 1080 128567
+~ Move `main_dlg_cur` `proe_win` 9 1047 337 0 514 1602 840 1920 1080 128569
+~ Move `main_dlg_cur` `proe_win` 9 1047 336 0 1026 1602 840 1920 1080 128575
+~ Move `main_dlg_cur` `proe_win` 9 1048 336 0 514 1602 840 1920 1080 128578
+~ Move `main_dlg_cur` `proe_win` 9 1049 335 0 1538 1602 840 1920 1080 128580
+~ Move `main_dlg_cur` `proe_win` 9 1049 334 0 1026 1602 840 1920 1080 128586
+~ Move `main_dlg_cur` `proe_win` 9 1050 334 0 514 1602 840 1920 1080 128587
+~ Move `main_dlg_cur` `proe_win` 9 1051 334 0 514 1602 840 1920 1080 128596
+~ Move `main_dlg_cur` `proe_win` 9 1051 333 0 1026 1602 840 1920 1080 128597
+~ Move `main_dlg_cur` `proe_win` 9 1052 333 0 514 1602 840 1920 1080 128600
+~ Move `main_dlg_cur` `proe_win` 9 1052 332 0 1026 1602 840 1920 1080 128602
+~ Move `main_dlg_cur` `proe_win` 9 1053 332 0 514 1602 840 1920 1080 128603
+~ Move `main_dlg_cur` `proe_win` 9 1055 330 0 1538 1602 840 1920 1080 128616
+~ Move `main_dlg_cur` `proe_win` 9 1057 329 0 1538 1602 840 1920 1080 128621
+~ Move `main_dlg_cur` `proe_win` 9 1064 328 0 1538 1602 840 1920 1080 128638
+~ Move `main_dlg_cur` `proe_win` 9 1073 325 0 1538 1602 840 1920 1080 128655
+~ Move `main_dlg_cur` `proe_win` 9 1083 324 0 1538 1602 840 1920 1080 128671
+~ Move `main_dlg_cur` `proe_win` 9 1096 321 0 1538 1602 840 1920 1080 128688
+~ Move `main_dlg_cur` `proe_win` 9 1107 318 0 1538 1602 840 1920 1080 128705
+~ Move `main_dlg_cur` `proe_win` 9 1114 316 0 1538 1602 840 1920 1080 128722
+~ Move `main_dlg_cur` `proe_win` 9 1119 316 0 514 1602 840 1920 1080 128739
+~ Move `main_dlg_cur` `proe_win` 9 1123 315 0 1538 1602 840 1920 1080 128756
+~ Move `main_dlg_cur` `proe_win` 9 1127 314 0 1538 1602 840 1920 1080 128772
+~ Move `main_dlg_cur` `proe_win` 9 1134 312 0 1538 1602 840 1920 1080 128789
+~ Move `main_dlg_cur` `proe_win` 9 1139 311 0 1538 1602 840 1920 1080 128805
+~ Move `main_dlg_cur` `proe_win` 9 1143 309 0 1538 1602 840 1920 1080 128822
+~ Move `main_dlg_cur` `proe_win` 9 1150 308 0 1538 1602 840 1920 1080 128839
+~ Move `main_dlg_cur` `proe_win` 9 1156 307 0 1538 1602 840 1920 1080 128855
+~ Move `main_dlg_cur` `proe_win` 9 1163 305 0 1538 1602 840 1920 1080 128872
+~ Move `main_dlg_cur` `proe_win` 9 1170 304 0 1538 1602 840 1920 1080 128889
+~ Move `main_dlg_cur` `proe_win` 9 1176 303 0 1538 1602 840 1920 1080 128906
+~ Move `main_dlg_cur` `proe_win` 9 1180 302 0 1538 1602 840 1920 1080 128921
+~ Move `main_dlg_cur` `proe_win` 9 1184 302 0 514 1602 840 1920 1080 128938
+~ Move `main_dlg_cur` `proe_win` 9 1188 301 0 1538 1602 840 1920 1080 128955
+~ Move `main_dlg_cur` `proe_win` 9 1191 300 0 1538 1602 840 1920 1080 128971
+~ Move `main_dlg_cur` `proe_win` 9 1192 300 0 514 1602 840 1920 1080 128988
+~ Move `main_dlg_cur` `proe_win` 9 1193 300 0 514 1602 840 1920 1080 129027
+~ Move `main_dlg_cur` `proe_win` 9 1194 300 0 514 1602 840 1920 1080 129032
+~ Move `main_dlg_cur` `proe_win` 9 1195 300 0 514 1602 840 1920 1080 129041
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1195 300 0 0 1602 840 1920 1080 129056
+~ Command `ProCmdDatumPlane` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Datum Plane
+!ODUI session started.
+!%CPSelect up to 3 references, such as plane, surface, edge or point to place plane.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 700 249 0 1 1602 840 1920 1080 132411
+~ Move `main_dlg_cur` `proe_win` 9 700 249 0 1 1602 840 1920 1080 132422
+~ Move `main_dlg_cur` `proe_win` 9 700 248 0 1025 1602 840 1920 1080 132430
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 700 248 0 0 1602 840 1920 1080 132501
+@sel_pz_xyz 398.5491071429 593.6383928571 503.2111467634 614.0392194475 0.0000000000
+@ sel view 0
+ -425.441139 -63.241049 361.038622 -87.937457 554.593100 -6.478981
+ -355.830466 -61.445449 -430.066990 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 2 [ 5 12] 3 132 -1 (0.6553796347 0.0000000000) (-0.1586432519 0.2991312626 -0.1406250000)
+!Edge:F2(IMPORT FEATURE):REVOLVE1
+!%CPSelect up to 3 references, such as plane, surface, edge or point to place plane.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 710 246 0 1 1602 840 1920 1080 133238
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 710 246 0 0 1602 840 1920 1080 133314
+@sel_pz_xyz 408.5937500000 596.6517857143 518.9059012277 618.7476457868 0.0000000000
+@ sel view 0
+ -425.441139 -63.241049 361.038622 -87.937457 554.593100 -6.478981
+ -355.830466 -61.445449 -430.066990 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 2 [ 5 12] 2 144 -1 (-0.2113187887 -0.1036017461) (-0.2113187887 0.3198357539 -0.1406250000)
+!Surf:F2(IMPORT FEATURE):REVOLVE1
+!%CPSelect up to 3 references, such as plane, surface, edge or point to place plane.
+~ Activate `Odui_Dlg_00` `stdbtn_1`
+!ODUI session finished.
+!F6(ADTM2)
+!Undo: added rec_id 25 type 5304 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1107 336 0 1 1602 840 1920 1080 135216
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1107 336 0 0 1602 840 1920 1080 135296
+@sel_pz_xyz 807.3660714286 506.2500000000 1141.9876534598 477.4948556083 0.0000000000
+@ sel view 0
+ -425.441139 -63.241049 361.038622 -87.937457 554.593100 -6.478981
+ -355.830466 -61.445449 -430.066990 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1111 347 0 2 1602 840 1920 1080 135606
+~ Move `main_dlg_cur` `proe_win` 9 1110 347 0 514 1602 840 1920 1080 135607
+~ Move `main_dlg_cur` `proe_win` 9 1109 347 0 514 1602 840 1920 1080 135610
+~ Move `main_dlg_cur` `proe_win` 9 1108 347 0 514 1602 840 1920 1080 135613
+~ Move `main_dlg_cur` `proe_win` 9 1107 347 0 514 1602 840 1920 1080 135617
+~ Move `main_dlg_cur` `proe_win` 9 1106 347 0 514 1602 840 1920 1080 135620
+~ Move `main_dlg_cur` `proe_win` 9 1105 347 0 514 1602 840 1920 1080 135622
+~ Move `main_dlg_cur` `proe_win` 9 1104 347 0 514 1602 840 1920 1080 135626
+~ Move `main_dlg_cur` `proe_win` 9 1096 349 0 1538 1602 840 1920 1080 135652
+~ Move `main_dlg_cur` `proe_win` 9 1094 349 0 514 1602 840 1920 1080 135654
+~ Move `main_dlg_cur` `proe_win` 9 1089 349 0 514 1602 840 1920 1080 135671
+~ Move `main_dlg_cur` `proe_win` 9 1085 350 0 1538 1602 840 1920 1080 135687
+~ Move `main_dlg_cur` `proe_win` 9 1083 350 0 514 1602 840 1920 1080 135704
+~ Move `main_dlg_cur` `proe_win` 9 1081 350 0 514 1602 840 1920 1080 135721
+~ Move `main_dlg_cur` `proe_win` 9 1079 351 0 1538 1602 840 1920 1080 135738
+~ Move `main_dlg_cur` `proe_win` 9 1077 351 0 514 1602 840 1920 1080 135754
+~ Move `main_dlg_cur` `proe_win` 9 1075 351 0 514 1602 840 1920 1080 135771
+~ Move `main_dlg_cur` `proe_win` 9 1072 351 0 514 1602 840 1920 1080 135788
+~ Move `main_dlg_cur` `proe_win` 9 1067 351 0 514 1602 840 1920 1080 135804
+~ Move `main_dlg_cur` `proe_win` 9 1062 351 0 514 1602 840 1920 1080 135821
+~ Move `main_dlg_cur` `proe_win` 9 1058 351 0 514 1602 840 1920 1080 135838
+~ Move `main_dlg_cur` `proe_win` 9 1055 351 0 514 1602 840 1920 1080 135855
+~ Move `main_dlg_cur` `proe_win` 9 1052 352 0 1538 1602 840 1920 1080 135871
+~ Move `main_dlg_cur` `proe_win` 9 1048 352 0 514 1602 840 1920 1080 135888
+~ Move `main_dlg_cur` `proe_win` 9 1044 352 0 514 1602 840 1920 1080 135905
+~ Move `main_dlg_cur` `proe_win` 9 1040 352 0 514 1602 840 1920 1080 135921
+~ Move `main_dlg_cur` `proe_win` 9 1038 353 0 1538 1602 840 1920 1080 135937
+~ Move `main_dlg_cur` `proe_win` 9 1034 353 0 514 1602 840 1920 1080 135954
+~ Move `main_dlg_cur` `proe_win` 9 1030 353 0 514 1602 840 1920 1080 135971
+~ Move `main_dlg_cur` `proe_win` 9 1025 354 0 1538 1602 840 1920 1080 135987
+~ Move `main_dlg_cur` `proe_win` 9 1019 356 0 1538 1602 840 1920 1080 136004
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1019 356 0 0 1602 840 1920 1080 136021
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Activate `file_saveas` `desktop_pb`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Activate `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `Cancel`
+!%CENo object was copied.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 249 280 0 1 1602 840 1920 1080 238767
+~ Move `main_dlg_cur` `proe_win` 9 249 281 0 1025 1602 840 1920 1080 238821
+~ Move `main_dlg_cur` `proe_win` 9 249 282 0 1025 1602 840 1920 1080 238828
+~ Move `main_dlg_cur` `proe_win` 9 249 283 0 1025 1602 840 1920 1080 238830
+~ Move `main_dlg_cur` `proe_win` 9 249 284 0 1025 1602 840 1920 1080 238838
+~ Move `main_dlg_cur` `proe_win` 9 249 285 0 1025 1602 840 1920 1080 238842
+~ Move `main_dlg_cur` `proe_win` 9 250 285 0 513 1602 840 1920 1080 238845
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 250 285 0 0 1602 840 1920 1080 238845
+@sel_pz_xyz -54.4642857143 562.5000000000 -204.6222795759 565.3854806083 0.0000000000
+@ sel view 0
+ 0.538986 -10.711831 561.456540 -45.978325 559.570867 10.719994
+ -559.673282 -45.980227 -0.339967 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Activate `file_saveas` `SAB_.|`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `Cancel`
+!%CENo object was copied.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 970 511 0 1 1602 840 1920 1080 256246
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 970 511 0 0 1602 840 1920 1080 256358
+@sel_pz_xyz 669.7544642857 330.4687500000 926.9695172991 202.8366524833 0.0000000000
+@ sel view 0
+ 0.538986 -10.711831 561.456540 -45.978325 559.570867 10.719994
+ -559.673282 -45.980227 -0.339967 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ MButtonArm `main_dlg_cur` `proe_win` 9 943 497 0 2 1602 840 1920 1080 257277
+~ Move `main_dlg_cur` `proe_win` 9 942 497 0 514 1602 840 1920 1080 257277
+~ Move `main_dlg_cur` `proe_win` 9 941 497 0 514 1602 840 1920 1080 257282
+~ Move `main_dlg_cur` `proe_win` 9 940 497 0 514 1602 840 1920 1080 257287
+~ Move `main_dlg_cur` `proe_win` 9 939 497 0 514 1602 840 1920 1080 257290
+~ Move `main_dlg_cur` `proe_win` 9 938 497 0 514 1602 840 1920 1080 257294
+~ Move `main_dlg_cur` `proe_win` 9 937 497 0 514 1602 840 1920 1080 257299
+~ Move `main_dlg_cur` `proe_win` 9 936 497 0 514 1602 840 1920 1080 257303
+~ Move `main_dlg_cur` `proe_win` 9 932 497 0 514 1602 840 1920 1080 257317
+~ Move `main_dlg_cur` `proe_win` 9 929 497 0 514 1602 840 1920 1080 257323
+~ Move `main_dlg_cur` `proe_win` 9 924 498 0 1538 1602 840 1920 1080 257340
+~ Move `main_dlg_cur` `proe_win` 9 920 498 0 514 1602 840 1920 1080 257357
+~ Move `main_dlg_cur` `proe_win` 9 917 498 0 514 1602 840 1920 1080 257373
+~ Move `main_dlg_cur` `proe_win` 9 914 498 0 514 1602 840 1920 1080 257390
+~ Move `main_dlg_cur` `proe_win` 9 911 498 0 514 1602 840 1920 1080 257407
+~ Move `main_dlg_cur` `proe_win` 9 908 498 0 514 1602 840 1920 1080 257423
+~ Move `main_dlg_cur` `proe_win` 9 905 499 0 1538 1602 840 1920 1080 257440
+~ Move `main_dlg_cur` `proe_win` 9 902 499 0 514 1602 840 1920 1080 257457
+~ Move `main_dlg_cur` `proe_win` 9 901 499 0 514 1602 840 1920 1080 257475
+~ Move `main_dlg_cur` `proe_win` 9 898 499 0 514 1602 840 1920 1080 257490
+~ Move `main_dlg_cur` `proe_win` 9 897 499 0 514 1602 840 1920 1080 257506
+~ Move `main_dlg_cur` `proe_win` 9 894 499 0 514 1602 840 1920 1080 257523
+~ Move `main_dlg_cur` `proe_win` 9 892 499 0 514 1602 840 1920 1080 257539
+~ Move `main_dlg_cur` `proe_win` 9 891 499 0 514 1602 840 1920 1080 257563
+~ Move `main_dlg_cur` `proe_win` 9 890 499 0 514 1602 840 1920 1080 257578
+~ Move `main_dlg_cur` `proe_win` 9 889 499 0 514 1602 840 1920 1080 257589
+~ Move `main_dlg_cur` `proe_win` 9 888 499 0 514 1602 840 1920 1080 257606
+~ Move `main_dlg_cur` `proe_win` 9 887 500 0 1538 1602 840 1920 1080 257623
+~ Move `main_dlg_cur` `proe_win` 9 885 500 0 514 1602 840 1920 1080 257640
+~ Move `main_dlg_cur` `proe_win` 9 883 500 0 514 1602 840 1920 1080 257656
+~ Move `main_dlg_cur` `proe_win` 9 881 500 0 514 1602 840 1920 1080 257673
+~ Move `main_dlg_cur` `proe_win` 9 879 501 0 1538 1602 840 1920 1080 257690
+~ Move `main_dlg_cur` `proe_win` 9 876 501 0 514 1602 840 1920 1080 257707
+~ Move `main_dlg_cur` `proe_win` 9 873 501 0 514 1602 840 1920 1080 257723
+~ Move `main_dlg_cur` `proe_win` 9 870 501 0 514 1602 840 1920 1080 257740
+~ Move `main_dlg_cur` `proe_win` 9 866 500 0 1538 1602 840 1920 1080 257757
+~ Move `main_dlg_cur` `proe_win` 9 862 500 0 514 1602 840 1920 1080 257773
+~ Move `main_dlg_cur` `proe_win` 9 859 500 0 514 1602 840 1920 1080 257790
+~ Move `main_dlg_cur` `proe_win` 9 856 500 0 514 1602 840 1920 1080 257807
+~ Move `main_dlg_cur` `proe_win` 9 852 499 0 1538 1602 840 1920 1080 257823
+~ Move `main_dlg_cur` `proe_win` 9 850 499 0 514 1602 840 1920 1080 257840
+~ Move `main_dlg_cur` `proe_win` 9 847 499 0 514 1602 840 1920 1080 257856
+~ Move `main_dlg_cur` `proe_win` 9 845 499 0 514 1602 840 1920 1080 257873
+~ Move `main_dlg_cur` `proe_win` 9 843 499 0 514 1602 840 1920 1080 257889
+~ Move `main_dlg_cur` `proe_win` 9 842 499 0 514 1602 840 1920 1080 257906
+~ Move `main_dlg_cur` `proe_win` 9 840 499 0 514 1602 840 1920 1080 257923
+~ Move `main_dlg_cur` `proe_win` 9 840 498 0 1026 1602 840 1920 1080 257940
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 840 498 0 0 1602 840 1920 1080 257956
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Activate `file_saveas` `Cancel`
+!%CENo object was copied.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1339 451 0 1 1602 840 1920 1080 345159
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1339 451 0 0 1602 840 1920 1080 345256
+@sel_pz_xyz 1040.4017857143 390.7366071429 1506.1059570312 297.0051792690 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1088 472 0 1 1602 840 1920 1080 365488
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1088 472 0 0 1602 840 1920 1080 365567
+@sel_pz_xyz 788.2812500000 369.6428571429 1112.1676199777 264.0461948940 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Activate `file_saveas` `SAB_..|`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Input `file_saveas` `Inputname` `HOPPER_BACK_PIPE_BEARING`
+~ Update `file_saveas` `Inputname` `HOPPER_BACK_PIPE_BEARING`
+~ Activate `file_saveas` `OK`
+!%CEAn object with that name exists in session.  Choose a different name.
+~ Input `file_saveas` `Inputname` `HOPPER_BACK_PIPE_BEARING_`
+~ Input `file_saveas` `Inputname` `HOPPER_BACK_PIPE_BEARING_60355K703`
+~ Update `file_saveas` `Inputname` `HOPPER_BACK_PIPE_BEARING_60355K703`
+~ Activate `file_saveas` `OK`
+!%CEInvalid Name.  Filename is too long.
+~ Input `file_saveas` `Inputname` `HOPPER_BACK_PIP_BEARING_60355K703`
+~ Input `file_saveas` `Inputname` `HOPPER_BACK_PI_BEARING_60355K703`
+~ Input `file_saveas` `Inputname` `HOPPER_BACK_P_BEARING_60355K703`
+~ Input `file_saveas` `Inputname` `HOPPER_BACK__BEARING_60355K703`
+~ Input `file_saveas` `Inputname` `HOPPER_BACK_BEARING_60355K703`
+~ Update `file_saveas` `Inputname` `HOPPER_BACK_BEARING_60355K703`
+~ Activate `file_saveas` `OK`
+!%CPSelect parts or sub-assemblies to copy.
+~ Wheel `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 120 314 458752 0 421 518 1920 1080 431678
+~ Wheel `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 120 314 458752 0 421 518 1920 1080 431730
+~ Wheel `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 146 294 393216 0 421 518 1920 1080 431981
+~ Wheel `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 148 293 393216 0 421 518 1920 1080 432036
+~ MButtonArm `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 169 275 0 2 421 518 1920 1080 432440
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 169 274 0 1026 421 518 1920 1080 432502
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 169 273 0 1026 421 518 1920 1080 432511
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 169 272 0 1026 421 518 1920 1080 432515
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 170 272 0 514 421 518 1920 1080 432520
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 170 271 0 1026 421 518 1920 1080 432525
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 170 270 0 1026 421 518 1920 1080 432532
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 170 269 0 1026 421 518 1920 1080 432540
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 171 266 0 1538 421 518 1920 1080 432552
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 174 261 0 1538 421 518 1920 1080 432569
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 176 255 0 1538 421 518 1920 1080 432586
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 179 250 0 1538 421 518 1920 1080 432602
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 182 245 0 1538 421 518 1920 1080 432619
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 185 239 0 1538 421 518 1920 1080 432636
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 188 235 0 1538 421 518 1920 1080 432652
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 191 230 0 1538 421 518 1920 1080 432669
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 192 227 0 1538 421 518 1920 1080 432686
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 194 225 0 1538 421 518 1920 1080 432703
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 195 224 0 1538 421 518 1920 1080 432719
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 196 222 0 1538 421 518 1920 1080 432736
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 197 221 0 1538 421 518 1920 1080 432753
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 198 220 0 1538 421 518 1920 1080 432770
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 198 219 0 1026 421 518 1920 1080 432788
+~ Move `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 199 218 0 1538 421 518 1920 1080 432803
+~ MButtonDisarm `assyrename` `PHGenEdtTool.PHPreview.DisplayArea` 9 199 218 0 0 421 518 1920 1080 432819
+~ Activate `assyrename` `CancelBtn`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1160 466 0 1 1602 840 1920 1080 434561
+~ Move `main_dlg_cur` `proe_win` 9 1160 465 0 1025 1602 840 1920 1080 434566
+~ Move `main_dlg_cur` `proe_win` 9 1160 464 0 1025 1602 840 1920 1080 434571
+~ Move `main_dlg_cur` `proe_win` 9 1160 463 0 1025 1602 840 1920 1080 434580
+~ Move `main_dlg_cur` `proe_win` 9 1160 462 0 1025 1602 840 1920 1080 434586
+~ Move `main_dlg_cur` `proe_win` 9 1160 461 0 1025 1602 840 1920 1080 434599
+~ Move `main_dlg_cur` `proe_win` 9 1160 460 0 1025 1602 840 1920 1080 434667
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1160 460 0 0 1602 840 1920 1080 434672
+@sel_pz_xyz 860.6026785714 375.6696428571 1225.1698521205 273.4630475725 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T1 2`
+!60355K703_BALL_BEARING.ASM
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` `T1 2`
+!Expanded 60355K703_BALL_BEARING.ASM
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 2`
+!REVOLVE5_2_.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 3`
+!CIRPATTERN1_4_.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 4`
+!CIRPATTERN1_8_.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 5`
+!CIRPATTERN1_5_.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 6`
+!CIRPATTERN1_7_.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 7`
+!REVOLVE3.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 8`
+!CIRPATTERN1_6_.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 10`
+!CIRPATTERN1_2_.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 11`
+!REVOLVE5_1_.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 13`
+!CIRPATTERN1_1_.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T25 2`
+!
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 2 15`
+!CIRPATTERN1_9_.PRT
+~ Trail `MiniToolbar` `MiniToolbar` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 331 377 0 1 1602 840 1920 1080 444299
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 331 377 0 0 1602 840 1920 1080 444370
+@sel_pz_xyz 27.9017857143 465.0669642857 -75.9252929687 413.1463623047 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Select `file_saveas` `ph_list.Filelist` 1 `MATH207`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `Cancel`
+!%CENo object was copied.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 999 627 0 1 1602 840 1920 1080 468695
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 999 627 0 0 1602 840 1920 1080 468792
+@sel_pz_xyz 698.8839285714 213.9508928571 972.4843052455 20.7775006975 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Command `ProCmdModelNew` 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1073 584 0 1 1602 840 1920 1080 475132
+~ Move `main_dlg_cur` `proe_win` 9 1073 584 0 1 1602 840 1920 1080 475133
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1073 584 0 0 1602 840 1920 1080 475177
+@sel_pz_xyz 773.2142857143 257.1428571429 1088.6254882812 88.2649448940 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Input `new` `InputPanel1` `H`
+~ Input `new` `InputPanel1` `Ho`
+~ Input `new` `InputPanel1` `Hop`
+~ Input `new` `InputPanel1` `Hopp`
+~ Input `new` `InputPanel1` `Hoppe`
+~ Input `new` `InputPanel1` `Hopper`
+~ Input `new` `InputPanel1` `Hopper_`
+~ Input `new` `InputPanel1` `Hopper_S`
+~ Input `new` `InputPanel1` `Hopper_Su`
+~ Input `new` `InputPanel1` `Hopper_Sup`
+~ Input `new` `InputPanel1` `Hopper_Supp`
+~ Input `new` `InputPanel1` `Hopper_Suppo`
+~ Input `new` `InputPanel1` `Hopper_Suppor`
+~ Input `new` `InputPanel1` `Hopper_Support`
+~ Input `new` `InputPanel1` `Hopper_Supporti`
+~ Input `new` `InputPanel1` `Hopper_Supportin`
+~ Input `new` `InputPanel1` `Hopper_Supporting`
+~ Input `new` `InputPanel1` `Hopper_Supportin`
+~ Input `new` `InputPanel1` `Hopper_Supporti`
+~ Input `new` `InputPanel1` `Hopper_Support`
+~ Input `new` `InputPanel1` `Hopper_Support_`
+~ Input `new` `InputPanel1` `Hopper_Support_R`
+~ Input `new` `InputPanel1` `Hopper_Support_Ro`
+~ Input `new` `InputPanel1` `Hopper_Support_Rod`
+~ Input `new` `InputPanel1` `Hopper_Support_Rods`
+~ Update `new` `InputPanel1` `Hopper_Support_Rods`
+~ Activate `new` `Cancel`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Activate `file_open` `SAB_C:\\Users\\16512`
+~ Select `file_open` `Ph_list.Filelist` 1 `Downloads`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+~ Open `file_open` `Type`
+~ Close `file_open` `Type`
+~ Select `file_open` `Type` 1 `db_-1`
+~ Select `file_open` `Ph_list.Filelist` 1 `60355K703_Ball Bearing.STEP`
+~ Select `file_open` `Ph_list.Filelist` 1 `9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.STEP`
+~ Command `ProFileSelPushOpen_Import@context_dlg_open_cmd` 
+!Command ProCmdModelImpCreateExe was pushed from the software.
+~ Input `impt_new_model` `InputPanel1` ``
+~ Input `impt_new_model` `InputPanel1` ``
+~ Input `impt_new_model` `InputPanel1` `H`
+~ Input `impt_new_model` `InputPanel1` `Ho`
+~ Input `impt_new_model` `InputPanel1` `Hop`
+~ Input `impt_new_model` `InputPanel1` `Hopp`
+~ Input `impt_new_model` `InputPanel1` `Hoppe`
+~ Input `impt_new_model` `InputPanel1` `Hopper`
+~ Input `impt_new_model` `InputPanel1` `Hopper_`
+~ Input `impt_new_model` `InputPanel1` `Hopper_S`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Su`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Sup`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Supp`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Suppo`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Suppor`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Support`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Support_`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Support_R`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Support_Ro`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Support_Rod`
+~ Input `impt_new_model` `InputPanel1` `Hopper_Support_Rods`
+~ Update `impt_new_model` `InputPanel1` `Hopper_Support_Rods`
+~ Activate `impt_new_model` `PushButton3`
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 1.052000 1052 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1003 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1006 1920 0 0 1080 13
+< 2 1.028000 1028 0 0 1006 1920 0 0 1080 13
+< 2 0.782222 1277 0 0 660 1920 0 0 1080 13
+< 2 1.001481 1765 0 0 845 1920 0 0 1080 13
+< 2 1.001481 1602 0 0 845 1920 0 0 1080 13
+@ ok
+!Undo: added rec_id -1 type 5304 
+!Undo: added rec_id 10 type 5204 
+!%CIReading STEP data.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 1:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 2:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 3:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 4:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 5:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 6:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 7:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 8:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 9:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 10:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 11:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 12:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 13:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 14:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 15:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 16:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 17:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 18:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 19:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 20:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 21:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 22:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 23:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 24:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 25:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 26:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 27:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 28:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 29:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 30:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 31:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 32:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 33:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 34:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 35:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 36:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 37:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 38:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 39:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 40:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 41:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 42:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 43:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 44:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 45:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 46:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 47:  100 percent completed.
+!%CIReading 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 48:  100 percent completed.
+!%CIProcessing interface data.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 1:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 2:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 3:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 4:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 5:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 6:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 7:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 8:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 9:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 10:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 11:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 12:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 13:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 14:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 15:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 16:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 17:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 18:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 19:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 20:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 21:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 22:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 23:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 24:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 25:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 26:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 27:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 28:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 29:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 30:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 31:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 32:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 33:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 34:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 35:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 36:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 37:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 38:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 39:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 40:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 41:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 42:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 43:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 44:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 45:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 46:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 47:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 48:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 49:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 50:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 51:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 52:  100 percent completed.
+!%CIProcessing 9062K281_Tight-Tolerance Multipurpose 6061 Aluminum Rod.step. Step 53:  100 percent completed.
+!Undo: added rec_id 12 type 5304 
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 1.001481 1644 0 0 845 1920 0 0 1080 13
+< 2 1.001481 1637 0 0 845 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Command `ProCmdDatumAxis` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Datum Axis
+!ODUI session started.
+!%CPSelect up to 2 references, such as plane, surface, edge or point to place axis.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 743 458 0 1 1637 845 1920 1080 581660
+~ Move `main_dlg_cur` `proe_win` 9 743 458 0 1 1637 845 1920 1080 581669
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 743 458 0 0 1637 845 1920 1080 581736
+@sel_pz_xyz 424.6116863905 386.4275147929 424.6116863905 386.4275147929 0.0000000000
+@ sel view 0
+ 64.646987 0.000000 -64.646448 -37.323111 74.648133 -37.323422
+ 52.783981 52.783069 52.784421 500.000000 421.875000 -2196.324062 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 2 113 -1 (1.9358408755 4.7669003770) (0.0669357953 0.1751452235 1.2330996230)
+!Surf:F2(IMPORT FEATURE)
+~ Activate `Odui_Dlg_00` `stdbtn_1`
+!ODUI session finished.
+!F3(A_1)
+!Undo: added rec_id 28 type 5304 
+~ Command `ProCmdDatumPlane` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Datum Plane
+!ODUI session started.
+!%CPSelect up to 3 references, such as plane, surface, edge or point to place plane.
+~ Wheel `main_dlg_cur` `proe_win` 9 482 655 458752 0 1637 845 1920 1080 585133
+~ Wheel `main_dlg_cur` `proe_win` 9 474 659 458752 0 1637 845 1920 1080 585167
+~ Wheel `main_dlg_cur` `proe_win` 9 472 659 458752 0 1637 845 1920 1080 585186
+~ Wheel `main_dlg_cur` `proe_win` 9 467 657 458752 0 1637 845 1920 1080 585217
+~ LButtonArm `main_dlg_cur` `proe_win` 9 369 622 0 1 1637 845 1920 1080 586157
+~ Move `main_dlg_cur` `proe_win` 9 369 622 0 1 1637 845 1920 1080 586168
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 369 622 0 0 1637 845 1920 1080 586203
+@sel_pz_xyz 51.1649408284 222.6701183432 113.6915088757 201.8609467456 0.0000000000
+@ sel view 0
+ 64.646987 0.000000 -64.646448 -37.323111 74.648133 -37.323422
+ 52.783981 52.783069 52.784421 500.000000 421.875000 -2196.324062 2.441406 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 2 115 -1 (0.0242888178 0.0647438875) (0.0242888178 0.0647438875 6.0000000000)
+!Surf:F2(IMPORT FEATURE)
+!%CPSelect up to 3 references, such as plane, surface, edge or point to place plane.
+~ Activate `Odui_Dlg_00` `stdbtn_1`
+!ODUI session finished.
+!F4(DTM1)
+!Undo: added rec_id 31 type 5304 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 976 618 0 1 1637 845 1920 1080 588022
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 976 618 0 0 1637 845 1920 1080 588088
+@sel_pz_xyz 657.2670118343 226.6642011834 361.9509171598 203.4969230769 0.0000000000
+@ sel view 0
+ 64.646987 0.000000 -64.646448 -37.323111 74.648133 -37.323422
+ 52.783981 52.783069 52.784421 500.000000 421.875000 -2196.324062 2.441406 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Wheel `main_dlg_cur` `proe_win` 9 769 626 393216 0 1637 845 1920 1080 588414
+~ Wheel `main_dlg_cur` `proe_win` 9 742 625 393216 512 1637 845 1920 1080 588443
+~ Wheel `main_dlg_cur` `proe_win` 9 724 625 393216 0 1637 845 1920 1080 588468
+~ MButtonArm `main_dlg_cur` `proe_win` 9 740 640 0 2 1637 845 1920 1080 588822
+~ Move `main_dlg_cur` `proe_win` 9 739 640 0 514 1637 845 1920 1080 588825
+~ Move `main_dlg_cur` `proe_win` 9 738 640 0 514 1637 845 1920 1080 588829
+~ Move `main_dlg_cur` `proe_win` 9 737 640 0 514 1637 845 1920 1080 588832
+~ Move `main_dlg_cur` `proe_win` 9 736 640 0 514 1637 845 1920 1080 588837
+~ Move `main_dlg_cur` `proe_win` 9 736 641 0 1026 1637 845 1920 1080 588839
+~ Move `main_dlg_cur` `proe_win` 9 735 641 0 514 1637 845 1920 1080 588842
+~ Move `main_dlg_cur` `proe_win` 9 734 641 0 514 1637 845 1920 1080 588845
+~ Move `main_dlg_cur` `proe_win` 9 733 641 0 514 1637 845 1920 1080 588850
+~ Move `main_dlg_cur` `proe_win` 9 729 641 0 514 1637 845 1920 1080 588863
+~ Move `main_dlg_cur` `proe_win` 9 727 641 0 514 1637 845 1920 1080 588868
+~ Move `main_dlg_cur` `proe_win` 9 721 642 0 1538 1637 845 1920 1080 588884
+~ Move `main_dlg_cur` `proe_win` 9 716 643 0 1538 1637 845 1920 1080 588901
+~ Move `main_dlg_cur` `proe_win` 9 710 644 0 1538 1637 845 1920 1080 588918
+~ Move `main_dlg_cur` `proe_win` 9 705 644 0 514 1637 845 1920 1080 588935
+~ Move `main_dlg_cur` `proe_win` 9 700 646 0 1538 1637 845 1920 1080 588951
+~ Move `main_dlg_cur` `proe_win` 9 698 647 0 1538 1637 845 1920 1080 588968
+~ Move `main_dlg_cur` `proe_win` 9 695 647 0 514 1637 845 1920 1080 588985
+~ Move `main_dlg_cur` `proe_win` 9 693 647 0 514 1637 845 1920 1080 589001
+~ Move `main_dlg_cur` `proe_win` 9 691 648 0 1538 1637 845 1920 1080 589018
+~ Move `main_dlg_cur` `proe_win` 9 689 648 0 514 1637 845 1920 1080 589034
+~ Move `main_dlg_cur` `proe_win` 9 687 649 0 1538 1637 845 1920 1080 589050
+~ Move `main_dlg_cur` `proe_win` 9 685 650 0 1538 1637 845 1920 1080 589067
+~ Move `main_dlg_cur` `proe_win` 9 681 651 0 1538 1637 845 1920 1080 589084
+~ Move `main_dlg_cur` `proe_win` 9 678 651 0 514 1637 845 1920 1080 589100
+~ Move `main_dlg_cur` `proe_win` 9 675 652 0 1538 1637 845 1920 1080 589117
+~ Move `main_dlg_cur` `proe_win` 9 673 653 0 1538 1637 845 1920 1080 589134
+~ Move `main_dlg_cur` `proe_win` 9 669 655 0 1538 1637 845 1920 1080 589150
+~ Move `main_dlg_cur` `proe_win` 9 662 657 0 1538 1637 845 1920 1080 589167
+~ Move `main_dlg_cur` `proe_win` 9 654 660 0 1538 1637 845 1920 1080 589184
+~ Move `main_dlg_cur` `proe_win` 9 643 664 0 1538 1637 845 1920 1080 589201
+~ Move `main_dlg_cur` `proe_win` 9 632 668 0 1538 1637 845 1920 1080 589218
+~ Move `main_dlg_cur` `proe_win` 9 619 671 0 1538 1637 845 1920 1080 589234
+~ Move `main_dlg_cur` `proe_win` 9 604 676 0 1538 1637 845 1920 1080 589251
+~ Move `main_dlg_cur` `proe_win` 9 585 681 0 1538 1637 845 1920 1080 589268
+~ Move `main_dlg_cur` `proe_win` 9 570 684 0 1538 1637 845 1920 1080 589284
+~ Move `main_dlg_cur` `proe_win` 9 559 686 0 1538 1637 845 1920 1080 589301
+~ Move `main_dlg_cur` `proe_win` 9 552 687 0 1538 1637 845 1920 1080 589318
+~ Move `main_dlg_cur` `proe_win` 9 548 689 0 1538 1637 845 1920 1080 589334
+~ Move `main_dlg_cur` `proe_win` 9 545 689 0 514 1637 845 1920 1080 589351
+~ Move `main_dlg_cur` `proe_win` 9 541 690 0 1538 1637 845 1920 1080 589367
+~ Move `main_dlg_cur` `proe_win` 9 540 690 0 514 1637 845 1920 1080 589384
+~ Move `main_dlg_cur` `proe_win` 9 539 690 0 514 1637 845 1920 1080 589404
+~ Move `main_dlg_cur` `proe_win` 9 539 691 0 1026 1637 845 1920 1080 589424
+~ Move `main_dlg_cur` `proe_win` 9 538 691 0 514 1637 845 1920 1080 589434
+~ Move `main_dlg_cur` `proe_win` 9 537 691 0 514 1637 845 1920 1080 589450
+~ Move `main_dlg_cur` `proe_win` 9 536 691 0 514 1637 845 1920 1080 589612
+~ Move `main_dlg_cur` `proe_win` 9 536 693 0 1026 1637 845 1920 1080 589629
+~ Move `main_dlg_cur` `proe_win` 9 536 694 0 1026 1637 845 1920 1080 589633
+~ Move `main_dlg_cur` `proe_win` 9 535 695 0 1538 1637 845 1920 1080 589650
+~ Move `main_dlg_cur` `proe_win` 9 535 698 0 1026 1637 845 1920 1080 589667
+~ Move `main_dlg_cur` `proe_win` 9 534 700 0 1538 1637 845 1920 1080 589684
+~ Move `main_dlg_cur` `proe_win` 9 534 702 0 1026 1637 845 1920 1080 589700
+~ Move `main_dlg_cur` `proe_win` 9 534 704 0 1026 1637 845 1920 1080 589717
+~ Move `main_dlg_cur` `proe_win` 9 533 705 0 1538 1637 845 1920 1080 589734
+~ Move `main_dlg_cur` `proe_win` 9 532 706 0 1538 1637 845 1920 1080 589751
+~ Move `main_dlg_cur` `proe_win` 9 532 707 0 1026 1637 845 1920 1080 589767
+~ Move `main_dlg_cur` `proe_win` 9 532 708 0 1026 1637 845 1920 1080 589811
+~ Move `main_dlg_cur` `proe_win` 9 532 709 0 1026 1637 845 1920 1080 589830
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 532 709 0 0 1637 845 1920 1080 589841
+~ Command `ProCmdDatumPlane` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on, Mini Dashboard style off. Feature title : Datum Plane
+!ODUI session started.
+!%CPSelect up to 3 references, such as plane, surface, edge or point to place plane.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1123 278 0 1 1637 845 1920 1080 592011
+~ Move `main_dlg_cur` `proe_win` 9 1123 278 0 1 1637 845 1920 1080 592033
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1123 278 0 0 1637 845 1920 1080 592072
+@sel_pz_xyz 804.0495562130 566.1612426036 570.1752026443 477.3928704770 0.0000000000
+@ sel view 0
+ -54.613400 -71.353371 -11.159732 -70.980943 55.612534 -8.210872
+ 13.324748 3.795938 -89.479096 500.000000 421.875000 -2176.785486 1.250000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 2 108 -1 (-0.0771473553 0.0139652746) (-0.0771473553 0.0139652746 -6.0000000000)
+!Surf:F2(IMPORT FEATURE)
+!%CPSelect up to 3 references, such as plane, surface, edge or point to place plane.
+~ Activate `Odui_Dlg_00` `stdbtn_1`
+!ODUI session finished.
+!F5(DTM2)
+!Undo: added rec_id 35 type 5304 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 544 626 0 1 1637 845 1920 1080 593247
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 544 626 0 0 1637 845 1920 1080 593331
+@sel_pz_xyz 225.9060650888 218.6760355030 107.6604097449 199.4047047966 0.0000000000
+@ sel view 0
+ -54.613400 -71.353371 -11.159732 -70.980943 55.612534 -8.210872
+ 13.324748 3.795938 -89.479096 500.000000 421.875000 -2176.785486 1.250000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ MButtonArm `main_dlg_cur` `proe_win` 9 519 601 0 2 1637 845 1920 1080 593627
+~ Move `main_dlg_cur` `proe_win` 9 520 601 0 514 1637 845 1920 1080 593628
+~ Move `main_dlg_cur` `proe_win` 9 521 601 0 514 1637 845 1920 1080 593632
+~ Move `main_dlg_cur` `proe_win` 9 522 600 0 1538 1637 845 1920 1080 593633
+~ Move `main_dlg_cur` `proe_win` 9 523 599 0 1538 1637 845 1920 1080 593636
+~ Move `main_dlg_cur` `proe_win` 9 524 599 0 514 1637 845 1920 1080 593639
+~ Move `main_dlg_cur` `proe_win` 9 525 599 0 514 1637 845 1920 1080 593641
+~ Move `main_dlg_cur` `proe_win` 9 526 599 0 514 1637 845 1920 1080 593641
+~ Move `main_dlg_cur` `proe_win` 9 528 597 0 1538 1637 845 1920 1080 593648
+~ Move `main_dlg_cur` `proe_win` 9 529 597 0 514 1637 845 1920 1080 593650
+~ Move `main_dlg_cur` `proe_win` 9 539 594 0 1538 1637 845 1920 1080 593667
+~ Move `main_dlg_cur` `proe_win` 9 553 590 0 1538 1637 845 1920 1080 593683
+~ Move `main_dlg_cur` `proe_win` 9 568 587 0 1538 1637 845 1920 1080 593700
+~ Move `main_dlg_cur` `proe_win` 9 580 585 0 1538 1637 845 1920 1080 593717
+~ Move `main_dlg_cur` `proe_win` 9 589 583 0 1538 1637 845 1920 1080 593733
+~ Move `main_dlg_cur` `proe_win` 9 596 582 0 1538 1637 845 1920 1080 593750
+~ Move `main_dlg_cur` `proe_win` 9 601 581 0 1538 1637 845 1920 1080 593767
+~ Move `main_dlg_cur` `proe_win` 9 605 580 0 1538 1637 845 1920 1080 593784
+~ Move `main_dlg_cur` `proe_win` 9 607 579 0 1538 1637 845 1920 1080 593800
+~ Move `main_dlg_cur` `proe_win` 9 609 579 0 514 1637 845 1920 1080 593817
+~ Move `main_dlg_cur` `proe_win` 9 610 578 0 1538 1637 845 1920 1080 593834
+~ Move `main_dlg_cur` `proe_win` 9 611 578 0 514 1637 845 1920 1080 593916
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 611 578 0 0 1637 845 1920 1080 593946
+~ Wheel `main_dlg_cur` `proe_win` 9 506 589 393216 0 1637 845 1920 1080 594257
+~ Wheel `main_dlg_cur` `proe_win` 9 425 582 393216 0 1637 845 1920 1080 594285
+~ Wheel `main_dlg_cur` `proe_win` 9 865 566 458752 0 1637 845 1920 1080 594704
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Activate `file_saveas` `desktop_pb`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Activate `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `bkw_browser_EMBED_BROWSER_TB_BFH_LAYOUT`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Southwinds 2020-21 Rent`
+~ Select `file_saveas` `ph_list.Filelist` 1 `ME306 Fluid Mechanics`
+~ Select `file_saveas` `ph_list.Filelist` 1 `ME 342 Advanced Thermodynamics`
+~ Select `file_saveas` `ph_list.Filelist` 1 `MATH207`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Activate `file_saveas` `OK`
+~ Select `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Activate `file_saveas` `ph_list.Filelist` 1 `Lunabotics-2022-2023-Team-CAD`
+~ Select `file_saveas` `ph_list.Filelist` 0
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `OK`
+~ Activate `file_saveas` `Cancel`
+!%CENo object was copied.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 943 643 0 1 1637 845 1920 1080 631658
+~ Move `main_dlg_cur` `proe_win` 9 943 642 0 1025 1637 845 1920 1080 631658
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 943 642 0 0 1637 845 1920 1080 631721
+@sel_pz_xyz 624.3158284024 201.7011834320 623.4962085614 179.0348823114 0.0000000000
+@ sel view 0
+ -18.618702 -48.768571 -73.982681 -62.589832 60.751364 -24.295089
+ 62.724186 46.145042 -46.203661 500.000000 421.875000 -2176.785486 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Wheel `main_dlg_cur` `proe_win` 9 545 641 393216 0 1637 845 1920 1080 634492
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1230 606 0 1 1637 845 1920 1080 1193301
+~ Move `main_dlg_cur` `proe_win` 9 1230 606 0 1 1637 845 1920 1080 1193313
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1230 606 0 0 1637 845 1920 1080 1193343
+@sel_pz_xyz 910.8912721893 238.6464497041 1081.0683239461 224.7172047966 0.0000000000
+@ sel view 0
+ -18.618702 -48.768571 -73.982681 -62.589832 60.751364 -24.295089
+ 62.724186 46.145042 -46.203661 500.000000 421.875000 -2176.785486 0.800000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 143 623 0 1 1637 845 1920 1080 1209310
+~ Move `main_dlg_cur` `proe_win` 9 144 623 0 513 1637 845 1920 1080 1209340
+~ Move `main_dlg_cur` `proe_win` 9 145 623 0 513 1637 845 1920 1080 1209372
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 145 623 0 0 1637 845 1920 1080 1209389
+@sel_pz_xyz -174.5007396450 221.6715976331 -275.6716908468 203.4986397078 0.0000000000
+@ sel view 0
+ -18.618702 -48.768571 -73.982681 -62.589832 60.751364 -24.295089
+ 62.724186 46.145042 -46.203661 500.000000 421.875000 -2176.785486 0.800000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 211 447 0 1 1637 845 1920 1080 1214184
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 211 447 0 0 1637 845 1920 1080 1214249
+@sel_pz_xyz -106.6013313609 397.4112426036 -190.7974304918 423.1731959208 0.0000000000
+@ sel view 0
+ -18.618702 -48.768571 -73.982681 -62.589832 60.751364 -24.295089
+ 62.724186 46.145042 -46.203661 500.000000 421.875000 -2176.785486 0.800000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Command `ProCmdModelSave` 
+~ Activate `file_saveas` `SAB_.|`
+~ Activate `file_saveas` `OK`
+!%CWNew objects created with this educational version of Creo Parametric will not be
+!%C_compatible with commercially licensed Creo Parametric software.
+!%CIHOPPER_SUPPORT_RODS has been saved.
+~ Command `ProCmdModelSave` 
+!%CIHOPPER_SUPPORT_RODS has been saved.
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w1`
+< 0 0.995556 1633 0 0 840 1920 0 0 1080 13
+< 0 0.995556 1637 0 0 840 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Command `ProCmdModelSave` 
+~ Activate `file_saveas` `OK`
+!%CIHOPPER_BACK_PIPE_BEARING has been saved.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1010 687 0 1 1637 840 1920 1080 1297586
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1010 687 0 0 1637 840 1920 1080 1297699
+@sel_pz_xyz 692.3549107143 153.6830357143 962.2827148438 -73.3910260882 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 944 732 0 1 1637 840 1920 1080 1302580
+~ Move `main_dlg_cur` `proe_win` 9 945 732 0 513 1637 840 1920 1080 1302600
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 945 732 0 0 1637 840 1920 1080 1302659
+@sel_pz_xyz 626.0602678571 108.4821428571 858.6973353795 -144.0174211775 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 946 733 0 129 1637 840 1920 1080 1302817
+** 0.628069 0.126190 0 1 1
+0.861836 -0.147156 L 0 0.995555556 0
+~ Move `main_dlg_cur` `proe_win` 9 946 734 0 1025 1637 840 1920 1080 1302840
+~ Move `main_dlg_cur` `proe_win` 9 946 735 0 1025 1637 840 1920 1080 1302843
+~ Move `main_dlg_cur` `proe_win` 9 946 736 0 1025 1637 840 1920 1080 1302845
+~ Move `main_dlg_cur` `proe_win` 9 946 737 0 1025 1637 840 1920 1080 1302846
+~ Move `main_dlg_cur` `proe_win` 9 947 737 0 513 1637 840 1920 1080 1302847
+~ Move `main_dlg_cur` `proe_win` 9 947 738 0 1025 1637 840 1920 1080 1302847
+~ Move `main_dlg_cur` `proe_win` 9 948 739 0 1537 1637 840 1920 1080 1302850
+~ Move `main_dlg_cur` `proe_win` 9 948 740 0 1025 1637 840 1920 1080 1302851
+~ Move `main_dlg_cur` `proe_win` 9 948 741 0 1025 1637 840 1920 1080 1302852
+~ Move `main_dlg_cur` `proe_win` 9 948 742 0 1025 1637 840 1920 1080 1302854
+~ Move `main_dlg_cur` `proe_win` 9 948 743 0 1025 1637 840 1920 1080 1302855
+~ Move `main_dlg_cur` `proe_win` 9 949 744 0 1537 1637 840 1920 1080 1302857
+~ Move `main_dlg_cur` `proe_win` 9 949 745 0 1025 1637 840 1920 1080 1302858
+~ Move `main_dlg_cur` `proe_win` 9 950 747 0 1537 1637 840 1920 1080 1302859
+~ Move `main_dlg_cur` `proe_win` 9 950 749 0 1025 1637 840 1920 1080 1302861
+~ Move `main_dlg_cur` `proe_win` 9 951 750 0 1537 1637 840 1920 1080 1302863
+~ Move `main_dlg_cur` `proe_win` 9 951 752 0 1025 1637 840 1920 1080 1302864
+~ Move `main_dlg_cur` `proe_win` 9 951 753 0 1025 1637 840 1920 1080 1302867
+~ Move `main_dlg_cur` `proe_win` 9 952 754 0 1537 1637 840 1920 1080 1302868
+~ Move `main_dlg_cur` `proe_win` 9 952 755 0 1025 1637 840 1920 1080 1302871
+~ Move `main_dlg_cur` `proe_win` 9 953 756 0 1537 1637 840 1920 1080 1302872
+~ Move `main_dlg_cur` `proe_win` 9 953 757 0 1025 1637 840 1920 1080 1302873
+~ Move `main_dlg_cur` `proe_win` 9 953 758 0 1025 1637 840 1920 1080 1302877
+~ Move `main_dlg_cur` `proe_win` 9 954 758 0 513 1637 840 1920 1080 1302879
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 954 758 0 0 1637 840 1920 1080 1302912
+~ LButtonArm `main_dlg_cur` `proe_win` 9 954 759 0 1 1637 840 1920 1080 1303023
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 954 759 0 0 1637 840 1920 1080 1303094
+@sel_pz_xyz 636.1049107143 81.3616071429 874.3920898438 -186.3932582310 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 0.640000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Wheel `main_dlg_cur` `proe_win` 9 1018 527 393216 0 1637 840 1920 1080 1303704
+~ Wheel `main_dlg_cur` `proe_win` 9 1018 527 393216 0 1637 840 1920 1080 1303722
+~ Wheel `main_dlg_cur` `proe_win` 9 1018 527 393216 0 1637 840 1920 1080 1303742
+~ Wheel `main_dlg_cur` `proe_win` 9 1044 548 458752 0 1637 840 1920 1080 1304043
+~ Wheel `main_dlg_cur` `proe_win` 9 1044 548 458752 0 1637 840 1920 1080 1304065
+~ Wheel `main_dlg_cur` `proe_win` 9 1044 548 458752 0 1637 840 1920 1080 1304077
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w2`
+< 2 1.001481 1644 0 0 845 1920 0 0 1080 13
+< 2 1.001481 1637 0 0 845 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 1.001481 1644 0 0 845 1920 0 0 1080 13
+< 2 1.001481 1637 0 0 845 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Wheel `main_dlg_cur` `proe_win` 9 1107 292 458752 0 1637 845 1920 1080 1454810
+~ Wheel `main_dlg_cur` `proe_win` 9 1107 292 458752 0 1637 845 1920 1080 1454830
+~ Wheel `main_dlg_cur` `proe_win` 9 1107 292 458752 0 1637 845 1920 1080 1454843
+~ Wheel `main_dlg_cur` `proe_win` 9 1107 292 458752 0 1637 845 1920 1080 1454859
+~ Wheel `main_dlg_cur` `proe_win` 9 1101 310 458752 0 1637 845 1920 1080 1455067
+~ Wheel `main_dlg_cur` `proe_win` 9 1101 317 458752 1024 1637 845 1920 1080 1455086
+~ Wheel `main_dlg_cur` `proe_win` 9 1101 321 458752 0 1637 845 1920 1080 1455099
+~ Wheel `main_dlg_cur` `proe_win` 9 1101 325 458752 1024 1637 845 1920 1080 1455114
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1065 465 0 1 1637 845 1920 1080 1455665
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1065 465 0 0 1637 845 1920 1080 1455767
+@sel_pz_xyz 746.1353550296 379.4378698225 916.9397302183 572.8987562759 0.0000000000
+@ sel view 0
+ -18.618702 -48.768571 -73.982681 -62.589832 60.751364 -24.295089
+ 62.724186 46.145042 -46.203661 500.000000 421.875000 -2176.785486 4.768372 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 2 113 -1 (1.5975404256 11.7604552168) (0.0050139208 0.1874329496 -5.7604552168)
+!Surf:F2(IMPORT FEATURE)
+~ Trail `MiniToolbar` `MiniToolbar` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNmdTool`  1
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect reference(s) for Measure Summary analysis
+!%CIAdvanced Measure analysis completed successfully.
+!%CDArea = 7.03963 in^2
+!%CDPerimeter = 25.0798 in
+!%CDDiameter = 0.375000 in
+~ Command `ProCmdNaMeasureDiameter` 
+!%CIAdvanced Measure analysis completed successfully.
+!%CDDiameter = 0.375000 in
+!%CDRadius = 0.187500 in
+!%CPSelect reference(s) for Measure Diameter analysis
+~ Wheel `main_dlg_cur` `proe_win` 9 891 306 393216 0 1637 845 1920 1080 1466215
+~ MButtonArm `main_dlg_cur` `proe_win` 9 975 422 0 2 1637 845 1920 1080 1467257
+~ Move `main_dlg_cur` `proe_win` 9 974 422 0 514 1637 845 1920 1080 1467259
+~ Move `main_dlg_cur` `proe_win` 9 973 422 0 514 1637 845 1920 1080 1467260
+~ Move `main_dlg_cur` `proe_win` 9 972 422 0 514 1637 845 1920 1080 1467263
+~ Move `main_dlg_cur` `proe_win` 9 971 422 0 514 1637 845 1920 1080 1467266
+~ Move `main_dlg_cur` `proe_win` 9 970 422 0 514 1637 845 1920 1080 1467271
+~ Move `main_dlg_cur` `proe_win` 9 969 422 0 514 1637 845 1920 1080 1467272
+~ Move `main_dlg_cur` `proe_win` 9 968 422 0 514 1637 845 1920 1080 1467276
+~ Move `main_dlg_cur` `proe_win` 9 962 422 0 514 1637 845 1920 1080 1467300
+~ Move `main_dlg_cur` `proe_win` 9 958 422 0 514 1637 845 1920 1080 1467312
+~ Move `main_dlg_cur` `proe_win` 9 953 422 0 514 1637 845 1920 1080 1467330
+~ Move `main_dlg_cur` `proe_win` 9 951 422 0 514 1637 845 1920 1080 1467346
+~ Move `main_dlg_cur` `proe_win` 9 950 422 0 514 1637 845 1920 1080 1467362
+~ Move `main_dlg_cur` `proe_win` 9 948 422 0 514 1637 845 1920 1080 1467378
+~ Move `main_dlg_cur` `proe_win` 9 947 422 0 514 1637 845 1920 1080 1467396
+~ Move `main_dlg_cur` `proe_win` 9 946 422 0 514 1637 845 1920 1080 1467411
+~ Move `main_dlg_cur` `proe_win` 9 944 422 0 514 1637 845 1920 1080 1467428
+~ Move `main_dlg_cur` `proe_win` 9 943 422 0 514 1637 845 1920 1080 1467445
+~ Move `main_dlg_cur` `proe_win` 9 941 422 0 514 1637 845 1920 1080 1467462
+~ Move `main_dlg_cur` `proe_win` 9 940 422 0 514 1637 845 1920 1080 1467478
+~ Move `main_dlg_cur` `proe_win` 9 939 422 0 514 1637 845 1920 1080 1467495
+~ Move `main_dlg_cur` `proe_win` 9 938 422 0 514 1637 845 1920 1080 1467512
+~ Move `main_dlg_cur` `proe_win` 9 936 422 0 514 1637 845 1920 1080 1467528
+~ Move `main_dlg_cur` `proe_win` 9 935 422 0 514 1637 845 1920 1080 1467545
+~ Move `main_dlg_cur` `proe_win` 9 933 422 0 514 1637 845 1920 1080 1467562
+~ Move `main_dlg_cur` `proe_win` 9 931 422 0 514 1637 845 1920 1080 1467579
+~ Move `main_dlg_cur` `proe_win` 9 930 422 0 514 1637 845 1920 1080 1467596
+~ Move `main_dlg_cur` `proe_win` 9 929 422 0 514 1637 845 1920 1080 1467612
+~ Move `main_dlg_cur` `proe_win` 9 927 422 0 514 1637 845 1920 1080 1467630
+~ Move `main_dlg_cur` `proe_win` 9 926 422 0 514 1637 845 1920 1080 1467646
+~ Move `main_dlg_cur` `proe_win` 9 924 422 0 514 1637 845 1920 1080 1467662
+~ Move `main_dlg_cur` `proe_win` 9 922 422 0 514 1637 845 1920 1080 1467679
+~ Move `main_dlg_cur` `proe_win` 9 921 422 0 514 1637 845 1920 1080 1467698
+~ Move `main_dlg_cur` `proe_win` 9 920 422 0 514 1637 845 1920 1080 1467717
+~ Move `main_dlg_cur` `proe_win` 9 919 423 0 1538 1637 845 1920 1080 1467729
+~ Move `main_dlg_cur` `proe_win` 9 918 423 0 514 1637 845 1920 1080 1467746
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 918 423 0 0 1637 845 1920 1080 1467878
+~ Wheel `main_dlg_cur` `proe_win` 9 1237 449 393216 0 1637 845 1920 1080 1468118
+~ Wheel `main_dlg_cur` `proe_win` 9 1237 449 393216 0 1637 845 1920 1080 1468149
+~ Wheel `main_dlg_cur` `proe_win` 9 1237 449 393216 0 1637 845 1920 1080 1468199
+~ MButtonArm `main_dlg_cur` `proe_win` 9 979 450 0 2 1637 845 1920 1080 1468586
+~ Move `main_dlg_cur` `proe_win` 9 978 450 0 514 1637 845 1920 1080 1468586
+~ Move `main_dlg_cur` `proe_win` 9 977 450 0 514 1637 845 1920 1080 1468591
+~ Move `main_dlg_cur` `proe_win` 9 976 450 0 514 1637 845 1920 1080 1468597
+~ Move `main_dlg_cur` `proe_win` 9 975 450 0 514 1637 845 1920 1080 1468601
+~ Move `main_dlg_cur` `proe_win` 9 974 450 0 514 1637 845 1920 1080 1468603
+~ Move `main_dlg_cur` `proe_win` 9 973 450 0 514 1637 845 1920 1080 1468607
+~ Move `main_dlg_cur` `proe_win` 9 972 450 0 514 1637 845 1920 1080 1468612
+~ Move `main_dlg_cur` `proe_win` 9 971 450 0 514 1637 845 1920 1080 1468619
+~ Move `main_dlg_cur` `proe_win` 9 970 450 0 514 1637 845 1920 1080 1468628
+~ Move `main_dlg_cur` `proe_win` 9 968 450 0 514 1637 845 1920 1080 1468645
+~ Move `main_dlg_cur` `proe_win` 9 966 450 0 514 1637 845 1920 1080 1468662
+~ Move `main_dlg_cur` `proe_win` 9 965 450 0 514 1637 845 1920 1080 1468678
+~ Move `main_dlg_cur` `proe_win` 9 963 450 0 514 1637 845 1920 1080 1468695
+~ Move `main_dlg_cur` `proe_win` 9 961 451 0 1538 1637 845 1920 1080 1468712
+~ Move `main_dlg_cur` `proe_win` 9 960 451 0 514 1637 845 1920 1080 1468728
+~ Move `main_dlg_cur` `proe_win` 9 958 451 0 514 1637 845 1920 1080 1468745
+~ Move `main_dlg_cur` `proe_win` 9 957 451 0 514 1637 845 1920 1080 1468762
+~ Move `main_dlg_cur` `proe_win` 9 955 452 0 1538 1637 845 1920 1080 1468780
+~ Move `main_dlg_cur` `proe_win` 9 954 452 0 514 1637 845 1920 1080 1468795
+~ Move `main_dlg_cur` `proe_win` 9 953 452 0 514 1637 845 1920 1080 1468812
+~ Move `main_dlg_cur` `proe_win` 9 952 452 0 514 1637 845 1920 1080 1468831
+~ Move `main_dlg_cur` `proe_win` 9 952 453 0 1026 1637 845 1920 1080 1468848
+~ Move `main_dlg_cur` `proe_win` 9 951 453 0 514 1637 845 1920 1080 1468862
+~ Move `main_dlg_cur` `proe_win` 9 950 453 0 514 1637 845 1920 1080 1468879
+~ Move `main_dlg_cur` `proe_win` 9 949 453 0 514 1637 845 1920 1080 1468896
+~ Move `main_dlg_cur` `proe_win` 9 948 453 0 514 1637 845 1920 1080 1468925
+~ Move `main_dlg_cur` `proe_win` 9 947 453 0 514 1637 845 1920 1080 1468957
+~ Move `main_dlg_cur` `proe_win` 9 946 453 0 514 1637 845 1920 1080 1468966
+~ Move `main_dlg_cur` `proe_win` 9 945 453 0 514 1637 845 1920 1080 1468992
+~ Move `main_dlg_cur` `proe_win` 9 945 454 0 1026 1637 845 1920 1080 1469018
+~ Move `main_dlg_cur` `proe_win` 9 944 454 0 514 1637 845 1920 1080 1469023
+~ Move `main_dlg_cur` `proe_win` 9 944 455 0 1026 1637 845 1920 1080 1469055
+~ Move `main_dlg_cur` `proe_win` 9 943 455 0 514 1637 845 1920 1080 1469077
+~ Move `main_dlg_cur` `proe_win` 9 944 455 0 514 1637 845 1920 1080 1469266
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 944 455 0 0 1637 845 1920 1080 1469280
+~ Move `nmd_1` `nmd_1` 2 40.715477 4.307692
+~ Close `nmd_1` `nmd_1`
+!ODUI external UI session stop. 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 855 471 0 1 1637 845 1920 1080 1497849
+~ Move `main_dlg_cur` `proe_win` 9 855 472 0 1025 1637 845 1920 1080 1497852
+~ Move `main_dlg_cur` `proe_win` 9 855 473 0 1025 1637 845 1920 1080 1497856
+~ Move `main_dlg_cur` `proe_win` 9 855 474 0 1025 1637 845 1920 1080 1497917
+~ Move `main_dlg_cur` `proe_win` 9 855 475 0 1025 1637 845 1920 1080 1497927
+~ Move `main_dlg_cur` `proe_win` 9 855 476 0 1025 1637 845 1920 1080 1497929
+~ Move `main_dlg_cur` `proe_win` 9 855 478 0 1025 1637 845 1920 1080 1497934
+~ Move `main_dlg_cur` `proe_win` 9 855 479 0 1025 1637 845 1920 1080 1497938
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 855 479 0 0 1637 845 1920 1080 1497943
+@sel_pz_xyz 536.4460059172 373.4467455621 775.7762405141 557.5156708321 0.0000000000
+@ sel view 0
+ -59.419618 -67.149116 -12.600474 -64.360000 60.617847 -19.538007
+ 22.925227 -3.865183 -87.509777 500.000000 421.875000 -2176.785486 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Wheel `main_dlg_cur` `proe_win` 9 798 471 393216 0 1637 845 1920 1080 1542347
+~ Wheel `main_dlg_cur` `proe_win` 9 802 468 393216 0 1637 845 1920 1080 1542369
+~ Wheel `main_dlg_cur` `proe_win` 9 807 457 393216 0 1637 845 1920 1080 1542399
+~ Wheel `main_dlg_cur` `proe_win` 9 659 453 458752 0 1637 845 1920 1080 1542871
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w2:PHTLeft.AssyTree:<NULL>`
+~ Input `file_saveas` `Inputname` `H`
+~ Input `file_saveas` `Inputname` `Ho`
+~ Input `file_saveas` `Inputname` `Hop`
+~ Input `file_saveas` `Inputname` `Hopp`
+~ Input `file_saveas` `Inputname` `Hoppe`
+~ Input `file_saveas` `Inputname` `Hopper`
+~ Input `file_saveas` `Inputname` `Hopper_`
+~ Input `file_saveas` `Inputname` `Hopper_B`
+~ Input `file_saveas` `Inputname` `Hopper_Ba`
+~ Input `file_saveas` `Inputname` `Hopper_Bac`
+~ Input `file_saveas` `Inputname` `Hopper_Back`
+~ Input `file_saveas` `Inputname` `Hopper_Back_`
+~ Input `file_saveas` `Inputname` `Hopper_Back_R`
+~ Input `file_saveas` `Inputname` `Hopper_Back_Ro`
+~ Input `file_saveas` `Inputname` `Hopper_Back_Rol`
+~ Input `file_saveas` `Inputname` `Hopper_Back_Roll`
+~ Input `file_saveas` `Inputname` `Hopper_Back_Rolle`
+~ Input `file_saveas` `Inputname` `Hopper_Back_Roller`
+~ Update `file_saveas` `Inputname` `Hopper_Back_Roller`
+~ Activate `file_saveas` `Cancel`
+!%CENo object was copied.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 849 481 0 1 1637 845 1920 1080 1583721
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 849 481 0 0 1637 845 1920 1080 1583801
+@sel_pz_xyz 530.4548816568 363.4615384615 757.1797908100 549.8470317788 0.0000000000
+@ sel view 0
+ -59.419618 -67.149116 -12.600474 -64.360000 60.617847 -19.538007
+ 22.925227 -3.865183 -87.509777 500.000000 421.875000 -2176.785486 1.250000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Input `file_saveas` `Inputname` `H`
+~ Input `file_saveas` `Inputname` `Ho`
+~ Input `file_saveas` `Inputname` `Hop`
+~ Input `file_saveas` `Inputname` `Hopp`
+~ Input `file_saveas` `Inputname` `Hoppe`
+~ Input `file_saveas` `Inputname` `Hopper`
+~ Input `file_saveas` `Inputname` `Hopper_`
+~ Input `file_saveas` `Inputname` `Hopper_B`
+~ Input `file_saveas` `Inputname` `Hopper_Bo`
+~ Input `file_saveas` `Inputname` `Hopper_Bot`
+~ Input `file_saveas` `Inputname` `Hopper_Bot_`
+~ Input `file_saveas` `Inputname` `Hopper_Bot_S`
+~ Input `file_saveas` `Inputname` `Hopper_Bot_Sh`
+~ Input `file_saveas` `Inputname` `Hopper_Bot_Sha`
+~ Input `file_saveas` `Inputname` `Hopper_Bot_Shaf`
+~ Input `file_saveas` `Inputname` `Hopper_Bot_Shaft`
+~ Update `file_saveas` `Inputname` `Hopper_Bot_Shaft`
+~ Activate `file_saveas` `OK`
+!%CIHOPPER_BOT_SHAFT has been saved.
+!%CIHOPPER_SUPPORT_RODS has been copied to HOPPER_BOT_SHAFT.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 820 518 0 1 1637 845 1920 1080 1593078
+~ Move `main_dlg_cur` `proe_win` 9 820 517 0 1025 1637 845 1920 1080 1593109
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 820 517 0 0 1637 845 1920 1080 1593174
+@sel_pz_xyz 501.4977810651 326.5162721893 734.0141103366 520.2908187611 0.0000000000
+@ sel view 0
+ -59.419618 -67.149116 -12.600474 -64.360000 60.617847 -19.538007
+ 22.925227 -3.865183 -87.509777 500.000000 421.875000 -2176.785486 1.250000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Wheel `main_dlg_cur` `proe_win` 9 1076 441 393216 0 1637 845 1920 1080 1593844
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1064 450 0 1 1637 845 1920 1080 1594490
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1064 450 0 0 1637 845 1920 1080 1594579
+@sel_pz_xyz 745.1368343195 394.4156804734 926.5289032360 572.8130081102 0.0000000000
+@ sel view 0
+ -59.419618 -67.149116 -12.600474 -64.360000 60.617847 -19.538007
+ 22.925227 -3.865183 -87.509777 500.000000 421.875000 -2176.785486 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w1`
+< 0 0.995556 1633 0 0 840 1920 0 0 1080 13
+< 0 0.995556 1637 0 0 840 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Wheel `main_dlg_cur` `proe_win` 9 758 308 458752 1536 1637 840 1920 1080 1605866
+~ Wheel `main_dlg_cur` `proe_win` 9 756 305 458752 1536 1637 840 1920 1080 1605898
+~ Wheel `main_dlg_cur` `proe_win` 9 756 304 458752 1024 1637 840 1920 1080 1605915
+~ Wheel `main_dlg_cur` `proe_win` 9 751 295 458752 1536 1637 840 1920 1080 1605951
+~ LButtonArm `main_dlg_cur` `proe_win` 9 697 303 0 1025 1637 840 1920 1080 1606333
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 697 303 0 0 1637 840 1920 1080 1606410
+@sel_pz_xyz 377.9575892857 539.3973214286 564.4251621791 496.8866271973 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 1.562500 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 2 [ 5 10] 2 161 -1 (0.8655693741 -0.1255896991) (0.1215387492 0.1427745861 0.0150353009)
+!Surf:F2(IMPORT FEATURE):REVOLVE3
+~ Trail `MiniToolbar` `MiniToolbar` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNaMeasureDiameter` 
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect reference(s) for Measure Diameter analysis
+!%CIAdvanced Measure analysis completed successfully.
+!%CDDiameter = 0.375000 in
+!%CDRadius = 0.187500 in
+~ Close `nmd_1` `nmd_1`
+!ODUI external UI session stop. 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1446 266 0 1 1637 840 1920 1080 1612232
+~ Move `main_dlg_cur` `proe_win` 9 1446 267 0 1025 1637 840 1920 1080 1612234
+~ Move `main_dlg_cur` `proe_win` 9 1446 268 0 1025 1637 840 1920 1080 1612236
+~ Move `main_dlg_cur` `proe_win` 9 1447 268 0 513 1637 840 1920 1080 1612242
+~ Move `main_dlg_cur` `proe_win` 9 1447 269 0 1025 1637 840 1920 1080 1612249
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1447 269 0 0 1637 840 1920 1080 1612305
+@sel_pz_xyz 1130.3013392857 576.5625000000 1045.9251621791 520.6723414830 0.0000000000
+@ sel view 0
+ 464.212370 22.880137 315.169565 -37.300650 560.136887 14.276171
+ -313.789766 -32.736018 464.556580 500.000000 421.875000 -1444.893966 1.562500 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+!%CIBase window cannot be closed.
+< 0 0.995556 1780 0 0 840 1920 0 0 1080 13
+< 0 0.995556 1602 0 0 840 1920 0 0 1080 13
+< 2 1.001481 1644 0 0 845 1920 0 0 1080 13
+< 2 1.001481 1637 0 0 845 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 1.001481 1644 0 0 845 1920 0 0 1080 13
+< 2 1.001481 1637 0 0 845 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 2 1.001481 1780 0 0 845 1920 0 0 1080 13
+< 2 1.001481 1602 0 0 845 1920 0 0 1080 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
