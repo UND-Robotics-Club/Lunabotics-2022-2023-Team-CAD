@@ -4,61 +4,76 @@
  Reference No.1 out of 1 
 
 Reference:
-   TYPE   : plane
+   TYPE   : edge
 
-Status   : in geometry (body id -5778)
+Status   : in geometry
 
 
 Reference owner:
  Model   :
-   NAME   : COLLECTOR_IGUS2MOTORPLATE_GJS 
+   NAME   : HOPPER_UNDERSHIELD 
    TYPE   : Part
  Feature :
 
     FEATURE NUMBER       5
-    INTERNAL FEATURE ID  40
+    INTERNAL FEATURE ID  362
     PARENTS = 1(#1) 3(#2) 5(#3) 
+    CHILDREN = 882(#6) 985(#7) 
 
 
- PROTRUSION: Extrude
+ WALL SURFACE: Extrude
 
-  NO.     ELEMENT NAME       INFO                                               
-  ---     -------------      -------------                                      
-   1      Feature Name       Defined                                            
-   2      Extrude Feat type  Solid                                              
-   3      Material           Add                                                
-   4      Body               Defined                                            
-   4.1    Use body           Selected                                           
-   4.2    Selected bodies    Body 1                                             
-   5      Section            Defined                                            
-   5.1    Setup Plane        Defined                                            
-   5.1.1  Sketching Plane    FRONT:F3(DATUM PLANE)                              
-   5.1.2  View Direction     Side 1                                             
-   5.1.3  Orientation        Right                                              
-   5.1.4  Reference          RIGHT:F1(DATUM PLANE)                              
-   5.2    Sketch             Defined                                            
-   6      Feature Form       Solid                                              
-   7      Direction          Side 2                                             
-   8      Depth              Defined                                            
-   8.1    Side One           Defined                                            
-   8.1.1  Side One Depth     None                                               
-   8.2    Side Two           Defined                                            
-   8.2.1  Side Two Depth     Variable                                           
-   8.2.2  Value              0.25                                               
+  NO.     ELEMENT NAME             INFO                                         
+  ---     -------------            -------------                                
+   1      Feature Name             Defined                                      
+   2      Extrude Feat type        Solid                                        
+   3      Material                 Add                                          
+   4      Section                  Defined                                      
+   4.1    Setup Plane              Defined                                      
+   4.1.1  Sketching Plane          FRONT:F3(DATUM PLANE)                        
+   4.1.2  View Direction           Side 1                                       
+   4.1.3  Orientation              Right                                        
+   4.1.4  Reference                RIGHT:F1(DATUM PLANE)                        
+   4.2    Sketch                   Defined                                      
+   5      Material Side            Side One                                     
+   6      Direction                Side 2                                       
+   7      Depth                    Defined                                      
+   7.1    Side One                 Defined                                      
+   7.1.1  Side One Depth           None                                         
+   7.2    Side Two                 Defined                                      
+   7.2.1  Side Two Depth           Symmetric                                    
+   7.2.2  Value                    19.500                                       
+   8      Sharps to Bends          Yes                                          
+   9      Bend Radius              Defined                                      
+   9.1    Bend Radius Type         Inside                                       
+   9.2    Bend Radius Value        0.06                                         
+   10     Dev. Length Calculation  Defined                                      
+   10.1   Dev. Length Source       From Part                                    
 
+ FEATURE REFERENCES PART BEND TABLE.
     SECTION NAME = Section 1 
+    OPEN SECTION
 
 
     FEATURE'S DIMENSIONS:
-    d0 = (Displayed:) .25
-         (   Stored:) 0.25 ( 0.01, -0.01 ) 
-    d1 = (Displayed:) 2.13
-         (   Stored:) 2.125 ( 0.01, -0.01 ) 
-    d2 = (Displayed:) 2.65
-         (   Stored:) 2.65 ( 0.01, -0.01 ) 
+    d16 = (Displayed:) 19.50
+          (   Stored:) 19.5 ( 0.01, -0.01 ) 
+    d17 = (Displayed:) .06 THICK
+          (   Stored:) -0.06 ( 0.01, -0.01 ) 
+    d18 = (Displayed:) .06R
+          (   Stored:) 0.06 ( 0.01, -0.01 ) 
+    d24 = (Displayed:) 2.00
+          (   Stored:) 2.0 ( 0.01, -0.01 ) 
+    d25 = (Displayed:) 10.10
+          (   Stored:) 10.1 ( 0.01, -0.01 ) 
+    d34 = (Displayed:) .12DEV.L
+          (   Stored:) 0.1242477796077 ( 0.01, -0.01 ) 
+    d35 = (Displayed:) .12DEV.L
+          (   Stored:) 0.1242477796077 ( 0.01, -0.01 ) 
 RELATION                           PARAMETER                 NEW VALUE
 --------                           ---------                 --- -----
 
-/*** Relations for feature id 40, section 1:
-sd1 = length                       SD1 (D2)                  2.650000e+00       
-sd0 = width                        SD0 (D1)                  2.125000e+00       
+*** Part relations driven by this feature:
+
+*** Feature relations:
+D18 = SMT_DFLT_BEND_RADIUS         D18                       6.000000e-02       
