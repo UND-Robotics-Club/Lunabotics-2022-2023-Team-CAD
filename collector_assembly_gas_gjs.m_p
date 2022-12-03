@@ -1,39 +1,39 @@
 ﻿MASS PROPERTIES OF THE ASSEMBLY COLLECTOR_ASSEMBLY_GAS_GJS
 
-VOLUME =  9.9875700e+01  INCH^3
-SURFACE AREA =  1.1544961e+03  INCH^2
-AVERAGE DENSITY =  1.0894098e-01 POUND / INCH^3
-MASS =  1.0880556e+01 POUND 
+VOLUME =  1.7981880e+02  INCH^3
+SURFACE AREA =  2.2218071e+03  INCH^2
+AVERAGE DENSITY =  1.2333922e-01 POUND / INCH^3
+MASS =  2.2178711e+01 POUND 
 CENTER OF GRAVITY with respect to _COLLECTOR_ASSEMBLY_GAS_GJS coordinate frame:
-X   Y   Z     3.1188871e+00  1.3675726e+01 -3.4504429e-01  INCH
+X   Y   Z     3.1284806e+00  1.4193390e+01 -1.4460321e-01  INCH
 
 INERTIA with respect to _COLLECTOR_ASSEMBLY_GAS_GJS coordinate frame:  (POUND * INCH^2)
 
 INERTIA TENSOR:
-Ixx Ixy Ixz  3.4198358e+03 -4.6896620e+02  1.1606102e+01
-Iyx Iyy Iyz -4.6896620e+02  2.3417658e+02  8.7543229e+00
-Izx Izy Izz  1.1606102e+01  8.7543229e+00  3.6113592e+03
+Ixx Ixy Ixz  7.2919711e+03 -1.0295250e+03  1.2298396e+01
+Iyx Iyy Iyz -1.0295250e+03  5.3221243e+02  3.8444953e+00
+Izx Izy Izz  1.2298396e+01  3.8444953e+00  7.6264262e+03
 
 INERTIA at CENTER OF GRAVITY with respect to _COLLECTOR_ASSEMBLY_GAS_GJS coordinate frame:  (POUND * INCH^2)
 
 INERTIA TENSOR:
-Ixx Ixy Ixz  1.3835992e+03 -4.8773459e+00 -1.0305395e-01
-Iyx Iyy Iyz -4.8773459e+00  1.2704104e+02 -4.2588097e+01
-Izx Izy Izz -1.0305395e-01 -4.2588097e+01  1.4705778e+03
+Ixx Ixy Ixz  2.8235545e+03 -4.4707126e+01  2.2650068e+00
+Iyx Iyy Iyz -4.4707126e+01  3.1467696e+02 -4.1675306e+01
+Izx Izy Izz  2.2650068e+00 -4.1675306e+01  2.9414016e+03
 
 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
-I1  I2  I3   1.2567350e+02  1.3836181e+03  1.4719265e+03
+I1  I2  I3   3.1322119e+02  2.8242741e+03  2.9421377e+03
 
 ROTATION MATRIX from _COLLECTOR_ASSEMBLY_GAS_GJS orientation to PRINCIPAL AXES:
-       0.00388       -0.99999        0.00058
-       0.99949        0.00386       -0.03165
-       0.03165        0.00070        0.99950
+       0.01779       -0.99952        0.02523
+       0.99972        0.01738       -0.01628
+       0.01584        0.02551        0.99955
 
 ROTATION ANGLES from _COLLECTOR_ASSEMBLY_GAS_GJS orientation to PRINCIPAL AXES (degrees):
-angles about x  y  z   1.814          0.000         89.778 
+angles about x  y  z   0.933          1.446         88.980 
 
 RADII OF GYRATION with respect to PRINCIPAL AXES:
-R1  R2  R3 3.3985707e+00  1.1276714e+01  1.1631012e+01  INCH
+R1  R2  R3 3.7580056e+00  1.1284577e+01  1.1517636e+01  INCH
 
 ---------------------------------------------
 
@@ -76,6 +76,8 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
          9.79121e-02  4.04859e-02  2.87904e+00  3.16123e+01  0.00000e+00
  COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
          3.19759e-01  2.37497e-02  2.92673e+00  3.20000e+01  0.00000e+00
+       COLLECTOR_MININGMOTOR_GJS            MATERIAL:                              UNKNOWN
+         1.48600e-01  1.61892e+00  4.45505e+00  2.73872e+01 -2.26402e-02
  COLLECTOR_STANDOFF_ASSEMBLY_GJS            MATERIAL:                              UNKNOWN
          9.79121e-02  3.14877e-02  5.52994e+00  2.99446e+01  0.00000e+00
  COLLECTOR_STANDOFF_ASSEMBLY_GJS            MATERIAL:                              UNKNOWN
@@ -174,3 +176,91 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
          3.19759e-01  2.37497e-02  6.10576e+00  1.39185e+00 -1.10236e-03
  COLLECTOR_THUNDERHEXBUSHING_GJS            MATERIAL:                               BRONZE
          3.19759e-01  2.37497e-02  7.73063e-02  1.39185e+00 -1.10236e-03
+       COLLECTOR_217_2592_HEXHUB            MATERIAL:                               AL6061
+         9.79121e-02  6.21373e-02  6.57142e+00  1.39330e+00 -3.60833e-03
+       COLLECTOR_217_2592_HEXHUB            MATERIAL:                               AL6061
+         9.79121e-02  6.21373e-02 -3.88346e-01  1.39330e+00  1.40361e-03
+  COLLECTOR_217_2647_44TSPROCKET            MATERIAL:                               AL6061
+         9.79121e-02  3.22999e-01  6.82997e+00  1.39185e+00 -1.10236e-03
+  COLLECTOR_217_2647_44TSPROCKET            MATERIAL:                               AL6061
+         9.79121e-02  3.22999e-01 -6.46901e-01  1.39185e+00 -1.10236e-03
+    COLLECTOR_217_3259_HEXSPACER            MATERIAL:                                NYLON
+         4.33577e-02  2.57601e-03 -6.87401e-01  1.39185e+00 -1.10236e-03
+          217_2737_HEXCOLLAR_1_2            MATERIAL:                               AL6061
+         9.79121e-02  1.27395e-02 -9.37398e-01  1.39867e+00  1.49325e-02
+    COLLECTOR_217_3259_HEXSPACER            MATERIAL:                                NYLON
+         4.33577e-02  2.57601e-03  6.87047e+00  1.39185e+00 -1.10236e-03
+          217_2737_HEXCOLLAR_1_2            MATERIAL:                               AL6061
+         9.79121e-02  1.27395e-02  7.12047e+00  1.39867e+00  1.49325e-02
+  COLLECTOR_ACTUATE_BRACKET1_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.10903e-01  3.09154e+00  4.02904e+00  0.00000e+00
+      COLLECTOR_THRUSTWASHER_GJS            MATERIAL:                               AL6061
+         9.79121e-02  2.29942e-03  3.09154e+00  4.30829e+00  3.03871e-03
+         COLLECTOR_SCREWGEAR_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.02946e-01  3.09154e+00  4.58754e+00  0.00000e+00
+          COLLECTOR_LEAD_NUT_GJS            MATERIAL:                                NYLON
+         4.33577e-02  2.66391e-02  3.09154e+00  4.85405e+00  0.00000e+00
+      COLLECTOR_THRUSTWASHER_GJS            MATERIAL:                               AL6061
+         9.79121e-02  2.29942e-03  3.09154e+00  5.36679e+00 -3.03871e-03
+  COLLECTOR_ACTUATE_BRACKET1_GJS            MATERIAL:                               AL6061
+         9.79121e-02  1.10903e-01  3.09154e+00  5.64604e+00  0.00000e+00
+      COLLECTOR_ACTUATEMOTOR_GJS            MATERIAL:                              UNKNOWN
+         2.00000e-01  1.45000e+00  2.08366e+00  8.07177e+00  1.33299e+00
+         COLLECTOR_MOTORGEAR_GJS            MATERIAL:                               AL6061
+         9.79121e-02  6.61985e-02  2.08366e+00  4.58754e+00  1.33299e+00
+   COLLECTOR_IGUS2MOTORPLATE_GJS            MATERIAL:                               AL6061
+         9.79121e-02  7.88805e-02  1.08575e+00  6.68575e+00  1.09881e+00
+        COLLECTOR_FULL_CHAIN_GJS            MATERIAL:                              UNKNOWN
+         2.36512e-01  1.44572e+00  6.83007e+00  1.67633e+01 -1.10236e-03
+        COLLECTOR_FULL_CHAIN_GJS            MATERIAL:                              UNKNOWN
+         2.36512e-01  1.44572e+00 -6.46901e-01  1.67633e+01 -1.10236e-03
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09110e+00  1.71111e+01  3.78146e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09207e+00  9.23610e+00  3.78146e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09207e+00  1.36107e+00  3.78145e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09110e+00  7.96170e-01 -3.73567e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09207e+00  8.91559e+00 -3.78367e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09207e+00  1.67906e+01 -3.78367e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09207e+00  2.46656e+01 -3.78367e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09207e+00  3.26245e+01 -3.75104e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09110e+00  3.21934e+01  3.78022e+00
+     COLLECTOR_CHAINASSEMBLY_GJS            MATERIAL:                              UNKNOWN
+         9.92455e-02  3.10793e-01  3.09110e+00  2.49861e+01  3.78146e+00
+     COLLECTOR_9512K52_BALL_STUD            MATERIAL:                                STEEL
+         2.82771e-01  2.27557e-02 -2.25527e+00  8.55096e+00  1.90973e+00
+       COLLECTOR_GAS_HINGE_MOUNT            MATERIAL:                               AL6061
+         9.79121e-02  2.97113e-02 -1.97834e+00  3.10527e+00 -5.67776e+00
+     COLLECTOR_9512K52_BALL_STUD            MATERIAL:                                STEEL
+         2.82771e-01  2.27557e-02 -2.25527e+00  3.27997e+00 -5.89992e+00
+  COLLECTOR_9416K751_END_FITTING            MATERIAL:                                STEEL
+         2.82771e-01  3.54711e-02 -2.57155e+00  8.44230e+00  1.74859e+00
+  COLLECTOR_9416K751_END_FITTING            MATERIAL:                                STEEL
+         2.82771e-01  3.54711e-02 -2.57156e+00  3.38862e+00 -5.73878e+00
+     COLLECTOR_9512K52_BALL_STUD            MATERIAL:                                STEEL
+         2.82771e-01  2.27557e-02  8.43834e+00  8.55098e+00  1.90973e+00
+  COLLECTOR_9416K751_END_FITTING            MATERIAL:                                STEEL
+         2.82771e-01  3.54711e-02  8.75463e+00  8.44216e+00  1.74869e+00
+       COLLECTOR_GAS_HINGE_MOUNT            MATERIAL:                               AL6061
+         9.79121e-02  2.97113e-02  8.16141e+00  3.10527e+00 -5.67776e+00
+     COLLECTOR_9512K52_BALL_STUD            MATERIAL:                                STEEL
+         2.82771e-01  2.27557e-02  8.43834e+00  3.27997e+00 -5.89995e+00
+  COLLECTOR_9416K751_END_FITTING            MATERIAL:                                STEEL
+         2.82771e-01  3.54711e-02  8.75463e+00  3.38877e+00 -5.73888e+00
+     COLLECTOR_ADJUST_GAS_SPRING            MATERIAL:         GABRIELS_MATERIAL_GAS_SPRING
+         2.00000e-01  2.78369e-01 -2.54286e+00  6.58569e+00 -1.00207e+00
+     COLLECTOR_ADJUST_GAS_SPRING            MATERIAL:         GABRIELS_MATERIAL_GAS_SPRING
+         2.00000e-01  2.78369e-01  8.72593e+00  6.58569e+00 -1.00207e+00
+     COLLECTOR_BEVEL_GEAR_SPACER            MATERIAL:                                NYLON
+         4.33577e-02  3.00924e-03  3.12904e+00  3.20000e+01  0.00000e+00
+       8498A77_SPRING_LOADED_PIN            MATERIAL:                                STEEL
+         2.82771e-01  3.79047e-02  8.81344e+00  1.14428e+00 -2.39389e+00
+       8498A77_SPRING_LOADED_PIN            MATERIAL:                                STEEL
+         2.82771e-01  3.79047e-02 -2.63037e+00  1.14428e+00 -2.39611e+00
