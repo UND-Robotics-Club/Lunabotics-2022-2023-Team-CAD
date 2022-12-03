@@ -1,0 +1,42 @@
+﻿  MODEL HOPPER_GRATE_ASSEMBLY :
+ 
+
+  2 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 4
+
+Feature number 6 (COMPONENT, id = 210) 
+  in model HOPPER_GRATE_ASSEMBLY refers to:
+
+Feature number 6 (PLANAR_1, id = 308) 
+  in model HOPPER_HINGE_CONNECT_PLATE must follow after:
+
+Feature number 5 (SKETCH_1, id = 300) 
+  in model HOPPER_HINGE_CONNECT_PLATE refers to:
+
+Feature number 6 (COMPONENT, id = 210) 
+  in model HOPPER_GRATE_ASSEMBLY - circle closed.
+
+
+   LOOP #  2
+
+   Depth of loop is 5
+
+Feature number 6 (COMPONENT, id = 210) 
+  in model HOPPER_GRATE_ASSEMBLY refers to:
+
+Feature number 13 (HOLE_1, id = 3992) 
+  in model HOPPER_HINGE_CONNECT_PLATE refers to:
+
+Feature number 10 (SKETCH_4, id = 3975) 
+  in model HOPPER_HINGE_CONNECT_PLATE must follow after:
+
+Feature number 5 (SKETCH_1, id = 300) 
+  in model HOPPER_HINGE_CONNECT_PLATE refers to:
+
+Feature number 6 (COMPONENT, id = 210) 
+  in model HOPPER_GRATE_ASSEMBLY - circle closed.
+
