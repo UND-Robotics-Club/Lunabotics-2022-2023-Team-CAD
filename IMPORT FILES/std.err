@@ -1,0 +1,387 @@
+clnttcp_create: connect failed, error = 10061, retrying
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "../../libs/prowtlibs"
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdutilappphotorealrend'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdUtilAppPhotoRealRend, from resource file: procmdutilappphotorealrend
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdutilappphotorealrendclose'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdUtilAppPhotoRealRendClose, from resource file: procmdutilappphotorealrendclose
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: hover function already set
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_set_hover_func: hover function already set
+%UIMSG-COMMAND-ERROR, uicmd_cmd_group_cmd_by_name_add: command to add is not found
+%UIMSG-USER-ERROR, Failed to preload image sp_128
+%UIMSG-USER-ERROR, Failed to preload image sp_129
+%UIMSG-USER-ERROR, Failed to preload image sp_130
+%UIMSG-USER-ERROR, Failed to preload image sp_131
+%UIMSG-USER-ERROR, Failed to preload image sp_132
+%UIMSG-USER-ERROR, Failed to preload image sp_133
+%UIMSG-USER-ERROR, Failed to preload image sp_134
+%UIMSG-USER-ERROR, Failed to preload image sp_135
+%UIMSG-USER-ERROR, Failed to preload image sp_136
+%UIMSG-USER-ERROR, Failed to preload image sp_137
+%UIMSG-USER-ERROR, Failed to preload image sp_138
+%UIMSG-USER-ERROR, Failed to preload image sp_139
+%UIMSG-USER-ERROR, Failed to preload image sp_140
+%UIMSG-USER-ERROR, Failed to preload image sp_141
+%UIMSG-USER-ERROR, Failed to preload image sp_142
+%UIMSG-USER-ERROR, Failed to preload image sp_143
+%UIMSG-USER-ERROR, Failed to preload image sp_144
+%UIMSG-USER-ERROR, Failed to preload image sp_145
+%UIMSG-USER-ERROR, Failed to preload image sp_146
+%UIMSG-USER-ERROR, Failed to preload image sp_147
+%UIMSG-USER-ERROR, Failed to preload image sp_148
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "proe/proribbon"
+%UIMSG-USER-ERROR, TitleBarImage "creo_logo_parametric.ico" is the wrong size (32x32) for main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Did not find item <PHTLeft.CeViewTabLay> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (166x31) to be partially viewable in (0,0) (166x30)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (167x32) to be partially viewable in (0,0) (166x30)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (167x33) to be partially viewable in (0,0) (166x31)
+%UIMSG-APPLICATION-ERROR, Did not find item <PHTLeft.HistLay> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Tab has 3 items, but trying to set 4 selectables
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Could not find component: proe_win, in device: rmb_popup, for ui_retrieve
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "../../libs/prowtlibs"
+%UIMSG-APPLICATION-ERROR, ui_create_search_path: Ignoring non-existent folder "../../proe/uitools"
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'lc_invoke'
+%UIMSG-USER-ERROR, Failed to create device: LC_Invoke, from resource file: lc_invoke
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdautoactdebug'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdAutoActDebug, from resource file: procmdautoactdebug
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdautoactdebugdump'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdAutoActDebugDump, from resource file: procmdautoactdebugdump
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdapplmenudbginfo'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdApplMenuDbgInfo, from resource file: procmdapplmenudbginfo
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Did not find selectable item <> in List PHBriefOpts.opt_brief_profile@impt_new_model (.OptionMenuPopupList)
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHBriefOpts.opt_brief_profile, in device: impt_new_model
+%UIMSG-APPLICATION-ERROR, Attempt to select non-existent entry: , in RadioGroup: Representation@impt_new_model
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Representation, in device: impt_new_model
+%UIMSG-APPLICATION-ERROR, Could not find component: PHBriefOpts.ph_lay_brief_type_opts.AutoRepair, in device: impt_new_model, for ui_retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: PHBriefOpts.ph_lay_brief_type_opts.AutoRepair, in device: impt_new_model, for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PHBriefOpts.ph_lay_brief_type_opts.FacetUnits, in device: impt_new_model, for ui_retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: PHBriefOpts.ph_lay_brief_type_opts.FacetCustomUnit, in device: impt_new_model, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PHBriefOpts.ph_lay_brief_type_opts.FacetUnits, in device: impt_new_model, for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PHBriefOpts.ph_lay_brief_type_opts.EnableMB, in device: impt_new_model, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PHBriefOpts.ph_lay_brief_type_opts.ImportAsInsepAsm, in device: impt_new_model, for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PHBriefOpts.ph_lay_brief_type_opts.FacetCustomUnit, in device: impt_new_model, for ui_retrieve
+%UIMSG-APPLICATION-ERROR, PGLWindow DeleteComponent: Could not find component named <mathcad_btn>
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2085 to component: proe_win, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Could not find device: newtree, for ui_inquire
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_set_sash_pos_Op is obsolete - use UI_sash_position_Attr
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2033 to component: PHTLeft.AssyTree, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for ui_modify
+%UIMSG-APPLICATION-ERROR, Tab has 3 items, but trying to set 4 selectables
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Tab has 3 items, but trying to set 4 selectables
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.MdlTreeLay> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Could not find component: PHTLeft.ColAssignExpandChkBtn, in device: main_dlg_w1, for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'switcher_sash@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Component 'switcher_sash@main_dlg_w1' is being resized when UI_redraw_Attr = FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: PHTLeft.ColAssignExpandChkBtn, in device: main_dlg_w1, for ui_modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_set_sash_pos_Op is obsolete - use UI_sash_position_Attr
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'profrtextrude'
+%UIMSG-USER-ERROR, Failed to create device: ProFRTExtrude, from resource file: profrtextrude
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'profrthole'
+%UIMSG-USER-ERROR, Failed to create device: ProFRTHole, from resource file: profrthole
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'profrtfillet'
+%UIMSG-USER-ERROR, Failed to create device: ProFRTFillet, from resource file: profrtfillet
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'profrtchamfer'
+%UIMSG-USER-ERROR, Failed to create device: ProFRTChamfer, from resource file: profrtchamfer
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'profrtslot'
+%UIMSG-USER-ERROR, Failed to create device: ProFRTSlot, from resource file: profrtslot
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'profrtpattern'
+%UIMSG-USER-ERROR, Failed to create device: ProFRTPattern, from resource file: profrtpattern
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdcompositemgr'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdCompositeMgr, from resource file: procmdcompositemgr
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdsimlivetemperature'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdSimliveTemperature, from resource file: procmdsimlivetemperature
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'procmdsimliveconvec'
+%UIMSG-USER-ERROR, Failed to create device: ProCmdSimliveConvec, from resource file: procmdsimliveconvec
+%UIMSG-APPLICATION-ERROR, Cannot modify Orientation of RadioGroup <Model:casc366617136:ProCmdATBNewComponents@main_dlg_w1> in menu
+%UIMSG-COMMAND-ERROR, _uicmd_attribute_to_comp: Can't modify 'Model:casc366617136:ProCmdATBNewComponents@main_dlg_w1' from command attribute
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Model:ProCmdCompositeMgr, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-USER-ERROR, Illegal reference to image: creo4/toolbutton_focused.png
+%UIMSG-APPLICATION-ERROR, UI_get_screen_cursor_pos_Op is obsolete - use UI Desktop UI_get_cursor_pos_Op
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, _uicmd_access_find_named: could not find AccessId for "pause_wdg_explode_access"
+%UIMSG-COMMAND-ERROR, uicmd_access_func_find_named: Failed to find access function name
+%UIMSG-APPLICATION-ERROR, Tab ItemModify: Cannot modify BackgroundColor
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2201 to component: pg_vis_tab, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Tab ItemModify: Cannot modify BackgroundColor
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2201 to component: pg_vis_tab, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Tab ItemModify: Cannot modify BackgroundColor
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2201 to component: pg_vis_tab, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Tab ItemModify: Cannot modify BackgroundColor
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2201 to component: pg_vis_tab, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Tab ItemModify: Cannot modify BackgroundColor
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2201 to component: pg_vis_tab, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Tab ItemModify: Cannot modify BackgroundColor
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2201 to component: pg_vis_tab, in device: Odui_Dlg_00
+%DUI-ERROR, odd_simple_dialog_inquire: Invalid Odd_control
+%DUI-ERROR, odd_simple_dialog_inquire: Bad Odd_control structure
+%DUI-ERROR, odd_simple_dialog_inquire: Invalid Odd_control
+%DUI-ERROR, odd_simple_dialog_inquire: Bad Odd_control structure
+%DUI-ERROR, odd_simple_dialog_inquire: Invalid Odd_control
+%DUI-ERROR, odd_simple_dialog_inquire: Bad Odd_control structure
+%DUI-ERROR, odd_simple_dialog_inquire: Invalid Odd_control
+%DUI-ERROR, odd_simple_dialog_inquire: Bad Odd_control structure
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t0.Pause, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.DtmAxisConstrColl_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.DelOne_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.DelAll_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.EditQuery_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.UpdateQuery_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.RefInfo_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.WiwOne_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.ZoomTo_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.WDG_TABLE_COMP_WIW_MENU_NAME_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.inp_wiw_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.inp_def_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constrs_table, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.constr_type_om, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.DtmAxisDimColl_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.DelOne_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.DelAll_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.EditQuery_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.UpdateQuery_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.RefInfo_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.WiwOne_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.ZoomTo_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.WDG_TABLE_COMP_WIW_MENU_NAME_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.inp_wiw_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.inp_def_Wmo02, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t1.dim_constr_table, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t2.outline_cb, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t2.fittype_om, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_remove_action
+%UIMSG-APPLICATION-ERROR, UI_global_component_exist_Op: No device name specified
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t3.NameInp_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t3.inp_wiw_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find device: Odui_Dlg_00 or component: t3.inp_def_Wmo01, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2033 to component: PHTLeft.AssyTree, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, UI_tree_node_modify_Op of UI_TREE_NODE_TYPE is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Cannot modify attribute: _ItemStyleNames, of component: File.rad_recent_files@ProTk_DB_dev
+%UIMSG-APPLICATION-ERROR, Cannot modify attribute: _ItemStyleNames, of component: DetailFile.rad_recent_files@ProTk_DB_dev
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (166x31) to be partially viewable in (0,0) (166x30)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (167x32) to be partially viewable in (0,0) (166x30)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (167x33) to be partially viewable in (0,0) (166x31)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,3) (167x33) to be partially viewable in (0,0) (166x38)
+%UIMSG-APPLICATION-ERROR, Cannot modify attribute: _ItemStyleNames, of component: File.rad_recent_files@ProTk_DB_dev
+%UIMSG-APPLICATION-ERROR, Cannot modify attribute: _ItemStyleNames, of component: DetailFile.rad_recent_files@ProTk_DB_dev
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component Inputname, in Dialog file_saveas
+%UIMSG-APPLICATION-ERROR, Failed to modify component: file_saveas, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (166x31) to be partially viewable in (0,0) (166x30)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (167x32) to be partially viewable in (0,0) (166x30)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (167x33) to be partially viewable in (0,0) (166x31)
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,3) (167x33) to be partially viewable in (0,0) (166x38)
+%UIMSG-APPLICATION-ERROR, Cannot modify attribute: _ItemStyleNames, of component: File.rad_recent_files@ProTk_DB_dev
+%UIMSG-APPLICATION-ERROR, Cannot modify attribute: _ItemStyleNames, of component: DetailFile.rad_recent_files@ProTk_DB_dev
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, Could not find component: __uitools::uit_undocked_titlebar.title, in device: main_dlg_w1|PIOAssyTree, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOTreeLay.__uitools::uit_docked_titlebar.title, in device: main_dlg_w1, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PIOAssyTree, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_group, in device: rmb_popup, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find device: ss_auto_complete_dlg, for ui_modify
+%UIMSG-APPLICATION-ERROR, Tab has 3 items, but trying to set 4 selectables
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.MainTreeTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.MainTreeTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2341 to component: PHTLeft.AssyTree, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2341 to component: PHTLeft.AssyTree, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2341 to component: PHTLeft.AssyTree, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2341 to component: PHTLeft.AssyTree, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to do operation 2341 to component: PHTLeft.AssyTree, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for ui_modify
+%UIMSG-USER-ERROR, TitleBarImage "creo_logo_parametric.ico" is the wrong size (32x32) for main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Could not find component: PHTLeft.ColAssignExpandChkBtn, in device: main_dlg_w1, for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_do_operation
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Could not find component: igToolbar_AncestorIGT_IGT_GRP_inh396938342_rmb_menu.proe_win|, in device: main_dlg_w1, for ui_remove_action
+%UIMSG-APPLICATION-ERROR, Cannot modify attribute: _ItemStyleNames, of component: File.rad_recent_files@ProTk_DB_dev
+%UIMSG-APPLICATION-ERROR, Cannot modify attribute: _ItemStyleNames, of component: DetailFile.rad_recent_files@ProTk_DB_dev
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-COMMAND-ERROR, uicmd_cmd_remove_component_value_changed_func: Can't find component listen function on command
+%UIMSG-APPLICATION-ERROR, UI_global_remove_action_notifier_Op: No matching callback to remove

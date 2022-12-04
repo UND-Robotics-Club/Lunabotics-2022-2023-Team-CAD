@@ -11,7 +11,7 @@ enable_legacy_datum_planes yes
 keep_info_datums yes
 orientation isometric
 sketcher_snap_sensitivity LOW
-sketcher_starts_in_2d yes
+sketcher_starts_in_2d no
 spin_surface_mesh no
 spin_with_orientation_center no
 tol_display no
