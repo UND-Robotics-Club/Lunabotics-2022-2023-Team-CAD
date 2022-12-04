@@ -1,0 +1,42 @@
+﻿  MODEL HOPPER_ASSEMBLY :
+ 
+
+  2 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 5
+
+Feature number 10 (COMPONENT, id = 242) 
+  in model HOPPER_ASSEMBLY refers to:
+
+Feature number 7 (EXTRUDE_1, id = 74) 
+  in model HOPPER_FRAME_R must follow after:
+
+Feature number 6 (SKETCH_1, id = 42) 
+  in model HOPPER_FRAME_R refers to:
+
+Feature number 11 (COMPONENT, id = 160) 
+  in model HOPPER_ASSEMBLY must follow after:
+
+Feature number 10 (COMPONENT, id = 242) 
+  in model HOPPER_ASSEMBLY - circle closed.
+
+
+   LOOP #  2
+
+   Depth of loop is 4
+
+Feature number 11 (COMPONENT, id = 160) 
+  in model HOPPER_ASSEMBLY refers to:
+
+Feature number 7 (EXTRUDE_1, id = 74) 
+  in model HOPPER_FRAME_L must follow after:
+
+Feature number 6 (SKETCH_1, id = 42) 
+  in model HOPPER_FRAME_L refers to:
+
+Feature number 11 (COMPONENT, id = 160) 
+  in model HOPPER_ASSEMBLY - circle closed.
+
