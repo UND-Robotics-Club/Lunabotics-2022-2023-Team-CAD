@@ -1,7 +1,7 @@
 ﻿  MODEL FRAME_ASSEMBLY :
  
 
-  51 CIRCULAR REFERENCE LOOPS FOUND
+  49 CIRCULAR REFERENCE LOOPS FOUND
  
 
    LOOP #  1
@@ -17,7 +17,7 @@ Feature number 11 (EXTRUDE_3, id = 3301)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
 Feature number 24 (COMPONENT, id = 188) 
@@ -40,7 +40,7 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
 Feature number 17 (COMPONENT, id = 390) 
@@ -63,7 +63,7 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
 Feature number 21 (COMPONENT, id = 72) 
@@ -86,7 +86,7 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
 Feature number 22 (COMPONENT, id = 76) 
@@ -109,7 +109,7 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
 Feature number 25 (COMPONENT, id = 190) 
@@ -118,18 +118,9 @@ Feature number 25 (COMPONENT, id = 190)
 
    LOOP #  6
 
-   Depth of loop is 7
+   Depth of loop is 6
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 84 (COMPONENT, id = 662) 
+Feature number 80 (COMPONENT, id = 662) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 1 (Mirrored bodies, id = 1) 
@@ -138,37 +129,17 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 80 (COMPONENT, id = 662) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  7
-
-   Depth of loop is 7
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 28 (COMPONENT, id = 194) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  8
 
    Depth of loop is 7
 
@@ -187,10 +158,36 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
 Feature number 17 (COMPONENT, id = 390) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  8
+
+   Depth of loop is 7
+
+Feature number 21 (COMPONENT, id = 72) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 21 (COMPONENT, id = 72) 
   in model FRAME_ASSEMBLY - circle closed.
 
 
@@ -198,7 +195,7 @@ Feature number 17 (COMPONENT, id = 390)
 
    Depth of loop is 7
 
-Feature number 21 (COMPONENT, id = 72) 
+Feature number 22 (COMPONENT, id = 76) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 8 (COMPONENT, id = 185) 
@@ -213,10 +210,10 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
-Feature number 21 (COMPONENT, id = 72) 
+Feature number 22 (COMPONENT, id = 76) 
   in model FRAME_ASSEMBLY - circle closed.
 
 
@@ -224,7 +221,7 @@ Feature number 21 (COMPONENT, id = 72)
 
    Depth of loop is 7
 
-Feature number 22 (COMPONENT, id = 76) 
+Feature number 25 (COMPONENT, id = 190) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 8 (COMPONENT, id = 185) 
@@ -239,10 +236,10 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
-Feature number 22 (COMPONENT, id = 76) 
+Feature number 25 (COMPONENT, id = 190) 
   in model FRAME_ASSEMBLY - circle closed.
 
 
@@ -250,7 +247,7 @@ Feature number 22 (COMPONENT, id = 76)
 
    Depth of loop is 7
 
-Feature number 25 (COMPONENT, id = 190) 
+Feature number 80 (COMPONENT, id = 662) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 8 (COMPONENT, id = 185) 
@@ -265,10 +262,10 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
-Feature number 25 (COMPONENT, id = 190) 
+Feature number 80 (COMPONENT, id = 662) 
   in model FRAME_ASSEMBLY - circle closed.
 
 
@@ -276,17 +273,11 @@ Feature number 25 (COMPONENT, id = 190)
 
    Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 84 (COMPONENT, id = 662) 
+Feature number 28 (COMPONENT, id = 458) 
   in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
 
 Feature number 8 (COMPONENT, id = 185) 
   in model FRAME_ASSEMBLY refers to:
@@ -297,25 +288,25 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 28 (COMPONENT, id = 458) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  13
 
    Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 28 (COMPONENT, id = 194) 
+Feature number 29 (COMPONENT, id = 461) 
   in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
 
 Feature number 8 (COMPONENT, id = 185) 
   in model FRAME_ASSEMBLY refers to:
@@ -326,11 +317,568 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 29 (COMPONENT, id = 461) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  14
+
+   Depth of loop is 8
+
+Feature number 31 (COMPONENT, id = 503) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 31 (COMPONENT, id = 503) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  15
+
+   Depth of loop is 8
+
+Feature number 32 (COMPONENT, id = 506) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 32 (COMPONENT, id = 506) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  16
+
+   Depth of loop is 8
+
+Feature number 34 (COMPONENT, id = 540) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 34 (COMPONENT, id = 540) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  17
+
+   Depth of loop is 8
+
+Feature number 35 (COMPONENT, id = 543) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 35 (COMPONENT, id = 543) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  18
+
+   Depth of loop is 8
+
+Feature number 36 (COMPONENT, id = 546) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 36 (COMPONENT, id = 546) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  19
+
+   Depth of loop is 8
+
+Feature number 37 (COMPONENT, id = 549) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 37 (COMPONENT, id = 549) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  20
+
+   Depth of loop is 8
+
+Feature number 39 (COMPONENT, id = 553) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 39 (COMPONENT, id = 553) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  21
+
+   Depth of loop is 8
+
+Feature number 40 (COMPONENT, id = 556) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 40 (COMPONENT, id = 556) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  22
+
+   Depth of loop is 8
+
+Feature number 41 (COMPONENT, id = 559) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 41 (COMPONENT, id = 559) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  23
+
+   Depth of loop is 8
+
+Feature number 42 (COMPONENT, id = 562) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 42 (COMPONENT, id = 562) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  24
+
+   Depth of loop is 8
+
+Feature number 44 (COMPONENT, id = 566) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 44 (COMPONENT, id = 566) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  25
+
+   Depth of loop is 8
+
+Feature number 45 (COMPONENT, id = 569) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 45 (COMPONENT, id = 569) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  26
+
+   Depth of loop is 8
+
+Feature number 46 (COMPONENT, id = 572) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 46 (COMPONENT, id = 572) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  27
+
+   Depth of loop is 8
+
+Feature number 47 (COMPONENT, id = 575) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 47 (COMPONENT, id = 575) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  28
+
+   Depth of loop is 8
+
+Feature number 62 (COMPONENT, id = 608) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 62 (COMPONENT, id = 608) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  29
+
+   Depth of loop is 8
+
+Feature number 63 (COMPONENT, id = 611) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 63 (COMPONENT, id = 611) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  30
+
+   Depth of loop is 8
+
+Feature number 65 (COMPONENT, id = 615) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 65 (COMPONENT, id = 615) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  31
+
+   Depth of loop is 8
+
+Feature number 66 (COMPONENT, id = 618) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 66 (COMPONENT, id = 618) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  32
+
+   Depth of loop is 8
+
+Feature number 67 (PATTERN_2, id = 637) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 10 (COMPONENT, id = 164) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 67 (PATTERN_2, id = 637) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  33
 
    Depth of loop is 7
 
@@ -339,611 +887,6 @@ Feature number 11 (EXTRUDE_3, id = 3301)
 
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  15
-
-   Depth of loop is 8
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  16
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 32 (COMPONENT, id = 458) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  17
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 33 (COMPONENT, id = 461) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  18
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 35 (COMPONENT, id = 503) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  19
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 36 (COMPONENT, id = 506) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  20
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 38 (COMPONENT, id = 540) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  21
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 39 (COMPONENT, id = 543) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  22
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 40 (COMPONENT, id = 546) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  23
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 41 (COMPONENT, id = 549) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  24
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 43 (COMPONENT, id = 553) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  25
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 44 (COMPONENT, id = 556) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  26
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 45 (COMPONENT, id = 559) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  27
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 46 (COMPONENT, id = 562) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  28
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 48 (COMPONENT, id = 566) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  29
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 49 (COMPONENT, id = 569) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  30
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 50 (COMPONENT, id = 572) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  31
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 51 (COMPONENT, id = 575) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  32
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 66 (COMPONENT, id = 608) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  33
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 67 (COMPONENT, id = 611) 
-  in model FRAME_ASSEMBLY refers to:
 
 Feature number 10 (COMPONENT, id = 164) 
   in model FRAME_ASSEMBLY must follow after:
@@ -963,7 +906,7 @@ Feature number 11 (EXTRUDE_3, id = 3301)
 
    LOOP #  34
 
-   Depth of loop is 9
+   Depth of loop is 8
 
 Feature number 11 (EXTRUDE_3, id = 3301) 
   in model FRAME_L must follow after:
@@ -971,10 +914,7 @@ Feature number 11 (EXTRUDE_3, id = 3301)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 69 (COMPONENT, id = 615) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 10 (COMPONENT, id = 164) 
@@ -994,70 +934,6 @@ Feature number 11 (EXTRUDE_3, id = 3301)
 
 
    LOOP #  35
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 70 (COMPONENT, id = 618) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  36
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 71 (PATTERN_2, id = 637) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 10 (COMPONENT, id = 164) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  37
 
    Depth of loop is 6
 
@@ -1080,7 +956,7 @@ Feature number 8 (COMPONENT, id = 185)
   in model FRAME_ASSEMBLY - circle closed.
 
 
-   LOOP #  38
+   LOOP #  36
 
    Depth of loop is 9
 
@@ -1105,14 +981,14 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
 Feature number 15 (COMPONENT, id = 381) 
   in model FRAME_ASSEMBLY - circle closed.
 
 
-   LOOP #  39
+   LOOP #  37
 
    Depth of loop is 10
 
@@ -1140,27 +1016,18 @@ Feature number 23 (EXTRUDE_5, id = 5089)
 Feature number 8 (SKETCH_6, id = 1930) 
   in model FRAME_L refers to:
 
-Feature number 86 (PATTERN_3, id = 702) 
+Feature number 82 (PATTERN_3, id = 702) 
   in model FRAME_ASSEMBLY must follow after:
 
 Feature number 17 (COMPONENT, id = 390) 
   in model FRAME_ASSEMBLY - circle closed.
 
 
-   LOOP #  40
+   LOOP #  38
 
-   Depth of loop is 9
+   Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 40 (COMPONENT, id = 546) 
+Feature number 36 (COMPONENT, id = 546) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 12 (COMPONENT, id = 222) 
@@ -1175,24 +1042,79 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 36 (COMPONENT, id = 546) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  39
+
+   Depth of loop is 8
+
+Feature number 37 (COMPONENT, id = 549) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 12 (COMPONENT, id = 222) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 37 (COMPONENT, id = 549) 
+  in model FRAME_ASSEMBLY - circle closed.
+
+
+   LOOP #  40
+
+   Depth of loop is 8
+
+Feature number 41 (COMPONENT, id = 559) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 12 (COMPONENT, id = 222) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 8 (COMPONENT, id = 185) 
+  in model FRAME_ASSEMBLY refers to:
+
+Feature number 1 (Mirrored bodies, id = 1) 
+  in model FRAME_R refers to:
+
+Feature number 23 (EXTRUDE_5, id = 5089) 
+  in model FRAME_L must follow after:
+
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 41 (COMPONENT, id = 559) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  41
 
-   Depth of loop is 9
+   Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 41 (COMPONENT, id = 549) 
+Feature number 42 (COMPONENT, id = 562) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 12 (COMPONENT, id = 222) 
@@ -1207,24 +1129,21 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 42 (COMPONENT, id = 562) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  42
 
-   Depth of loop is 9
+   Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 45 (COMPONENT, id = 559) 
+Feature number 46 (COMPONENT, id = 572) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 12 (COMPONENT, id = 222) 
@@ -1239,24 +1158,21 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 46 (COMPONENT, id = 572) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  43
 
-   Depth of loop is 9
+   Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 46 (COMPONENT, id = 562) 
+Feature number 47 (COMPONENT, id = 575) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 12 (COMPONENT, id = 222) 
@@ -1271,24 +1187,21 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 47 (COMPONENT, id = 575) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  44
 
-   Depth of loop is 9
+   Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 50 (COMPONENT, id = 572) 
+Feature number 48 (PATTERN_1, id = 586) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 12 (COMPONENT, id = 222) 
@@ -1303,24 +1216,21 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 48 (PATTERN_1, id = 586) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  45
 
-   Depth of loop is 9
+   Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 51 (COMPONENT, id = 575) 
+Feature number 62 (COMPONENT, id = 608) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 12 (COMPONENT, id = 222) 
@@ -1335,24 +1245,21 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 62 (COMPONENT, id = 608) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  46
 
-   Depth of loop is 9
+   Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 52 (PATTERN_1, id = 586) 
+Feature number 63 (COMPONENT, id = 611) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 12 (COMPONENT, id = 222) 
@@ -1367,24 +1274,21 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 63 (COMPONENT, id = 611) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  47
 
-   Depth of loop is 9
+   Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 66 (COMPONENT, id = 608) 
+Feature number 65 (COMPONENT, id = 615) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 12 (COMPONENT, id = 222) 
@@ -1399,24 +1303,21 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 65 (COMPONENT, id = 615) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  48
 
-   Depth of loop is 9
+   Depth of loop is 8
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 67 (COMPONENT, id = 611) 
+Feature number 66 (COMPONENT, id = 618) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 12 (COMPONENT, id = 222) 
@@ -1431,75 +1332,17 @@ Feature number 1 (Mirrored bodies, id = 1)
 Feature number 23 (EXTRUDE_5, id = 5089) 
   in model FRAME_L must follow after:
 
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
+Feature number 8 (SKETCH_6, id = 1930) 
+  in model FRAME_L refers to:
+
+Feature number 82 (PATTERN_3, id = 702) 
+  in model FRAME_ASSEMBLY must follow after:
+
+Feature number 66 (COMPONENT, id = 618) 
+  in model FRAME_ASSEMBLY - circle closed.
 
 
    LOOP #  49
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 69 (COMPONENT, id = 615) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 12 (COMPONENT, id = 222) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  50
-
-   Depth of loop is 9
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L must follow after:
-
-Feature number 8 (SKETCH_6, id = 1930) 
-  in model FRAME_L refers to:
-
-Feature number 86 (PATTERN_3, id = 702) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 70 (COMPONENT, id = 618) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 12 (COMPONENT, id = 222) 
-  in model FRAME_ASSEMBLY must follow after:
-
-Feature number 8 (COMPONENT, id = 185) 
-  in model FRAME_ASSEMBLY refers to:
-
-Feature number 1 (Mirrored bodies, id = 1) 
-  in model FRAME_R refers to:
-
-Feature number 23 (EXTRUDE_5, id = 5089) 
-  in model FRAME_L must follow after:
-
-Feature number 11 (EXTRUDE_3, id = 3301) 
-  in model FRAME_L - circle closed.
-
-
-   LOOP #  51
 
    Depth of loop is 6
 
