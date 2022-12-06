@@ -1,0 +1,2100 @@
+﻿!trail file version No. 2020
+!Creo  TM  9.0  (c) 2022 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 19712
+!	Application: Creo_Parametric
+!	Start date&time: 2022/12/05  22:12:34
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 9.0.0.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\traceback.log
+!end Exit Logger data.
+< 0 1.220741 1912 0 0 1030 1920 0 0 1080 13
+!mem_use INCREASE Blocks 913434, AppSize 12299523, SysSize 33084352
+< 0 1.052000 1052 0 0 1000 1920 0 0 1080 13
+< 0 1.055000 1055 0 0 1000 1920 0 0 1080 13
+< 0 1.055000 1055 0 0 1003 1920 0 0 1080 13
+< 0 1.055000 1055 0 0 1006 1920 0 0 1080 13
+< 0 0.950000 950 0 0 1006 1920 0 0 1080 13
+< 0 0.869926 1376 0 0 734 1920 0 0 1080 13
+< 0 0.869926 1333 0 0 734 1920 0 0 1080 13
+< 0 0.868741 1333 0 0 733 1920 0 0 1080 13
+< 0 0.990815 1644 0 0 836 1920 0 0 1080 13
+< 0 0.990815 1613 0 0 836 1920 0 0 1080 13
+!%CIWelcome to Creo Parametric Educational Edition 9.0.0.0.
+!AFX datecode: 9.0.0.0-rc.1 2021.12.09
+!AFX exec path: C:\Program Files\PTC\Creo 9.0.0.0\Common Files\afx\x86e_win64\afx90.dll
+!AFX text path: C:\Program Files\PTC\Creo 9.0.0.0\Common Files\afx\
+~ Activate `pse_abnorm_exit_dlg` `psh_continue`
+!mem_use INCREASE Blocks 984100, AppSize 42354180, SysSize 64672752
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 513 249 0 1 1613 836 1920 1080 15881
+** 0.203779 0.700957 0 1 1
+0.203779 0.591432 L 0 0.990814815 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 513 249 0 0 1613 836 1920 1080 15935
+~ Command `ProCmdSessionChangeDir` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CISuccessfully changed to C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD directory.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ FocusIn `file_open` `EMBED_BROWSER_SEARCH_IP`
+~ Input `file_open` `EMBED_BROWSER_SEARCH_IP` `c`
+~ Input `file_open` `EMBED_BROWSER_SEARCH_IP` `co`
+~ Input `file_open` `EMBED_BROWSER_SEARCH_IP` `col`
+~ Input `file_open` `EMBED_BROWSER_SEARCH_IP` `coll`
+~ Input `file_open` `EMBED_BROWSER_SEARCH_IP` `colle`
+~ Input `file_open` `EMBED_BROWSER_SEARCH_IP` `collec`
+~ Input `file_open` `EMBED_BROWSER_SEARCH_IP` `collect`
+~ Input `file_open` `EMBED_BROWSER_SEARCH_IP` `collecto`
+~ Input `file_open` `EMBED_BROWSER_SEARCH_IP` `collector`
+~ Update `file_open` `EMBED_BROWSER_SEARCH_IP` `collector`
+~ FocusOut `file_open` `EMBED_BROWSER_SEARCH_IP`
+~ Select `file_open` `Ph_list.Filelist` 1 `collector_assembly_gas_gjs.asm`
+~ Activate `file_open` `Ph_list.Filelist` 1 `collector_assembly_gas_gjs.asm`
+!Command ProCmdModelOpenExe was pushed from the software.
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_assembly_gas_gjs.asm.87
+!LIGHT_FIX_MODEL_RMODE is 51
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_igus_rail_l.prt.30
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_igus_rail_l.prt.30
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_igus_rail_r.prt.28
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_igus_rail_r.prt.28
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_digmotormount_gjs.prt.34
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_digmotormount_gjs.prt.34
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_thunderhexbushing_gjs.prt.12
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_thunderhexbushing_gjs.prt.12
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_4002_topshaft_gjs.prt.16
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_4002_topshaft_gjs.prt.16
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_15tbevel_gjs.prt.8
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_15tbevel_gjs.prt.8
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_2592_hexhub.prt.11
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_2592_hexhub.prt.11
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_2647_44tsprocket.prt.9
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_2647_44tsprocket.prt.9
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_3259_hexspacer.prt.6
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_3259_hexspacer.prt.6
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217_2737_hexcollar_1_2.prt.9
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217_2737_hexcollar_1_2.prt.9
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_gear_support_gjs.prt.11
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_gear_support_gjs.prt.11
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_miningmotor_gjs.asm.36
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_3351_bagmotor.prt.11
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_3351_bagmotor.prt.11
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bag_motor_mount.prt.10
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bag_motor_mount.prt.10
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_input_gjs.prt.7
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_input_gjs.prt.7
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_2816_ring_gearadd.prt.11
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_2816_ring_gearadd.prt.11
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_5046_encoder_gjs.asm.9
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-5046-step-20151201.asm.8
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-007_rev1.prt.6
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-007_rev1.prt.6
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-006_rev3.prt.6
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-006_rev3.prt.6
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-001_rev3.prt.6
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-001_rev3.prt.6
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-2788-001_rev3_57155k375.asm.7
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_8_.prt.6
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_8_.prt.6
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_10_.prt.6
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_10_.prt.6
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_11_.prt.6
+! 5-Dec-22 22:13:24  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_11_.prt.6
+! 5-Dec-22 22:13:24  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_7_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_7_.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_6_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_6_.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_5_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_5_.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_9_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_9_.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_4_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_4_.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_3_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_3_.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_2_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_2_.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\revolve3.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\revolve3.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_1_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cirpattern1_1_.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\revolve1.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\revolve1.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-2788-001_rev3_57155k375.asm.7
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-005_rev7_40t_spur_ref_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-005_rev7_40t_spur_ref_.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-003_rev4.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-003_rev4.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-008_rev2.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-008_rev2.prt.6
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-002_rev7_sealed_config.prt.7
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-002_rev7_sealed_config.prt.7
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\pcba_rev3.prt.4
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\pcba_rev3.prt.4
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-004_rev2_40t_spur_ref_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-4783-004_rev2_40t_spur_ref_.prt.6
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\217-5046-step-20151201.asm.8
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_5046_encoder_gjs.asm.9
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_1_2_gjs.asm.10
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_1.prt.9
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_1.prt.9
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_2.prt.4
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_2.prt.4
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_3.prt.4
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_3.prt.4
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_4.prt.4
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_4.prt.4
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_versa_output_1_2_gjs.asm.10
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_miningmotor_gjs.asm.36
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_standoff_assembly_gjs.asm.3
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_motor2standoff_gjs.prt.9
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_motor2standoff_gjs.prt.9
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_standoffmine_gjs.prt.9
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_standoffmine_gjs.prt.9
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_standoff_assembly_gjs.asm.3
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_pillowblock_al_igus.prt.9
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_pillowblock_al_igus.prt.9
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_pillow_plate_gjs.prt.17
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_pillow_plate_gjs.prt.17
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_2by3aluminum_gjs.prt.12
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_2by3aluminum_gjs.prt.12
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_hinge_spacer_gjs.prt.5
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_hinge_spacer_gjs.prt.5
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_gashinge_inside_mirro.prt.2
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_gashinge_inside_mirro.prt.2
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_gashinge_inside_r_gjs.prt.26
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_gashinge_inside_r_gjs.prt.26
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_mfi_0810_08_gjs.prt.9
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_mfi_0810_08_gjs.prt.9
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_hingeshaft_gjs.prt.10
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_hingeshaft_gjs.prt.10
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_hinge2chassis_gjs.prt.57
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_hinge2chassis_gjs.prt.57
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_90341a107_gjs.prt.4
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_90341a107_gjs.prt.4
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_6157k14_gjs.prt.7
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_6157k14_gjs.prt.7
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_screw_gjs.prt.10
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_screw_gjs.prt.10
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bottombrace_gjs.prt.16
+! 5-Dec-22 22:13:25  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bottombrace_gjs.prt.16
+! 5-Dec-22 22:13:25  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_tension_ig2shaft_gjs.prt.7
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_tension_ig2shaft_gjs.prt.7
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_tensionbrace_gjs.prt.15
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_tensionbrace_gjs.prt.15
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_4002_botshaft_gjs.prt.9
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_217_4002_botshaft_gjs.prt.9
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_actuate_bracket1_gjs.prt.10
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_actuate_bracket1_gjs.prt.10
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_thrustwasher_gjs.prt.5
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_thrustwasher_gjs.prt.5
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_screwgear_gjs.prt.7
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_screwgear_gjs.prt.7
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_lead_nut_gjs.prt.11
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_lead_nut_gjs.prt.11
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_actuatemotor_gjs.asm.21
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_actuatemotor_gjs.asm.21
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_motorgear_gjs.prt.7
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_motorgear_gjs.prt.7
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_igus2motorplate_gjs.prt.22
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_igus2motorplate_gjs.prt.22
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_full_chain_gjs.asm.15
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_pinlink_gjs.prt.8
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_pinlink_gjs.prt.8
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_rollerlink_gjs.prt.6
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_rollerlink_gjs.prt.6
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\7321k3_roller_chain_attachment_.asm.6
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cut-extrude1_3_.prt.3
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\cut-extrude1_3_.prt.3
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\boss-extrude8.prt.6
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\boss-extrude8.prt.6
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\7321k3_roller_chain_attachment_.asm.6
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_full_chain_gjs.asm.15
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_chainassembly_gjs.asm.18
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bucketbeam_gjs.prt.10
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bucketbeam_gjs.prt.10
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bucket2_gjs.prt.11
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bucket2_gjs.prt.11
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_chainassembly_gjs.asm.18
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_9512k52_ball_stud.prt.3
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_9512k52_ball_stud.prt.3
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_gas_hinge_mount.prt.5
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_gas_hinge_mount.prt.5
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_9416k751_end_fitting.prt.4
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_9416k751_end_fitting.prt.4
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_adjust_gas_spring.prt.21
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_adjust_gas_spring.prt.21
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bevel_gear_spacer.prt.2
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_bevel_gear_spacer.prt.2
+! 5-Dec-22 22:13:26  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\8498a77_spring_loaded_pin.prt.3
+! 5-Dec-22 22:13:26  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\8498a77_spring_loaded_pin.prt.3
+! 5-Dec-22 22:13:26  Start C:\Program Files\PTC\Creo 9.0.0.0\Common Files\ifx\parts\prolibrary\eng_part_lib\sock_cp_st_scr\csdd269<csdd>.prt
+! 5-Dec-22 22:13:26  Start C:\Program Files\PTC\Creo 9.0.0.0\Common Files\ifx\parts\prolibrary\eng_part_lib\sock_cp_st_scr\csdd.prt
+! 5-Dec-22 22:13:26  End   C:\Program Files\PTC\Creo 9.0.0.0\Common Files\ifx\parts\prolibrary\eng_part_lib\sock_cp_st_scr\csdd.prt
+!%CWNew objects created with this educational version of Creo Parametric will not be
+!%C_compatible with commercially licensed Creo Parametric software.
+! 5-Dec-22 22:13:27  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\4NKOBO87BBHCDCQ5LFKJGTIQC3
+! 5-Dec-22 22:13:27  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\4NKOBO87BBHCDCQ5LFKJGTIQC3
+!%CIRegenerating CSDD09 feature 1 out of 7 ...
+!%CIRegenerating CSDD09 feature 2 out of 7 ...
+!%CIRegenerating CSDD09 feature 3 out of 7 ...
+!%CIRegenerating CSDD09 feature 4 out of 7 ...
+!%CIRegenerating CSDD09 feature 5 out of 7 ...
+!%CIRegenerating CSDD09 feature 6 out of 7 ...
+!%CIRegenerating CSDD09 feature 7 out of 7 ...
+!%CICSDD09 regeneration completed successfully.
+! 5-Dec-22 22:13:27  Start C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\3R3V931HDCIGOV29MJVD05DKJ0
+! 5-Dec-22 22:13:27  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\3R3V931HDCIGOV29MJVD05DKJ0
+!%CIRegenerating CSDD269 feature 1 out of 7 ...
+!%CIRegenerating CSDD269 feature 2 out of 7 ...
+!%CIRegenerating CSDD269 feature 3 out of 7 ...
+!%CIRegenerating CSDD269 feature 4 out of 7 ...
+!%CIRegenerating CSDD269 feature 5 out of 7 ...
+!%CIRegenerating CSDD269 feature 6 out of 7 ...
+!%CIRegenerating CSDD269 feature 7 out of 7 ...
+!%CICSDD269 regeneration completed successfully.
+! 5-Dec-22 22:13:27  End   C:\Program Files\PTC\Creo 9.0.0.0\Common Files\ifx\parts\prolibrary\eng_part_lib\sock_cp_st_scr\csdd269<csdd>.prt
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:13:28
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:13:28
+!%CIPart 'COLLECTOR_217_5046_ENCODER_GJS' not changed since last regen.
+!%CIPart '217-5046-STEP-20151201' not changed since last regen.
+!%CIPart 'COLLECTOR_217_5046_ENCODER_GJS' not changed since last regen.
+!%CIPart '217-5046-STEP-20151201' not changed since last regen.
+! 5-Dec-22 22:13:28  End   C:\Users\gabriel.schettler\Documents\GitHub\Lunabotics-2022-2023-Team-CAD\collector_assembly_gas_gjs.asm.87
+@ oa_sel_filter_set _30_
+!mem_use INCREASE Blocks 2984524, AppSize 89711941, SysSize 150646072
+@ stack attr 2
+< 0 0.986074 1613 0 0 832 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+< 0 0.986074 1584 0 0 832 1920 0 0 1080 13
+~ Wheel `main_dlg_cur` `proe_win` 9 799 425 458752 0 1584 832 1920 1080 59075
+~ Wheel `main_dlg_cur` `proe_win` 9 799 425 458752 0 1584 832 1920 1080 59122
+~ Wheel `main_dlg_cur` `proe_win` 9 799 425 458752 0 1584 832 1920 1080 59900
+~ Wheel `main_dlg_cur` `proe_win` 9 799 425 458752 0 1584 832 1920 1080 59928
+~ Wheel `main_dlg_cur` `proe_win` 9 799 425 458752 0 1584 832 1920 1080 59934
+~ Wheel `main_dlg_cur` `proe_win` 9 799 425 458752 0 1584 832 1920 1080 59996
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdRibbonOptionsDlg` 
+!ODUI external UI session start for device : ribbon_options_dialog 
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Select `ribbon_options_dialog` `PageSwitcherPageList` 1 `DisplayObjLayout`
+~ Open `ribbon_options_dialog` `DisplayObjLayout.anti_aliasing_opt.lay_instance`
+~ Close `ribbon_options_dialog` `DisplayObjLayout.anti_aliasing_opt.lay_instance`
+~ Select `ribbon_options_dialog` `DisplayObjLayout.anti_aliasing_opt.lay_instance` 1 `16`
+~ Activate `ribbon_options_dialog` `OkPshBtn`
+! UITools Msg Dialog Future: warning
+!                          : The configuration settings that you have made will be
+!                          : applied to the current session only.
+!                          : 
+!                          : Do you want to save settings to a configuration file?
+!                          : 
+!                          : Note: user customization will be automatically
+!                          : saved to your profile directory.
+~ FocusIn `UITools Msg Dialog Future` `no`
+~ Activate `UITools Msg Dialog Future` `no`
+!ODUI external UI session stop. 
+~ MButtonArm `main_dlg_cur` `proe_win` 9 722 491 0 2 1584 832 1920 1080 76763
+~ Move `main_dlg_cur` `proe_win` 9 733 495 0 1538 1584 832 1920 1080 76907
+~ Move `main_dlg_cur` `proe_win` 9 745 495 0 514 1584 832 1920 1080 76969
+~ Move `main_dlg_cur` `proe_win` 9 749 495 0 514 1584 832 1920 1080 77030
+~ Move `main_dlg_cur` `proe_win` 9 758 493 0 1538 1584 832 1920 1080 77092
+~ Move `main_dlg_cur` `proe_win` 9 763 491 0 1538 1584 832 1920 1080 77170
+~ Move `main_dlg_cur` `proe_win` 9 767 491 0 514 1584 832 1920 1080 77216
+~ Move `main_dlg_cur` `proe_win` 9 770 494 0 1538 1584 832 1920 1080 77278
+~ Move `main_dlg_cur` `proe_win` 9 773 495 0 1538 1584 832 1920 1080 77340
+~ Move `main_dlg_cur` `proe_win` 9 776 496 0 1538 1584 832 1920 1080 77401
+~ Move `main_dlg_cur` `proe_win` 9 779 497 0 1538 1584 832 1920 1080 77471
+~ Move `main_dlg_cur` `proe_win` 9 784 498 0 1538 1584 832 1920 1080 77523
+~ Move `main_dlg_cur` `proe_win` 9 793 499 0 1538 1584 832 1920 1080 77585
+~ Move `main_dlg_cur` `proe_win` 9 799 499 0 514 1584 832 1920 1080 77647
+~ Move `main_dlg_cur` `proe_win` 9 801 499 0 514 1584 832 1920 1080 77709
+~ Move `main_dlg_cur` `proe_win` 9 801 504 0 1026 1584 832 1920 1080 77832
+~ Move `main_dlg_cur` `proe_win` 9 801 507 0 1026 1584 832 1920 1080 77894
+~ Move `main_dlg_cur` `proe_win` 9 801 510 0 1026 1584 832 1920 1080 77956
+~ Move `main_dlg_cur` `proe_win` 9 801 514 0 1026 1584 832 1920 1080 78019
+~ Move `main_dlg_cur` `proe_win` 9 802 517 0 1538 1584 832 1920 1080 78082
+~ Move `main_dlg_cur` `proe_win` 9 802 518 0 1026 1584 832 1920 1080 78145
+~ Move `main_dlg_cur` `proe_win` 9 802 519 0 1026 1584 832 1920 1080 78203
+~ Move `main_dlg_cur` `proe_win` 9 800 519 0 514 1584 832 1920 1080 78388
+~ Move `main_dlg_cur` `proe_win` 9 799 520 0 1538 1584 832 1920 1080 78451
+~ Move `main_dlg_cur` `proe_win` 9 798 522 0 1538 1584 832 1920 1080 78512
+~ Move `main_dlg_cur` `proe_win` 9 796 524 0 1538 1584 832 1920 1080 78571
+~ Move `main_dlg_cur` `proe_win` 9 795 526 0 1538 1584 832 1920 1080 78632
+~ Move `main_dlg_cur` `proe_win` 9 793 529 0 1538 1584 832 1920 1080 78699
+~ Move `main_dlg_cur` `proe_win` 9 790 532 0 1538 1584 832 1920 1080 78755
+~ Move `main_dlg_cur` `proe_win` 9 786 534 0 1538 1584 832 1920 1080 78817
+~ Move `main_dlg_cur` `proe_win` 9 784 535 0 1538 1584 832 1920 1080 78879
+~ Move `main_dlg_cur` `proe_win` 9 783 536 0 1538 1584 832 1920 1080 78942
+~ Move `main_dlg_cur` `proe_win` 9 782 536 0 514 1584 832 1920 1080 79000
+~ Move `main_dlg_cur` `proe_win` 9 781 536 0 514 1584 832 1920 1080 79126
+~ Move `main_dlg_cur` `proe_win` 9 780 536 0 514 1584 832 1920 1080 79248
+~ Move `main_dlg_cur` `proe_win` 9 780 535 0 1026 1584 832 1920 1080 79336
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 780 535 0 0 1584 832 1920 1080 79340
+~ Wheel `main_dlg_cur` `proe_win` 9 804 495 458752 0 1584 832 1920 1080 79720
+~ Wheel `main_dlg_cur` `proe_win` 9 804 495 458752 0 1584 832 1920 1080 79751
+~ Wheel `main_dlg_cur` `proe_win` 9 804 495 458752 0 1584 832 1920 1080 79831
+~ Wheel `main_dlg_cur` `proe_win` 9 804 495 458752 0 1584 832 1920 1080 80219
+~ Wheel `main_dlg_cur` `proe_win` 9 804 495 458752 0 1584 832 1920 1080 80245
+~ Wheel `main_dlg_cur` `proe_win` 9 804 495 458752 0 1584 832 1920 1080 80248
+~ Wheel `main_dlg_cur` `proe_win` 9 804 495 458752 0 1584 832 1920 1080 80395
+~ LButtonArm `main_dlg_cur` `proe_win` 9 802 495 0 1 1584 832 1920 1080 81953
+~ Move `main_dlg_cur` `proe_win` 9 802 495 0 1 1584 832 1920 1080 81961
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 802 495 0 0 1584 832 1920 1080 82010
+@sel_pz_xyz 510.1412259615 341.7593149038 508.3165849837 394.1386658654 0.0000000000
+@ sel view 0
+ 10.007992 -0.987974 1.494498 1.072035 10.097858 -0.503513
+ -1.435395 0.653217 10.044027 478.695869 339.157790 -1405.996182 18.189894 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 426] 2 210 -1 (0.8924127200 -0.2651560933) (0.3137676699 0.3892940396 0.2348439067)
+!Surf:F2(IMPORT FEATURE):COLLECTOR_LEAD_NUT_GJS
+~ Move `main_dlg_cur` `proe_win` 9 857 583 33554432 0 1584 832 1920 1080 82885
+>M Chain_oa_sel_CB ProeWin0 857 583 c0 20000 1584 0 0 832 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 889 553 33554432 1 1584 832 1920 1080 83595
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 889 553 33554432 0 1584 832 1920 1080 83645
+@sel_pz_xyz 598.3698918269 282.9402043269 513.1670071848 390.9050510646 0.0000000000
+@ sel view 0
+ 10.007992 -0.987974 1.494498 1.072035 10.097858 -0.503513
+ -1.435395 0.653217 10.044027 478.695869 339.157790 -1405.996182 18.189894 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 420] 3 4168 -1 (0.8643647180 0.0000000000) (-0.0705181019 1.0478908392 -0.1752235055)
+!Edge:F62(CHAMFER_1_6):COLLECTOR_SCREWGEAR_GJS
+~ Exit `main_dlg_cur` `proe_win` 9 -336 456 33554432 1536 1584 832 1920 1080 84369
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 100` \
+ 2
+!COLLECTOR_LEAD_NUT_GJS.PRT
+>M Chain_oa_sel_CB ProeWin0 382 399 100c0 0 1584 0 0 832 1920 0 0 1080 13
+~ Trail `MiniToolbar` `MiniToolbar` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `T2 100`
+~ PopupOver `main_dlg_cur` `PM_PHTLeft.AssyTree` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Close `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Command `ProCmdViewShowOnly@PopupMenuTree` 
+!Undo: added rec_id 308 type 10600 
+!Undo: added rec_id 163 type 10600 
+!Undo: added rec_id 1222 type 10600 
+!Undo: added rec_id 249 type 10600 
+!Undo: added rec_id 80 type 10600 
+!Undo: added rec_id 112 type 10600 
+!Undo: added rec_id 88 type 10600 
+!Undo: added rec_id 228 type 10600 
+!Undo: added rec_id 126 type 10600 
+!Undo: added rec_id 379 type 10600 
+!Undo: added rec_id 6949 type 10600 
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 101`
+!COLLECTOR_THRUSTWASHER_GJS.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 99`
+!COLLECTOR_SCREWGEAR_GJS.PRT
+~ Command `ProCmdViewShow@PopupMenuTree` 
+!Undo: added rec_id 6950 type 10600 
+! Executed sub-command ProCmdViewShowStandard.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 902 423 0 2 1584 832 1920 1080 103120
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 902 423 0 0 1584 832 1920 1080 103257
+~ LButtonArm `main_dlg_cur` `proe_win` 9 903 423 0 1 1584 832 1920 1080 103627
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 903 423 0 0 1584 832 1920 1080 103698
+@sel_pz_xyz 612.5676081731 414.7761418269 513.9475348953 398.1528083766 0.0000000000
+@ sel view 0
+ 10.007992 -0.987974 1.494498 1.072035 10.097858 -0.503513
+ -1.435395 0.653217 10.044027 478.695869 339.157790 -1405.996182 18.189894 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ MButtonArm `main_dlg_cur` `proe_win` 9 870 433 0 2 1584 832 1920 1080 104235
+~ Move `main_dlg_cur` `proe_win` 9 874 429 0 1538 1584 832 1920 1080 104374
+~ Move `main_dlg_cur` `proe_win` 9 875 425 0 1538 1584 832 1920 1080 104418
+~ Move `main_dlg_cur` `proe_win` 9 875 423 0 1026 1584 832 1920 1080 104601
+~ Move `main_dlg_cur` `proe_win` 9 871 414 0 1538 1584 832 1920 1080 104662
+~ Move `main_dlg_cur` `proe_win` 9 866 407 0 1538 1584 832 1920 1080 104725
+~ Move `main_dlg_cur` `proe_win` 9 864 404 0 1538 1584 832 1920 1080 104785
+~ Move `main_dlg_cur` `proe_win` 9 861 401 0 1538 1584 832 1920 1080 104848
+~ Move `main_dlg_cur` `proe_win` 9 856 397 0 1538 1584 832 1920 1080 104909
+~ Move `main_dlg_cur` `proe_win` 9 855 396 0 1538 1584 832 1920 1080 104970
+~ Move `main_dlg_cur` `proe_win` 9 851 393 0 1538 1584 832 1920 1080 105032
+~ Move `main_dlg_cur` `proe_win` 9 843 386 0 1538 1584 832 1920 1080 105094
+~ Move `main_dlg_cur` `proe_win` 9 832 378 0 1538 1584 832 1920 1080 105156
+~ Move `main_dlg_cur` `proe_win` 9 840 371 0 1538 1584 832 1920 1080 105648
+~ Move `main_dlg_cur` `proe_win` 9 841 371 0 514 1584 832 1920 1080 105707
+~ Move `main_dlg_cur` `proe_win` 9 842 370 0 1538 1584 832 1920 1080 105892
+~ Move `main_dlg_cur` `proe_win` 9 843 368 0 1538 1584 832 1920 1080 105954
+~ Move `main_dlg_cur` `proe_win` 9 843 379 0 1026 1584 832 1920 1080 107806
+~ Move `main_dlg_cur` `proe_win` 9 843 387 0 1026 1584 832 1920 1080 107868
+~ Move `main_dlg_cur` `proe_win` 9 843 396 0 1026 1584 832 1920 1080 107928
+~ Move `main_dlg_cur` `proe_win` 9 843 399 0 1026 1584 832 1920 1080 107989
+~ Move `main_dlg_cur` `proe_win` 9 844 416 0 1538 1584 832 1920 1080 108052
+~ Move `main_dlg_cur` `proe_win` 9 847 432 0 1538 1584 832 1920 1080 108113
+~ Move `main_dlg_cur` `proe_win` 9 847 438 0 1026 1584 832 1920 1080 108174
+~ Move `main_dlg_cur` `proe_win` 9 849 448 0 1538 1584 832 1920 1080 108240
+~ Move `main_dlg_cur` `proe_win` 9 852 459 0 1538 1584 832 1920 1080 108308
+~ Move `main_dlg_cur` `proe_win` 9 854 469 0 1538 1584 832 1920 1080 108360
+~ Move `main_dlg_cur` `proe_win` 9 857 477 0 1538 1584 832 1920 1080 108422
+~ Move `main_dlg_cur` `proe_win` 9 858 480 0 1538 1584 832 1920 1080 108484
+~ Move `main_dlg_cur` `proe_win` 9 866 497 0 1538 1584 832 1920 1080 108546
+~ Move `main_dlg_cur` `proe_win` 9 867 499 0 1538 1584 832 1920 1080 108609
+~ Move `main_dlg_cur` `proe_win` 9 866 498 0 1538 1584 832 1920 1080 108809
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 866 498 0 0 1584 832 1920 1080 108811
+~ LButtonArm `main_dlg_cur` `proe_win` 9 773 563 0 1 1584 832 1920 1080 110076
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 773 563 0 0 1584 832 1920 1080 110188
+@sel_pz_xyz 480.7316706731 272.7989783654 506.6997775833 390.3475312714 0.0000000000
+@ sel view 0
+ 10.109504 0.436153 0.988546 0.276725 7.946546 -6.336036
+ -1.044451 6.327061 7.889673 466.621717 350.859205 -1454.237989 18.189894 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 420] 2 79 -1 (0.4856258748 0.4532304986) (0.4856258748 0.4532304986 -0.2500000000)
+!Surf:F13(EXTRUDE_1):COLLECTOR_SCREWGEAR_GJS
+~ Command `ProCmdRedefine@PopupMenuGraphicWinStack` 
+! Executed sub-command ProCmdEditRedefFeat.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:14:24
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Component Placement
+!ODUI session started.
+!%CWGearPair1 is not active and hence is excluded from the current analysis.
+!%CPSelect aligning axis or edge on other part.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 841 231 0 2 1584 832 1920 1080 119292
+~ Move `main_dlg_cur` `proe_win` 9 841 231 0 2 1584 832 1920 1080 119298
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 841 231 0 0 1584 832 1920 1080 119448
+~ Activate `main_dlg_cur` `dashInst0.stdbtn_1`
+!ODUI session finished.
+!%CIComponent redefined successfully.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:14:31
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!ProgressBarDlg: Regen Started
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:14:31
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 6951 type 5300 
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+~ Wheel `main_dlg_cur` `proe_win` 9 804 222 393216 0 1584 832 1920 1080 121753
+~ Wheel `main_dlg_cur` `proe_win` 9 804 222 393216 0 1584 832 1920 1080 121791
+~ MButtonArm `main_dlg_cur` `proe_win` 9 684 367 0 2 1584 832 1920 1080 126146
+~ Move `main_dlg_cur` `proe_win` 9 688 366 0 1538 1584 832 1920 1080 126208
+~ Move `main_dlg_cur` `proe_win` 9 688 361 0 1026 1584 832 1920 1080 126269
+~ Move `main_dlg_cur` `proe_win` 9 686 332 0 1538 1584 832 1920 1080 126332
+~ Move `main_dlg_cur` `proe_win` 9 682 286 0 1538 1584 832 1920 1080 126392
+~ Move `main_dlg_cur` `proe_win` 9 677 251 0 1538 1584 832 1920 1080 126452
+~ Move `main_dlg_cur` `proe_win` 9 672 230 0 1538 1584 832 1920 1080 126514
+~ Move `main_dlg_cur` `proe_win` 9 664 202 0 1538 1584 832 1920 1080 126627
+~ Move `main_dlg_cur` `proe_win` 9 659 188 0 1538 1584 832 1920 1080 126641
+~ Move `main_dlg_cur` `proe_win` 9 654 180 0 1538 1584 832 1920 1080 126704
+~ Move `main_dlg_cur` `proe_win` 9 652 172 0 1538 1584 832 1920 1080 126772
+~ Move `main_dlg_cur` `proe_win` 9 651 167 0 1538 1584 832 1920 1080 126829
+~ Move `main_dlg_cur` `proe_win` 9 650 164 0 1538 1584 832 1920 1080 126885
+~ Move `main_dlg_cur` `proe_win` 9 650 167 0 1026 1584 832 1920 1080 127009
+~ Move `main_dlg_cur` `proe_win` 9 667 200 0 1538 1584 832 1920 1080 127071
+~ Move `main_dlg_cur` `proe_win` 9 674 215 0 1538 1584 832 1920 1080 127131
+~ Move `main_dlg_cur` `proe_win` 9 677 221 0 1538 1584 832 1920 1080 127192
+~ Move `main_dlg_cur` `proe_win` 9 679 226 0 1538 1584 832 1920 1080 127254
+~ Move `main_dlg_cur` `proe_win` 9 680 231 0 1538 1584 832 1920 1080 127315
+~ Move `main_dlg_cur` `proe_win` 9 681 233 0 1538 1584 832 1920 1080 127376
+~ Move `main_dlg_cur` `proe_win` 9 682 240 0 1538 1584 832 1920 1080 127438
+~ Move `main_dlg_cur` `proe_win` 9 684 249 0 1538 1584 832 1920 1080 127499
+~ Move `main_dlg_cur` `proe_win` 9 685 255 0 1538 1584 832 1920 1080 127561
+~ Move `main_dlg_cur` `proe_win` 9 685 258 0 1026 1584 832 1920 1080 127623
+~ Move `main_dlg_cur` `proe_win` 9 681 261 0 1538 1584 832 1920 1080 127933
+~ Move `main_dlg_cur` `proe_win` 9 676 265 0 1538 1584 832 1920 1080 127996
+~ Move `main_dlg_cur` `proe_win` 9 676 267 0 1026 1584 832 1920 1080 128056
+~ Move `main_dlg_cur` `proe_win` 9 675 271 0 1538 1584 832 1920 1080 128125
+~ Move `main_dlg_cur` `proe_win` 9 674 275 0 1538 1584 832 1920 1080 128181
+~ Move `main_dlg_cur` `proe_win` 9 673 281 0 1538 1584 832 1920 1080 128241
+~ Move `main_dlg_cur` `proe_win` 9 673 284 0 1026 1584 832 1920 1080 128303
+~ Move `main_dlg_cur` `proe_win` 9 673 288 0 1026 1584 832 1920 1080 128367
+~ Move `main_dlg_cur` `proe_win` 9 673 290 0 1026 1584 832 1920 1080 128488
+~ Move `main_dlg_cur` `proe_win` 9 673 294 0 1026 1584 832 1920 1080 128551
+~ Move `main_dlg_cur` `proe_win` 9 674 298 0 1538 1584 832 1920 1080 128611
+~ Move `main_dlg_cur` `proe_win` 9 675 301 0 1538 1584 832 1920 1080 128673
+~ Move `main_dlg_cur` `proe_win` 9 675 303 0 1026 1584 832 1920 1080 128735
+~ Move `main_dlg_cur` `proe_win` 9 676 305 0 1538 1584 832 1920 1080 128796
+~ Move `main_dlg_cur` `proe_win` 9 695 313 0 1538 1584 832 1920 1080 128944
+~ Move `main_dlg_cur` `proe_win` 9 698 317 0 1538 1584 832 1920 1080 128980
+~ Move `main_dlg_cur` `proe_win` 9 701 319 0 1538 1584 832 1920 1080 129042
+~ Move `main_dlg_cur` `proe_win` 9 703 322 0 1538 1584 832 1920 1080 129103
+~ Move `main_dlg_cur` `proe_win` 9 705 326 0 1538 1584 832 1920 1080 129164
+~ Move `main_dlg_cur` `proe_win` 9 707 334 0 1538 1584 832 1920 1080 129227
+~ Move `main_dlg_cur` `proe_win` 9 707 335 0 1026 1584 832 1920 1080 129289
+~ Move `main_dlg_cur` `proe_win` 9 709 346 0 1538 1584 832 1920 1080 129351
+~ Move `main_dlg_cur` `proe_win` 9 710 350 0 1538 1584 832 1920 1080 129413
+~ Move `main_dlg_cur` `proe_win` 9 709 350 0 514 1584 832 1920 1080 129939
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 709 350 0 0 1584 832 1920 1080 129960
+~ Wheel `main_dlg_cur` `proe_win` 9 644 149 393216 0 1584 832 1920 1080 136666
+~ LButtonArm `main_dlg_cur` `proe_win` 9 778 584 0 1 1584 832 1920 1080 137913
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 778 584 0 0 1584 832 1920 1080 137979
+@sel_pz_xyz 485.8022836538 251.5024038462 505.9284632708 386.9337635258 -491.6868931526
+@ sel view 0
+ 9.656002 0.816943 3.076319 0.798483 8.890546 -4.867252
+ -3.081163 4.864188 8.379477 467.751249 343.781559 -1435.899781 14.266333 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 420] 2 79 -1 (-0.1499240281 0.5782024189) (-0.1499240281 0.5782024189 -0.2500000000)
+!Surf:F13(EXTRUDE_1):COLLECTOR_SCREWGEAR_GJS
+~ Command `ProCmdRedefine@PopupMenuGraphicWinStack` 
+! Executed sub-command ProCmdEditRedefFeat.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:14:52
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Component Placement
+!ODUI session started.
+!%CWGearPair1 is not active and hence is excluded from the current analysis.
+!%CPSelect aligning axis or edge on other part.
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s0` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s0` ``
+~ Activate `main_dlg_cur` `maindashInst0.set_flip_pbtn`
+!%CWGearPair1 is not active and hence is excluded from the current analysis.
+!%CPSelect aligning axis or edge on other part.
+~ Open `main_dlg_cur` `maindashInst0.constr_set_type_menu`
+~ Close `main_dlg_cur` `maindashInst0.constr_set_type_menu`
+~ Select `main_dlg_cur` `maindashInst0.constr_set_type_menu` 1 `User Defined `
+!%CWSwitching the connection type may lead to loss of motion axis settings when you push the Ok button.
+!%CPSelect any reference for auto type constraining.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 884 462 0 2 1584 832 1920 1080 160205
+~ Move `main_dlg_cur` `proe_win` 9 884 458 0 1026 1584 832 1920 1080 160281
+~ Move `main_dlg_cur` `proe_win` 9 882 446 0 1538 1584 832 1920 1080 160344
+~ Move `main_dlg_cur` `proe_win` 9 881 430 0 1538 1584 832 1920 1080 160407
+~ Move `main_dlg_cur` `proe_win` 9 880 421 0 1538 1584 832 1920 1080 160468
+~ Move `main_dlg_cur` `proe_win` 9 879 414 0 1538 1584 832 1920 1080 160531
+~ Move `main_dlg_cur` `proe_win` 9 879 409 0 1026 1584 832 1920 1080 160595
+~ Move `main_dlg_cur` `proe_win` 9 879 407 0 1026 1584 832 1920 1080 160659
+~ Move `main_dlg_cur` `proe_win` 9 879 404 0 1026 1584 832 1920 1080 160722
+~ Move `main_dlg_cur` `proe_win` 9 879 399 0 1026 1584 832 1920 1080 160785
+~ Move `main_dlg_cur` `proe_win` 9 878 396 0 1538 1584 832 1920 1080 160846
+~ Move `main_dlg_cur` `proe_win` 9 878 394 0 1026 1584 832 1920 1080 160909
+~ Move `main_dlg_cur` `proe_win` 9 879 391 0 1538 1584 832 1920 1080 160971
+~ Move `main_dlg_cur` `proe_win` 9 880 387 0 1538 1584 832 1920 1080 161036
+~ Move `main_dlg_cur` `proe_win` 9 880 389 0 1026 1584 832 1920 1080 161222
+~ Move `main_dlg_cur` `proe_win` 9 880 391 0 1026 1584 832 1920 1080 161285
+~ Move `main_dlg_cur` `proe_win` 9 880 397 0 1026 1584 832 1920 1080 161347
+~ Move `main_dlg_cur` `proe_win` 9 880 404 0 1026 1584 832 1920 1080 161411
+~ Move `main_dlg_cur` `proe_win` 9 880 409 0 1026 1584 832 1920 1080 161471
+~ Move `main_dlg_cur` `proe_win` 9 880 414 0 1026 1584 832 1920 1080 161535
+~ Move `main_dlg_cur` `proe_win` 9 880 418 0 1026 1584 832 1920 1080 161597
+~ Move `main_dlg_cur` `proe_win` 9 880 420 0 1026 1584 832 1920 1080 161660
+~ Move `main_dlg_cur` `proe_win` 9 880 424 0 1026 1584 832 1920 1080 161723
+~ Move `main_dlg_cur` `proe_win` 9 880 426 0 1026 1584 832 1920 1080 161786
+~ Move `main_dlg_cur` `proe_win` 9 880 429 0 1026 1584 832 1920 1080 161871
+~ Move `main_dlg_cur` `proe_win` 9 880 432 0 1026 1584 832 1920 1080 161924
+~ Move `main_dlg_cur` `proe_win` 9 880 436 0 1026 1584 832 1920 1080 161973
+~ Move `main_dlg_cur` `proe_win` 9 880 441 0 1026 1584 832 1920 1080 162037
+~ Move `main_dlg_cur` `proe_win` 9 880 445 0 1026 1584 832 1920 1080 162099
+~ Move `main_dlg_cur` `proe_win` 9 880 448 0 1026 1584 832 1920 1080 162161
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 880 448 0 0 1584 832 1920 1080 162284
+~ Activate `main_dlg_cur` `dashInst0.stdbtn_1`
+!ODUI session finished.
+!%CIComponent redefined successfully.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:15:15
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!ProgressBarDlg: Regen Started
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:15:15
+!%CWGearPair1 is not active and hence is excluded from the current analysis.
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 6957 type 5300 
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+~ RButtonArm `main_dlg_cur` `proe_win` 9 78 321 0 4 1584 832 1920 1080 165650
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+@ sel_rmb_cmds 1
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 78 321 0 256 1584 832 1920 1080 165958
+~ Exit `main_dlg_cur` `proe_win` 9 78 321 0 4 1584 832 1920 1080 165966
+~ Close `rmb_popup` `PopupMenu`
+~ Command `ProCmdViewRestLayStat@PopupMenuGraphicWinStack` 
+!%CILayer status restored for all changed layers.
+!Undo: added rec_id 309 type 10605 
+!Undo: added rec_id 164 type 10605 
+!Undo: added rec_id 1223 type 10605 
+!Undo: added rec_id 250 type 10605 
+!Undo: added rec_id 81 type 10605 
+!Undo: added rec_id 113 type 10605 
+!Undo: added rec_id 89 type 10605 
+!Undo: added rec_id 229 type 10605 
+!Undo: added rec_id 127 type 10605 
+!Undo: added rec_id 380 type 10605 
+!Undo: added rec_id 6964 type 10605 
+!%CILayer statuses changed successfully. Repaint to see the results.
+~ Wheel `main_dlg_cur` `proe_win` 9 685 265 393216 0 1584 832 1920 1080 169662
+~ Wheel `main_dlg_cur` `proe_win` 9 685 265 393216 0 1584 832 1920 1080 169677
+~ Wheel `main_dlg_cur` `proe_win` 9 685 265 393216 0 1584 832 1920 1080 169680
+~ Wheel `main_dlg_cur` `proe_win` 9 685 265 393216 0 1584 832 1920 1080 169854
+~ MButtonArm `main_dlg_cur` `proe_win` 9 732 399 0 2 1584 832 1920 1080 171015
+~ Move `main_dlg_cur` `proe_win` 9 730 400 0 1538 1584 832 1920 1080 171065
+~ Move `main_dlg_cur` `proe_win` 9 721 405 0 1538 1584 832 1920 1080 171128
+~ Move `main_dlg_cur` `proe_win` 9 715 405 0 514 1584 832 1920 1080 171190
+~ Move `main_dlg_cur` `proe_win` 9 714 405 0 514 1584 832 1920 1080 171315
+~ Move `main_dlg_cur` `proe_win` 9 712 404 0 1538 1584 832 1920 1080 171377
+~ Move `main_dlg_cur` `proe_win` 9 710 401 0 1538 1584 832 1920 1080 171440
+~ Move `main_dlg_cur` `proe_win` 9 706 396 0 1538 1584 832 1920 1080 171500
+~ Move `main_dlg_cur` `proe_win` 9 702 392 0 1538 1584 832 1920 1080 171564
+~ Move `main_dlg_cur` `proe_win` 9 700 390 0 1538 1584 832 1920 1080 171631
+~ Move `main_dlg_cur` `proe_win` 9 698 389 0 1538 1584 832 1920 1080 171688
+~ Move `main_dlg_cur` `proe_win` 9 697 388 0 1538 1584 832 1920 1080 171749
+~ Move `main_dlg_cur` `proe_win` 9 695 388 0 514 1584 832 1920 1080 171814
+~ Move `main_dlg_cur` `proe_win` 9 694 388 0 514 1584 832 1920 1080 171875
+~ Move `main_dlg_cur` `proe_win` 9 693 387 0 1538 1584 832 1920 1080 171938
+~ Move `main_dlg_cur` `proe_win` 9 692 385 0 1538 1584 832 1920 1080 172002
+~ Move `main_dlg_cur` `proe_win` 9 691 385 0 514 1584 832 1920 1080 172115
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 691 385 0 0 1584 832 1920 1080 172119
+~ LButtonArm `main_dlg_cur` `proe_win` 9 706 415 0 1 1584 832 1920 1080 172787
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 706 415 0 0 1584 832 1920 1080 172850
+@sel_pz_xyz 412.7854567308 422.8891225962 501.9336614917 396.8741309073 -812.6657368375
+@ sel view 0
+ 10.096056 -0.718218 -0.960901 0.473603 9.868401 -2.399976
+ 1.102211 2.338450 9.832919 471.278629 346.506579 -1423.609254 8.951267 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 426] 2 210 -1 (0.8294050711 -0.1914933387) (0.3376573286 0.3687648687 0.3085066613)
+!Surf:F2(IMPORT FEATURE):COLLECTOR_LEAD_NUT_GJS
+~ Trail `MiniToolbar` `MiniToolbar` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 99`
+!COLLECTOR_SCREWGEAR_GJS.PRT
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 100`
+!COLLECTOR_LEAD_NUT_GJS.PRT
+~ Command `ProCmdRedefine@PopupMenuTree` 
+! Executed sub-command ProCmdEditRedefFeat.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Component Placement
+!ODUI session started.
+!%CPSelect any reference for auto type constraining.
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 393216 0 1584 832 1920 1080 180721
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 393216 0 1584 832 1920 1080 180732
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 393216 0 1584 832 1920 1080 180749
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 458752 0 1584 832 1920 1080 181370
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 458752 0 1584 832 1920 1080 181401
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 458752 0 1584 832 1920 1080 181431
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 458752 0 1584 832 1920 1080 181952
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 458752 0 1584 832 1920 1080 181979
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 458752 0 1584 832 1920 1080 181985
+~ Wheel `main_dlg_cur` `proe_win` 9 682 450 458752 0 1584 832 1920 1080 182049
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s0` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s0` ``
+~ Activate `ScrLayout.0.0` `PH.L.PIM_chk.l0.s2` 1
+!%CPSelect any reference for auto type constraining.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 686 367 0 2 1584 832 1920 1080 185311
+~ Move `main_dlg_cur` `proe_win` 9 686 367 0 2 1584 832 1920 1080 185314
+~ Move `main_dlg_cur` `proe_win` 9 689 364 0 1538 1584 832 1920 1080 185439
+~ Move `main_dlg_cur` `proe_win` 9 691 361 0 1538 1584 832 1920 1080 185502
+~ Move `main_dlg_cur` `proe_win` 9 694 356 0 1538 1584 832 1920 1080 185566
+~ Move `main_dlg_cur` `proe_win` 9 695 352 0 1538 1584 832 1920 1080 185628
+~ Move `main_dlg_cur` `proe_win` 9 696 344 0 1538 1584 832 1920 1080 185693
+~ Move `main_dlg_cur` `proe_win` 9 696 336 0 1026 1584 832 1920 1080 185757
+~ Move `main_dlg_cur` `proe_win` 9 696 332 0 1026 1584 832 1920 1080 185819
+~ Move `main_dlg_cur` `proe_win` 9 697 326 0 1538 1584 832 1920 1080 185882
+~ Move `main_dlg_cur` `proe_win` 9 697 322 0 1026 1584 832 1920 1080 185945
+~ Move `main_dlg_cur` `proe_win` 9 697 320 0 1026 1584 832 1920 1080 186010
+~ Move `main_dlg_cur` `proe_win` 9 696 323 0 1538 1584 832 1920 1080 186264
+~ Move `main_dlg_cur` `proe_win` 9 696 328 0 1026 1584 832 1920 1080 186327
+~ Move `main_dlg_cur` `proe_win` 9 696 331 0 1026 1584 832 1920 1080 186391
+~ Move `main_dlg_cur` `proe_win` 9 696 334 0 1026 1584 832 1920 1080 186456
+~ Move `main_dlg_cur` `proe_win` 9 696 337 0 1026 1584 832 1920 1080 186519
+~ Move `main_dlg_cur` `proe_win` 9 696 341 0 1026 1584 832 1920 1080 186629
+~ Move `main_dlg_cur` `proe_win` 9 696 344 0 1026 1584 832 1920 1080 186646
+~ Move `main_dlg_cur` `proe_win` 9 696 347 0 1026 1584 832 1920 1080 186709
+~ Move `main_dlg_cur` `proe_win` 9 696 350 0 1026 1584 832 1920 1080 186773
+~ Move `main_dlg_cur` `proe_win` 9 696 352 0 1026 1584 832 1920 1080 186905
+~ Move `main_dlg_cur` `proe_win` 9 696 355 0 1026 1584 832 1920 1080 187153
+~ Move `main_dlg_cur` `proe_win` 9 696 356 0 1026 1584 832 1920 1080 187217
+~ Move `main_dlg_cur` `proe_win` 9 696 358 0 1026 1584 832 1920 1080 187345
+~ Move `main_dlg_cur` `proe_win` 9 696 361 0 1026 1584 832 1920 1080 187409
+~ Move `main_dlg_cur` `proe_win` 9 696 365 0 1026 1584 832 1920 1080 187472
+~ Move `main_dlg_cur` `proe_win` 9 696 366 0 1026 1584 832 1920 1080 187547
+~ Move `main_dlg_cur` `proe_win` 9 696 370 0 1026 1584 832 1920 1080 187725
+~ Move `main_dlg_cur` `proe_win` 9 696 369 0 1026 1584 832 1920 1080 187896
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 696 369 0 0 1584 832 1920 1080 187900
+~ LButtonArm `main_dlg_cur` `proe_win` 9 548 670 0 1 1584 832 1920 1080 189931
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 548 670 0 0 1584 832 1920 1080 190012
+@sel_pz_xyz 252.5540865385 164.2878605769 492.9963257660 382.6997238193 -812.6657368375
+@ sel view 0
+ 10.740907 -0.596432 -0.002743 0.576043 10.386343 -2.741330
+ 0.154637 2.736966 10.402304 474.840446 340.996199 -1392.017468 21.853680 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 417] 2 53 -1 (3.3104707909 0.2544894783) (-1.1775957909 0.4375000000 0.0044894783)
+!COLLECTOR_ACTUATE_BRACKET1_GJS:Surf:F5(EXTRUDE_1)
+!%CPSelect any reference for auto type constraining.
+~ Move `main_dlg_cur` `proe_win` 9 548 670 33554432 0 1584 832 1920 1080 193493
+~ Key `main_dlg_cur` `proe_win` 9 548 670 39452698 0 1584 832 1920 1080 193493 `Ctrl+Z`
+~ Command `ProCmdEditUndo` 
+! Executed sub-command ProCmdEditUndoSket.
+!%CPSelect any reference for auto type constraining.
+~ Move `main_dlg_cur` `proe_win` 9 548 670 0 0 1584 832 1920 1080 193989
+~ MButtonArm `main_dlg_cur` `proe_win` 9 698 313 0 2 1584 832 1920 1080 195175
+~ Move `main_dlg_cur` `proe_win` 9 698 295 0 1026 1584 832 1920 1080 195261
+~ Move `main_dlg_cur` `proe_win` 9 694 276 0 1538 1584 832 1920 1080 195323
+~ Move `main_dlg_cur` `proe_win` 9 693 270 0 1538 1584 832 1920 1080 195387
+~ Move `main_dlg_cur` `proe_win` 9 692 268 0 1538 1584 832 1920 1080 195453
+~ Move `main_dlg_cur` `proe_win` 9 692 267 0 1026 1584 832 1920 1080 195517
+~ Move `main_dlg_cur` `proe_win` 9 692 270 0 1026 1584 832 1920 1080 195908
+~ Move `main_dlg_cur` `proe_win` 9 693 278 0 1538 1584 832 1920 1080 196072
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 693 278 0 0 1584 832 1920 1080 197271
+** 0.399602 0.664663 0 4 4
+0.499725 0.400844 M 0 0.986074074 0
+~ MButtonArm `main_dlg_cur` `proe_win` 9 597 318 0 2 1584 832 1920 1080 201657
+~ Move `main_dlg_cur` `proe_win` 9 597 318 0 2 1584 832 1920 1080 201664
+~ Move `main_dlg_cur` `proe_win` 9 598 320 0 1538 1584 832 1920 1080 202016
+~ Move `main_dlg_cur` `proe_win` 9 598 323 0 1026 1584 832 1920 1080 202081
+~ Move `main_dlg_cur` `proe_win` 9 598 325 0 1026 1584 832 1920 1080 202145
+~ Move `main_dlg_cur` `proe_win` 9 597 328 0 1538 1584 832 1920 1080 202209
+~ Move `main_dlg_cur` `proe_win` 9 597 329 0 1026 1584 832 1920 1080 202271
+~ Move `main_dlg_cur` `proe_win` 9 596 329 0 514 1584 832 1920 1080 202590
+~ Move `main_dlg_cur` `proe_win` 9 593 329 0 514 1584 832 1920 1080 202846
+~ Move `main_dlg_cur` `proe_win` 9 592 329 0 514 1584 832 1920 1080 202908
+~ Move `main_dlg_cur` `proe_win` 9 591 329 0 514 1584 832 1920 1080 202980
+~ Move `main_dlg_cur` `proe_win` 9 590 331 0 1538 1584 832 1920 1080 203102
+~ Move `main_dlg_cur` `proe_win` 9 589 333 0 1538 1584 832 1920 1080 203165
+~ Move `main_dlg_cur` `proe_win` 9 589 335 0 1026 1584 832 1920 1080 203230
+~ Move `main_dlg_cur` `proe_win` 9 588 337 0 1538 1584 832 1920 1080 203292
+~ Move `main_dlg_cur` `proe_win` 9 587 338 0 1538 1584 832 1920 1080 203356
+~ Move `main_dlg_cur` `proe_win` 9 587 340 0 1026 1584 832 1920 1080 203419
+~ Move `main_dlg_cur` `proe_win` 9 586 342 0 1538 1584 832 1920 1080 203485
+~ Move `main_dlg_cur` `proe_win` 9 586 343 0 1026 1584 832 1920 1080 203548
+~ Move `main_dlg_cur` `proe_win` 9 586 344 0 1026 1584 832 1920 1080 203613
+~ Move `main_dlg_cur` `proe_win` 9 586 345 0 1026 1584 832 1920 1080 203678
+~ Move `main_dlg_cur` `proe_win` 9 587 346 0 1538 1584 832 1920 1080 203741
+~ Move `main_dlg_cur` `proe_win` 9 589 347 0 1538 1584 832 1920 1080 204058
+~ Move `main_dlg_cur` `proe_win` 9 588 347 0 514 1584 832 1920 1080 204387
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 588 347 0 0 1584 832 1920 1080 204392
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s2` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s2` ``
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s2` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s2` ``
+~ Wheel `main_dlg_cur` `proe_win` 9 695 330 458752 0 1584 832 1920 1080 210400
+~ Command `ProCmdViewSpinCntr`  0
+!%CISpin Center will not be displayed.
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 458752 0 1584 832 1920 1080 212066
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 458752 0 1584 832 1920 1080 212097
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 458752 0 1584 832 1920 1080 212127
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 393216 0 1584 832 1920 1080 212552
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 393216 0 1584 832 1920 1080 212569
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 393216 0 1584 832 1920 1080 212577
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 393216 0 1584 832 1920 1080 212593
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 393216 0 1584 832 1920 1080 213019
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 393216 0 1584 832 1920 1080 213056
+~ Wheel `main_dlg_cur` `proe_win` 9 935 159 393216 0 1584 832 1920 1080 213080
+~ MButtonArm `main_dlg_cur` `proe_win` 9 827 490 0 2 1584 832 1920 1080 213971
+~ Move `main_dlg_cur` `proe_win` 9 827 491 0 1026 1584 832 1920 1080 213982
+~ Move `main_dlg_cur` `proe_win` 9 829 504 0 1538 1584 832 1920 1080 214046
+~ Move `main_dlg_cur` `proe_win` 9 835 515 0 1538 1584 832 1920 1080 214111
+~ Move `main_dlg_cur` `proe_win` 9 835 516 0 1026 1584 832 1920 1080 214304
+~ Move `main_dlg_cur` `proe_win` 9 835 522 0 1026 1584 832 1920 1080 214369
+~ Move `main_dlg_cur` `proe_win` 9 835 523 0 1026 1584 832 1920 1080 214693
+~ Move `main_dlg_cur` `proe_win` 9 835 529 0 1026 1584 832 1920 1080 214757
+~ Move `main_dlg_cur` `proe_win` 9 835 530 0 1026 1584 832 1920 1080 214821
+~ Move `main_dlg_cur` `proe_win` 9 835 533 0 1026 1584 832 1920 1080 214878
+~ Move `main_dlg_cur` `proe_win` 9 834 534 0 1538 1584 832 1920 1080 214886
+~ Move `main_dlg_cur` `proe_win` 9 834 537 0 1026 1584 832 1920 1080 214965
+~ Move `main_dlg_cur` `proe_win` 9 834 541 0 1026 1584 832 1920 1080 215017
+~ Move `main_dlg_cur` `proe_win` 9 834 542 0 1026 1584 832 1920 1080 215079
+~ Move `main_dlg_cur` `proe_win` 9 834 545 0 1026 1584 832 1920 1080 215144
+~ Move `main_dlg_cur` `proe_win` 9 834 548 0 1026 1584 832 1920 1080 215208
+~ Move `main_dlg_cur` `proe_win` 9 834 550 0 1026 1584 832 1920 1080 215274
+~ Move `main_dlg_cur` `proe_win` 9 834 552 0 1026 1584 832 1920 1080 215354
+~ Move `main_dlg_cur` `proe_win` 9 835 554 0 1538 1584 832 1920 1080 215403
+~ Move `main_dlg_cur` `proe_win` 9 835 555 0 1026 1584 832 1920 1080 215468
+~ Move `main_dlg_cur` `proe_win` 9 836 557 0 1538 1584 832 1920 1080 215533
+~ Move `main_dlg_cur` `proe_win` 9 837 559 0 1538 1584 832 1920 1080 215662
+~ Move `main_dlg_cur` `proe_win` 9 837 561 0 1026 1584 832 1920 1080 215725
+~ Move `main_dlg_cur` `proe_win` 9 838 561 0 514 1584 832 1920 1080 215856
+~ Move `main_dlg_cur` `proe_win` 9 839 558 0 1538 1584 832 1920 1080 215920
+~ Move `main_dlg_cur` `proe_win` 9 840 557 0 1538 1584 832 1920 1080 215984
+~ Move `main_dlg_cur` `proe_win` 9 840 554 0 1026 1584 832 1920 1080 216050
+~ Move `main_dlg_cur` `proe_win` 9 841 547 0 1538 1584 832 1920 1080 216114
+~ Move `main_dlg_cur` `proe_win` 9 841 542 0 1026 1584 832 1920 1080 216178
+~ Move `main_dlg_cur` `proe_win` 9 842 539 0 1538 1584 832 1920 1080 216242
+~ Move `main_dlg_cur` `proe_win` 9 842 538 0 1026 1584 832 1920 1080 216307
+~ Move `main_dlg_cur` `proe_win` 9 842 536 0 1026 1584 832 1920 1080 216372
+~ Move `main_dlg_cur` `proe_win` 9 842 533 0 1026 1584 832 1920 1080 216437
+~ Move `main_dlg_cur` `proe_win` 9 842 537 0 1026 1584 832 1920 1080 216828
+~ Move `main_dlg_cur` `proe_win` 9 842 540 0 1026 1584 832 1920 1080 216891
+~ Move `main_dlg_cur` `proe_win` 9 842 543 0 1026 1584 832 1920 1080 216955
+~ Move `main_dlg_cur` `proe_win` 9 842 548 0 1026 1584 832 1920 1080 217019
+~ Move `main_dlg_cur` `proe_win` 9 842 550 0 1026 1584 832 1920 1080 217084
+~ Move `main_dlg_cur` `proe_win` 9 842 552 0 1026 1584 832 1920 1080 217151
+~ Move `main_dlg_cur` `proe_win` 9 842 555 0 1026 1584 832 1920 1080 217214
+~ Move `main_dlg_cur` `proe_win` 9 842 558 0 1026 1584 832 1920 1080 217280
+~ Move `main_dlg_cur` `proe_win` 9 842 560 0 1026 1584 832 1920 1080 217343
+~ Move `main_dlg_cur` `proe_win` 9 843 563 0 1538 1584 832 1920 1080 217411
+~ Move `main_dlg_cur` `proe_win` 9 843 564 0 1026 1584 832 1920 1080 217472
+~ Move `main_dlg_cur` `proe_win` 9 843 566 0 1026 1584 832 1920 1080 217536
+~ Move `main_dlg_cur` `proe_win` 9 843 568 0 1026 1584 832 1920 1080 217600
+~ Move `main_dlg_cur` `proe_win` 9 843 569 0 1026 1584 832 1920 1080 217667
+~ Move `main_dlg_cur` `proe_win` 9 843 570 0 1026 1584 832 1920 1080 217795
+~ Move `main_dlg_cur` `proe_win` 9 843 567 0 1026 1584 832 1920 1080 217989
+~ Move `main_dlg_cur` `proe_win` 9 843 562 0 1026 1584 832 1920 1080 218054
+~ Move `main_dlg_cur` `proe_win` 9 843 561 0 1026 1584 832 1920 1080 218182
+~ Move `main_dlg_cur` `proe_win` 9 843 558 0 1026 1584 832 1920 1080 218311
+~ Move `main_dlg_cur` `proe_win` 9 843 557 0 1026 1584 832 1920 1080 218441
+~ Move `main_dlg_cur` `proe_win` 9 843 555 0 1026 1584 832 1920 1080 218507
+~ Move `main_dlg_cur` `proe_win` 9 843 554 0 1026 1584 832 1920 1080 218569
+~ Move `main_dlg_cur` `proe_win` 9 843 552 0 1026 1584 832 1920 1080 218634
+~ Move `main_dlg_cur` `proe_win` 9 843 550 0 1026 1584 832 1920 1080 218699
+~ Move `main_dlg_cur` `proe_win` 9 843 545 0 1026 1584 832 1920 1080 218762
+~ Move `main_dlg_cur` `proe_win` 9 843 542 0 1026 1584 832 1920 1080 218861
+~ Move `main_dlg_cur` `proe_win` 9 843 539 0 1026 1584 832 1920 1080 218888
+~ Move `main_dlg_cur` `proe_win` 9 843 534 0 1026 1584 832 1920 1080 218952
+~ Move `main_dlg_cur` `proe_win` 9 843 530 0 1026 1584 832 1920 1080 219016
+~ Move `main_dlg_cur` `proe_win` 9 843 526 0 1026 1584 832 1920 1080 219081
+~ Move `main_dlg_cur` `proe_win` 9 843 524 0 1026 1584 832 1920 1080 219145
+~ Move `main_dlg_cur` `proe_win` 9 843 520 0 1026 1584 832 1920 1080 219209
+~ Move `main_dlg_cur` `proe_win` 9 843 516 0 1026 1584 832 1920 1080 219272
+~ Move `main_dlg_cur` `proe_win` 9 843 514 0 1026 1584 832 1920 1080 219336
+~ Move `main_dlg_cur` `proe_win` 9 843 513 0 1026 1584 832 1920 1080 219400
+~ Move `main_dlg_cur` `proe_win` 9 843 512 0 1026 1584 832 1920 1080 219464
+~ Move `main_dlg_cur` `proe_win` 9 843 511 0 1026 1584 832 1920 1080 219529
+~ Move `main_dlg_cur` `proe_win` 9 842 511 0 514 1584 832 1920 1080 219619
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 842 511 0 0 1584 832 1920 1080 219625
+~ PopupOver `ScrLayout.0.0` `PH.L.INST_RMB_.l0.s2` 1 `PH.L.PIM_chk.l0.s2`
+~ Open `ScrLayout.0.0` `PH.L.INST_RMB_.l0.s2`
+~ Close `ScrLayout.0.0` `PH.L.INST_RMB_.l0.s2`
+~ Activate `ScrLayout.0.0` `PH.L.DELETE_PB_.l0.s2`
+!%CPSelect any reference for auto type constraining.
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s1` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s1` ``
+~ RButtonArm `main_dlg_cur` `proe_win` 9 743 413 0 4 1584 832 1920 1080 244751
+~ Move `main_dlg_cur` `proe_win` 9 743 413 0 4 1584 832 1920 1080 244752
+~ Move `main_dlg_cur` `proe_win` 9 743 413 0 4 1584 832 1920 1080 244766
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 743 413 0 256 1584 832 1920 1080 245030
+~ Exit `main_dlg_cur` `proe_win` 9 743 413 0 4 1584 832 1920 1080 245038
+~ Close `rmb_popup` `PopupMenu`
+~ Activate `rmb_popup` `query_bin_sel`
+!%CIHidden geometry may be selected.
+@sel_pz_xyz 450.3079927885 424.9173677885 491.3257415123 381.8043950708 -812.6657368375
+@ stack idx 0 0 0
+@ sel view 0
+ 15.526698 -0.007466 -1.216699 -0.465762 14.351278 -6.031801
+ 1.124046 6.049753 14.307193 447.660621 317.555975 -1424.647873 11.189084 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+!COLLECTOR_SCREWGEAR_GJS:Surf:F13(EXTRUDE_1)
+~ Select `confhsel0` `Namelist` 1 `1`
+!COLLECTOR_SCREWGEAR_GJS:Surf:F77(EXTRUDE_3)
+~ Activate `confhsel0` `Accept`
+@SEL_REC 1 [ 420] 2 31215 -1 (0.3580604932 -0.1358171294) (-0.4000000000 0.0580604932 -0.1141828706)
+!COLLECTOR_SCREWGEAR_GJS:Surf:F77(EXTRUDE_3)
+!%CIComponent placement constraints are invalid.
+!%CIComponent placement constraints are invalid.
+!%CPSelect any reference for auto type constraining.
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s1` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s1` ``
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s1` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s1` ``
+~ Activate `main_dlg_cur` `maindashInst0.InWin` 1
+< 2 0.100000 100 0 0 100 1920 0 0 1080 13
+< 2 0.080593 378 0 0 68 1920 0 0 1080 13
+< 2 0.113778 378 0 0 96 1920 0 0 1080 13
+< 2 0.118519 378 0 0 100 1920 0 0 1080 13
+< 2 0.299852 520 0 0 253 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : Acc MT Part
+< 0 0.982519 1584 0 0 829 1920 0 0 1080 13
+!%CPSelect any reference for auto type constraining.
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s1` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s1` ``
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s1` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s1` ``
+~ Key `main_dlg_cur` `proe_win` 9 142 182 39452698 1536 1584 829 1920 1080 256939 `Ctrl+Z`
+~ Command `ProCmdEditUndo` 
+! Executed sub-command ProCmdEditUndoSket.
+!%CIComponent placement constraints are invalid.
+!%CIComponent placement constraints are invalid.
+!%CPSelect any reference for auto type constraining.
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s1` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.comp_ref_represent.l0.s1` ``
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s1` `0`
+~ Trigger `ScrLayout.0.0` `PH.L.S.l0.assem_ref_represent.l0.s1` ``
+~ Key `main_dlg_cur` `proe_win` 9 142 182 39452698 1536 1584 829 1920 1080 256939 `Ctrl+Z`
+~ Command `ProCmdEditUndo` 
+! Executed sub-command ProCmdEditUndoSket.
+!%CPSelect any reference for auto type constraining.
+~ Activate `ScrLayout.0.0` `PH.L.PIM_Addpb.l0` 1
+!%CPSelect any reference for auto type constraining.
+~ RButtonArm `main_dlg_cur` `proe_win` 9 729 415 0 4 1584 829 1920 1080 266283
+~ Move `main_dlg_cur` `proe_win` 9 729 415 0 4 1584 829 1920 1080 266284
+~ Move `main_dlg_cur` `proe_win` 9 729 415 0 4 1584 829 1920 1080 266301
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 729 415 0 256 1584 829 1920 1080 266541
+~ Exit `main_dlg_cur` `proe_win` 9 729 415 0 4 1584 829 1920 1080 266549
+~ Close `rmb_popup` `PopupMenu`
+~ Activate `rmb_popup` `query_bin_sel`
+!%CIHidden geometry may be selected.
+@sel_pz_xyz 435.8790711701 421.3661037394 490.0361880954 381.4870085876 -812.6657368375
+@ stack idx 0 0 0
+@ sel view 0
+ 15.526698 -0.007466 -1.216699 -0.465762 14.351278 -6.031801
+ 1.124046 6.049753 14.307193 447.660621 317.555975 -1424.647873 11.189084 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+!COLLECTOR_SCREWGEAR_GJS:Edge:F44(ROUND_1_9)
+~ Select `confhsel0` `Namelist` 1 `1`
+!COLLECTOR_SCREWGEAR_GJS:Edge:F45(ROUND_1_10)
+~ Select `confhsel0` `Namelist` 1 `2`
+!COLLECTOR_SCREWGEAR_GJS:Edge:F44(ROUND_1_9)
+~ Select `confhsel0` `Namelist` 1 `3`
+!COLLECTOR_SCREWGEAR_GJS:Surf:F13(EXTRUDE_1)
+~ Select `confhsel0` `Namelist` 1 `5`
+!COLLECTOR_SCREWGEAR_GJS:Surf:F77(EXTRUDE_3)
+~ Activate `confhsel0` `Accept`
+@SEL_REC 1 [ 420] 2 31215 -1 (0.2254146528 -0.2015671440) (-0.4000000000 -0.0745853472 -0.0484328560)
+!COLLECTOR_SCREWGEAR_GJS:Surf:F77(EXTRUDE_3)
+!%CPSelect any reference for auto type constraining.
+~ Activate `main_dlg_cur` `maindashInst0.InWin` 1
+< 2 0.100000 100 0 0 100 1920 0 0 1080 13
+< 2 0.080593 378 0 0 68 1920 0 0 1080 13
+< 2 0.113778 378 0 0 96 1920 0 0 1080 13
+< 2 0.118519 378 0 0 100 1920 0 0 1080 13
+< 2 0.299852 520 0 0 253 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : Acc MT Part
+!%CPSelect any reference for auto type constraining.
+#Change_Window 2 <Part: COLLECTOR_LEAD_NUT_GJS>
+~ LButtonArm `main_dlg_cur|layGr_accs_proe_win` `layGr_accs_proe_win.proe_win_emb` 9 286 100 0 1 520 253 1920 1080 276039
+~ LButtonDisarm `main_dlg_cur|layGr_accs_proe_win` `layGr_accs_proe_win.proe_win_emb` 9 286 100 0 0 520 253 1920 1080 276086
+@sel_pz_xyz 586.7094861660 510.2519762846 586.7094861660 510.2519762846 0.0000000000
+@ sel view 0
+ 0.000000 -663.507709 0.000000 0.000000 0.000000 663.507709
+ -663.507709 -0.000000 0.000000 500.000000 90.121145 -2338.268590 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 2 360 -1 (0.6306834645 -0.3668033920) (-0.4000000000 -0.1306834645 0.6331966080)
+!Surf:F8(EXTRUDE_1__2)
+!%CPSelect any reference for auto type constraining.
+~ Open `ScrLayout.0.0` `PH.pop_constr_offset_type`
+~ Close `ScrLayout.0.0` `PH.pop_constr_offset_type`
+~ Select `ScrLayout.0.0` `PH.pop_constr_offset_type` 1 `Oriented`
+!%CPSelect any reference for auto type constraining.
+~ Activate `main_dlg_cur` `dashInst0.stdbtn_1`
+!ODUI session finished.
+!%CIComponent redefined successfully.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:17:13
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!ProgressBarDlg: Regen Started
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!Mechanism Design Command Script File
+!	Version: 	P_90_47:spg
+!	Platform:	x86e_win64
+!	Created: 	12/5/2022 at 22:17:13
+!%CWGearPair1 is not active and hence is excluded from the current analysis.
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 6965 type 5300 
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 152 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 155 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_PILLOWBLOCK_AL_IGUS id 160 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+!%CDLine 1 COMPONENT COLLECTOR_BOTTOMBRACE_GJS id 307 of Model COLLECTOR_ASSEMBLY_GAS_GJS:Invalid left side of assignment
+!%CDRelations have errors/warnings. Refer to the message log for the details or visit relation UI.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 665 259 0 1538 1584 829 1920 1080 282282
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 665 259 0 0 1584 829 1920 1080 282286
+~ LButtonArm `main_dlg_cur` `proe_win` 9 843 407 0 1 1584 829 1920 1080 283117
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 843 407 0 0 1584 829 1920 1080 283193
+@sel_pz_xyz 551.9074185766 429.5084439083 500.2650210381 395.9843093957 -1022.2044077440
+@ sel view 0
+ 10.136006 -0.004874 -0.794275 -0.304055 9.368679 -3.937629
+ 0.733790 3.949348 9.339900 465.832253 353.774344 -1421.713366 17.139840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 420] 2 79 -1 (-0.1038236606 0.6213664318) (-0.1038236606 0.6213664318 -0.2500000000)
+!Surf:F13(EXTRUDE_1):COLLECTOR_SCREWGEAR_GJS
+~ Move `main_dlg_cur` `proe_win` 9 816 363 33554432 0 1584 829 1920 1080 284108
+>M Chain_oa_sel_CB ProeWin0 816 363 c0 20000 1584 0 0 829 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 813 358 33554432 1 1584 829 1920 1080 284233
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 813 358 33554432 0 1584 829 1920 1080 284281
+@sel_pz_xyz 521.3736429433 479.3802774427 498.4835705807 398.8940118095 -1022.2044077440
+@ sel view 0
+ 10.136006 -0.004874 -0.794275 -0.304055 9.368679 -3.937629
+ 0.733790 3.949348 9.339900 465.832253 353.774344 -1421.713366 17.139840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 426] 2 210 -1 (1.9783933110 -0.2820583837) (-0.1982021617 0.4590380192 0.2179416163)
+!Surf:F2(IMPORT FEATURE):COLLECTOR_LEAD_NUT_GJS
+~ Move `main_dlg_cur` `proe_win` 9 813 358 0 0 1584 829 1920 1080 284532
+>M Chain_oa_sel_CB ProeWin0 813 358 c0 0 1584 0 0 829 1920 0 0 1080 13
+~ Command `ProCmdViewShowOnly@PopupMenuGraphicWinStack` 
+!Undo: added rec_id 310 type 10600 
+!Undo: added rec_id 165 type 10600 
+!Undo: added rec_id 1224 type 10600 
+!Undo: added rec_id 251 type 10600 
+!Undo: added rec_id 82 type 10600 
+!Undo: added rec_id 114 type 10600 
+!Undo: added rec_id 90 type 10600 
+!Undo: added rec_id 230 type 10600 
+!Undo: added rec_id 128 type 10600 
+!Undo: added rec_id 381 type 10600 
+!Undo: added rec_id 6982 type 10600 
+~ MButtonArm `main_dlg_cur` `proe_win` 9 820 345 0 2 1584 829 1920 1080 288119
+~ Move `main_dlg_cur` `proe_win` 9 821 346 0 1538 1584 829 1920 1080 288137
+~ Move `main_dlg_cur` `proe_win` 9 820 338 0 1538 1584 829 1920 1080 288199
+~ Move `main_dlg_cur` `proe_win` 9 820 327 0 1026 1584 829 1920 1080 288263
+~ Move `main_dlg_cur` `proe_win` 9 821 312 0 1538 1584 829 1920 1080 288325
+~ Move `main_dlg_cur` `proe_win` 9 821 307 0 1026 1584 829 1920 1080 288388
+~ Move `main_dlg_cur` `proe_win` 9 821 301 0 1026 1584 829 1920 1080 288451
+~ Move `main_dlg_cur` `proe_win` 9 821 295 0 1026 1584 829 1920 1080 288515
+~ Move `main_dlg_cur` `proe_win` 9 821 289 0 1026 1584 829 1920 1080 288576
+~ Move `main_dlg_cur` `proe_win` 9 821 281 0 1026 1584 829 1920 1080 288639
+~ Move `main_dlg_cur` `proe_win` 9 821 276 0 1026 1584 829 1920 1080 288702
+~ Move `main_dlg_cur` `proe_win` 9 820 255 0 1538 1584 829 1920 1080 288765
+~ Move `main_dlg_cur` `proe_win` 9 820 235 0 1026 1584 829 1920 1080 288828
+~ Move `main_dlg_cur` `proe_win` 9 820 228 0 1026 1584 829 1920 1080 288893
+~ Move `main_dlg_cur` `proe_win` 9 820 224 0 1026 1584 829 1920 1080 288951
+~ Move `main_dlg_cur` `proe_win` 9 820 222 0 1026 1584 829 1920 1080 289014
+~ Move `main_dlg_cur` `proe_win` 9 823 230 0 1538 1584 829 1920 1080 289214
+~ Move `main_dlg_cur` `proe_win` 9 831 250 0 1538 1584 829 1920 1080 289266
+~ Move `main_dlg_cur` `proe_win` 9 833 255 0 1538 1584 829 1920 1080 289330
+~ Move `main_dlg_cur` `proe_win` 9 836 259 0 1538 1584 829 1920 1080 289392
+~ Move `main_dlg_cur` `proe_win` 9 838 262 0 1538 1584 829 1920 1080 289455
+~ Move `main_dlg_cur` `proe_win` 9 839 262 0 514 1584 829 1920 1080 289582
+~ Move `main_dlg_cur` `proe_win` 9 843 249 0 1538 1584 829 1920 1080 289706
+~ Move `main_dlg_cur` `proe_win` 9 844 232 0 1538 1584 829 1920 1080 289768
+~ Move `main_dlg_cur` `proe_win` 9 844 226 0 1026 1584 829 1920 1080 289831
+~ Move `main_dlg_cur` `proe_win` 9 844 223 0 1026 1584 829 1920 1080 289896
+~ Move `main_dlg_cur` `proe_win` 9 844 222 0 1026 1584 829 1920 1080 289957
+~ Move `main_dlg_cur` `proe_win` 9 844 224 0 1026 1584 829 1920 1080 290140
+~ Move `main_dlg_cur` `proe_win` 9 843 225 0 1538 1584 829 1920 1080 290186
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 843 225 0 0 1584 829 1920 1080 290189
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1149 227 0 1 1584 829 1920 1080 290426
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1149 227 0 0 1584 829 1920 1080 290473
+@sel_pz_xyz 863.3519300362 612.7110977081 518.4358157036 406.6730121402 -1022.2044077440
+@ sel view 0
+ 10.055484 -1.074460 1.049905 0.109465 7.610811 6.740408
+ -1.498259 -6.655120 7.538841 470.839449 356.751891 -1358.275313 17.139840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1066 267 0 2 1584 829 1920 1080 291127
+~ Move `main_dlg_cur` `proe_win` 9 1065 268 0 1538 1584 829 1920 1080 291132
+~ Move `main_dlg_cur` `proe_win` 9 1060 276 0 1538 1584 829 1920 1080 291191
+~ Move `main_dlg_cur` `proe_win` 9 1052 291 0 1538 1584 829 1920 1080 291251
+~ Move `main_dlg_cur` `proe_win` 9 1048 298 0 1538 1584 829 1920 1080 291312
+~ Move `main_dlg_cur` `proe_win` 9 1045 299 0 1538 1584 829 1920 1080 291372
+~ Move `main_dlg_cur` `proe_win` 9 1040 301 0 1538 1584 829 1920 1080 291433
+~ Move `main_dlg_cur` `proe_win` 9 1032 304 0 1538 1584 829 1920 1080 291497
+~ Move `main_dlg_cur` `proe_win` 9 1030 305 0 1538 1584 829 1920 1080 291558
+~ Move `main_dlg_cur` `proe_win` 9 1029 307 0 1538 1584 829 1920 1080 291742
+~ Move `main_dlg_cur` `proe_win` 9 1028 310 0 1538 1584 829 1920 1080 291803
+~ Move `main_dlg_cur` `proe_win` 9 1028 311 0 1026 1584 829 1920 1080 291866
+~ Move `main_dlg_cur` `proe_win` 9 1026 316 0 1538 1584 829 1920 1080 291928
+~ Move `main_dlg_cur` `proe_win` 9 1015 331 0 1538 1584 829 1920 1080 291989
+~ Move `main_dlg_cur` `proe_win` 9 1006 347 0 1538 1584 829 1920 1080 292058
+~ Move `main_dlg_cur` `proe_win` 9 1003 353 0 1538 1584 829 1920 1080 292113
+~ Move `main_dlg_cur` `proe_win` 9 1001 355 0 1538 1584 829 1920 1080 292173
+~ Move `main_dlg_cur` `proe_win` 9 1000 356 0 1538 1584 829 1920 1080 292235
+~ Move `main_dlg_cur` `proe_win` 9 997 357 0 1538 1584 829 1920 1080 292298
+~ Move `main_dlg_cur` `proe_win` 9 987 360 0 1538 1584 829 1920 1080 292357
+~ Move `main_dlg_cur` `proe_win` 9 984 361 0 1538 1584 829 1920 1080 292420
+~ Move `main_dlg_cur` `proe_win` 9 984 360 0 1026 1584 829 1920 1080 292672
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 984 360 0 0 1584 829 1920 1080 292675
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1254 230 0 1 1584 829 1920 1080 293446
+~ Move `main_dlg_cur` `proe_win` 9 1253 230 0 513 1584 829 1920 1080 293473
+~ Move `main_dlg_cur` `proe_win` 9 1231 232 0 1537 1584 829 1920 1080 293530
+~ Move `main_dlg_cur` `proe_win` 9 1021 219 0 1537 1584 829 1920 1080 293591
+~ Move `main_dlg_cur` `proe_win` 9 966 207 0 1537 1584 829 1920 1080 293654
+~ Move `main_dlg_cur` `proe_win` 9 967 201 0 1537 1584 829 1920 1080 293714
+~ Move `main_dlg_cur` `proe_win` 9 970 190 0 1537 1584 829 1920 1080 293776
+~ Move `main_dlg_cur` `proe_win` 9 991 144 0 1537 1584 829 1920 1080 293837
+~ Move `main_dlg_cur` `proe_win` 9 1000 128 0 1537 1584 829 1920 1080 293900
+~ Move `main_dlg_cur` `proe_win` 9 1002 123 0 1537 1584 829 1920 1080 293961
+~ Move `main_dlg_cur` `proe_win` 9 1008 113 0 1537 1584 829 1920 1080 294022
+~ Move `main_dlg_cur` `proe_win` 9 1014 101 0 1537 1584 829 1920 1080 294084
+~ Move `main_dlg_cur` `proe_win` 9 1018 94 0 1537 1584 829 1920 1080 294146
+~ Move `main_dlg_cur` `proe_win` 9 1019 93 0 1537 1584 829 1920 1080 294189
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1019 93 0 0 1584 829 1920 1080 294193
+@ sel view 0
+ 8.169418 0.521236 -6.029797 -1.619912 9.948054 -1.334780
+ 5.831468 2.033240 8.076474 477.465308 359.528225 -1440.221304 17.139840 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1104 158 0 1 1584 829 1920 1080 295087
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1104 158 0 0 1584 829 1920 1080 295129
+@sel_pz_xyz 817.5512665862 682.9387816647 515.7636400175 410.7703481922 -1022.2044077440
+@ sel view 0
+ 8.169418 0.521236 -6.029797 -1.619912 9.948054 -1.334780
+ 5.831468 2.033240 8.076474 477.465308 359.528225 -1440.221304 17.139840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Move `main_dlg_cur` `proe_win` 9 1143 177 33554432 0 1584 829 1920 1080 295975
+>M Chain_oa_sel_CB ProeWin0 1143 177 c0 20000 1584 0 0 829 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1131 177 33554432 1 1584 829 1920 1080 296854
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1131 177 33554432 0 1584 829 1920 1080 296906
+@sel_pz_xyz 845.0316646562 663.6007237636 517.3669454292 409.6420962358 -1022.2044077440
+@ sel view 0
+ 8.169418 0.521236 -6.029797 -1.619912 9.948054 -1.334780
+ 5.831468 2.033240 8.076474 477.465308 359.528225 -1440.221304 17.139840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 59 631 628 (0.5830860891 0.0000000000) (3.0915354331 5.2729990751 -2.0097544802)
+!F107(SKETCH_2)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 936 126 33554432 1 1584 829 1920 1080 297967
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 936 126 33554432 0 1584 829 1920 1080 298027
+@sel_pz_xyz 646.5621230398 715.5081423402 505.7875174560 412.6705620134 -1022.2044077440
+@ sel view 0
+ 8.169418 0.521236 -6.029797 -1.619912 9.948054 -1.334780
+ 5.831468 2.033240 8.076474 477.465308 359.528225 -1440.221304 17.139840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 59 526 521 (0.6437414859 0.0000000000) (3.0915354331 5.8455013995 0.0000000000)
+!F106(CURVE)
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1450 190 33554432 1 1584 829 1920 1080 298956
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1450 190 33554432 0 1584 829 1920 1080 299086
+@sel_pz_xyz 1169.7074788902 650.3694209891 536.3097019595 408.8701343709 -1022.2044077440
+@ sel view 0
+ 8.169418 0.521236 -6.029797 -1.619912 9.948054 -1.334780
+ 5.831468 2.033240 8.076474 477.465308 359.528225 -1440.221304 17.139840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 59 274 271 (0.8251904688 0.0000000000) (6.8300791680 6.0715241230 0.0000000000)
+!F48(SKETCH_1)
+~ Move `main_dlg_cur` `proe_win` 9 1450 190 0 0 1584 829 1920 1080 299520
+>M Chain_oa_sel_CB ProeWin0 1450 190 c0 0 1584 0 0 829 1920 0 0 1080 13
+~ RButtonArm `main_dlg_cur` `proe_win` 9 1450 190 0 4 1584 829 1920 1080 299764
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+@ sel_rmb_cmds 1
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 1450 190 0 256 1584 829 1920 1080 300129
+~ Exit `main_dlg_cur` `proe_win` 9 1450 190 0 4 1584 829 1920 1080 300150
+~ Close `rmb_popup` `PopupMenu`
+~ Command `ProCmdViewHide@PopupMenuGraphicWinStack` 
+!Command ProCmdViewHidePost was pushed from the software.
+!Undo: added rec_id 6983 type 10600 
+! Executed sub-command ProCmdViewHideStandard.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1150 162 0 1 1584 829 1920 1080 301705
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1150 162 0 0 1584 829 1920 1080 301771
+@sel_pz_xyz 864.3697225573 678.8676115802 518.4951973855 410.5328214645 -1022.2044077440
+@ sel view 0
+ 8.169418 0.521236 -6.029797 -1.619912 9.948054 -1.334780
+ 5.831468 2.033240 8.076474 477.465308 359.528225 -1440.221304 17.139840 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ MButtonArm `main_dlg_cur` `proe_win` 9 710 252 0 2 1584 829 1920 1080 301997
+~ Move `main_dlg_cur` `proe_win` 9 711 251 0 1538 1584 829 1920 1080 302035
+~ Move `main_dlg_cur` `proe_win` 9 715 243 0 1538 1584 829 1920 1080 302097
+~ Move `main_dlg_cur` `proe_win` 9 734 224 0 1538 1584 829 1920 1080 302160
+~ Move `main_dlg_cur` `proe_win` 9 747 218 0 1538 1584 829 1920 1080 302222
+~ Move `main_dlg_cur` `proe_win` 9 756 215 0 1538 1584 829 1920 1080 302283
+~ Move `main_dlg_cur` `proe_win` 9 772 210 0 1538 1584 829 1920 1080 302344
+~ Move `main_dlg_cur` `proe_win` 9 784 207 0 1538 1584 829 1920 1080 302407
+~ Move `main_dlg_cur` `proe_win` 9 792 204 0 1538 1584 829 1920 1080 302467
+~ Move `main_dlg_cur` `proe_win` 9 794 203 0 1538 1584 829 1920 1080 302530
+~ Move `main_dlg_cur` `proe_win` 9 803 202 0 1538 1584 829 1920 1080 302592
+~ Move `main_dlg_cur` `proe_win` 9 804 201 0 1538 1584 829 1920 1080 302657
+~ Move `main_dlg_cur` `proe_win` 9 806 198 0 1538 1584 829 1920 1080 302716
+~ Move `main_dlg_cur` `proe_win` 9 806 196 0 1026 1584 829 1920 1080 302791
+~ Move `main_dlg_cur` `proe_win` 9 803 193 0 1538 1584 829 1920 1080 302839
+~ Move `main_dlg_cur` `proe_win` 9 800 190 0 1538 1584 829 1920 1080 302900
+~ Move `main_dlg_cur` `proe_win` 9 799 188 0 1538 1584 829 1920 1080 302978
+~ Move `main_dlg_cur` `proe_win` 9 796 186 0 1538 1584 829 1920 1080 303024
+~ Move `main_dlg_cur` `proe_win` 9 793 184 0 1538 1584 829 1920 1080 303096
+~ Move `main_dlg_cur` `proe_win` 9 792 183 0 1538 1584 829 1920 1080 303147
+~ Move `main_dlg_cur` `proe_win` 9 790 183 0 514 1584 829 1920 1080 303212
+~ Move `main_dlg_cur` `proe_win` 9 789 183 0 514 1584 829 1920 1080 303271
+~ Move `main_dlg_cur` `proe_win` 9 784 181 0 1538 1584 829 1920 1080 303343
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 784 181 0 0 1584 829 1920 1080 303666
+~ Wheel `main_dlg_cur` `proe_win` 9 694 401 458752 1536 1584 829 1920 1080 305104
+~ Wheel `main_dlg_cur` `proe_win` 9 694 401 458752 0 1584 829 1920 1080 305160
+~ Move `main_dlg_cur` `proe_win` 9 684 380 16777216 0 1584 829 1920 1080 305991
+>M Chain_oa_sel_CB ProeWin0 684 380 c0 10000 1584 0 0 829 1920 0 0 1080 13
+>M Collectors_CB ProeWin0 684 380 c0 10000 1584 0 0 829 1920 0 0 1080 13
+~ MButtonArm `main_dlg_cur` `proe_win` 9 684 379 16777216 2 1584 829 1920 1080 306088
+~ Move `main_dlg_cur` `proe_win` 9 688 364 16777216 1538 1584 829 1920 1080 306169
+~ Move `main_dlg_cur` `proe_win` 9 699 339 16777216 1538 1584 829 1920 1080 306232
+~ Move `main_dlg_cur` `proe_win` 9 706 323 16777216 1538 1584 829 1920 1080 306296
+~ Move `main_dlg_cur` `proe_win` 9 713 310 16777216 1538 1584 829 1920 1080 306356
+~ Move `main_dlg_cur` `proe_win` 9 714 305 16777216 1538 1584 829 1920 1080 306418
+~ Move `main_dlg_cur` `proe_win` 9 716 299 16777216 1538 1584 829 1920 1080 306479
+~ Move `main_dlg_cur` `proe_win` 9 720 281 16777216 1538 1584 829 1920 1080 306596
+~ Move `main_dlg_cur` `proe_win` 9 721 275 16777216 1538 1584 829 1920 1080 306607
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 721 275 16777216 0 1584 829 1920 1080 306888
+~ Move `main_dlg_cur` `proe_win` 9 722 274 0 0 1584 829 1920 1080 306967
+>M Chain_oa_sel_CB ProeWin0 722 274 c0 0 1584 0 0 829 1920 0 0 1080 13
+>M Collectors_CB ProeWin0 722 274 c0 0 1584 0 0 829 1920 0 0 1080 13
+~ MButtonArm `main_dlg_cur` `proe_win` 9 730 307 0 2 1584 829 1920 1080 307401
+~ Move `main_dlg_cur` `proe_win` 9 730 309 0 1026 1584 829 1920 1080 307405
+~ Move `main_dlg_cur` `proe_win` 9 724 321 0 1538 1584 829 1920 1080 307471
+~ Move `main_dlg_cur` `proe_win` 9 723 324 0 1538 1584 829 1920 1080 307530
+~ Move `main_dlg_cur` `proe_win` 9 719 331 0 1538 1584 829 1920 1080 307591
+~ Move `main_dlg_cur` `proe_win` 9 718 335 0 1538 1584 829 1920 1080 307652
+~ Move `main_dlg_cur` `proe_win` 9 718 336 0 1026 1584 829 1920 1080 307714
+~ Move `main_dlg_cur` `proe_win` 9 718 337 0 1026 1584 829 1920 1080 307778
+~ Move `main_dlg_cur` `proe_win` 9 718 340 0 1026 1584 829 1920 1080 307835
+~ Move `main_dlg_cur` `proe_win` 9 718 342 0 1026 1584 829 1920 1080 307897
+~ Move `main_dlg_cur` `proe_win` 9 718 343 0 1026 1584 829 1920 1080 307961
+~ Move `main_dlg_cur` `proe_win` 9 719 342 0 1538 1584 829 1920 1080 308062
+~ Move `main_dlg_cur` `proe_win` 9 729 321 0 1538 1584 829 1920 1080 308090
+~ Move `main_dlg_cur` `proe_win` 9 731 311 0 1538 1584 829 1920 1080 308144
+~ Move `main_dlg_cur` `proe_win` 9 732 306 0 1538 1584 829 1920 1080 308206
+~ Move `main_dlg_cur` `proe_win` 9 733 299 0 1538 1584 829 1920 1080 308268
+~ Move `main_dlg_cur` `proe_win` 9 737 286 0 1538 1584 829 1920 1080 308329
+~ Move `main_dlg_cur` `proe_win` 9 738 279 0 1538 1584 829 1920 1080 308391
+~ Move `main_dlg_cur` `proe_win` 9 738 278 0 1026 1584 829 1920 1080 308453
+~ Move `main_dlg_cur` `proe_win` 9 738 279 0 1026 1584 829 1920 1080 308761
+~ Move `main_dlg_cur` `proe_win` 9 738 282 0 1026 1584 829 1920 1080 308830
+~ Move `main_dlg_cur` `proe_win` 9 738 286 0 1026 1584 829 1920 1080 308884
+~ Move `main_dlg_cur` `proe_win` 9 737 291 0 1538 1584 829 1920 1080 308948
+~ Move `main_dlg_cur` `proe_win` 9 737 293 0 1026 1584 829 1920 1080 309015
+~ Move `main_dlg_cur` `proe_win` 9 736 298 0 1538 1584 829 1920 1080 309068
+~ Move `main_dlg_cur` `proe_win` 9 736 301 0 1026 1584 829 1920 1080 309129
+~ Move `main_dlg_cur` `proe_win` 9 736 302 0 1026 1584 829 1920 1080 309253
+~ Move `main_dlg_cur` `proe_win` 9 736 303 0 1026 1584 829 1920 1080 309315
+~ Move `main_dlg_cur` `proe_win` 9 736 304 0 1026 1584 829 1920 1080 309377
+~ Move `main_dlg_cur` `proe_win` 9 736 305 0 1026 1584 829 1920 1080 310183
+~ Move `main_dlg_cur` `proe_win` 9 736 304 0 1026 1584 829 1920 1080 310605
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 736 304 0 0 1584 829 1920 1080 310636
+~ LButtonArm `main_dlg_cur` `proe_win` 9 739 166 0 1 1584 829 1920 1080 310895
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 739 166 0 0 1584 829 1920 1080 310974
+@sel_pz_xyz 446.0569963812 674.7964414958 491.7211846444 401.3191596988 -1022.2044077440
+@ sel view 0
+ 10.076920 -0.181953 1.338691 -0.585528 8.490892 5.561603
+ -1.217521 -5.589379 8.405118 460.715435 350.642939 -1379.413609 26.781000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Wheel `main_dlg_cur` `proe_win` 9 777 211 393216 0 1584 829 1920 1080 321452
+~ Wheel `main_dlg_cur` `proe_win` 9 777 211 393216 0 1584 829 1920 1080 321474
+~ Wheel `main_dlg_cur` `proe_win` 9 777 211 393216 0 1584 829 1920 1080 321497
+~ Wheel `main_dlg_cur` `proe_win` 9 777 211 393216 0 1584 829 1920 1080 321534
+~ Wheel `main_dlg_cur` `proe_win` 9 778 273 458752 0 1584 829 1920 1080 322794
+~ Wheel `main_dlg_cur` `proe_win` 9 778 273 458752 0 1584 829 1920 1080 322826
+~ Wheel `main_dlg_cur` `proe_win` 9 778 273 458752 0 1584 829 1920 1080 322860
+~ Wheel `main_dlg_cur` `proe_win` 9 778 273 458752 0 1584 829 1920 1080 322924
+~ MButtonArm `main_dlg_cur` `proe_win` 9 776 275 0 2 1584 829 1920 1080 326216
+~ Move `main_dlg_cur` `proe_win` 9 776 275 0 2 1584 829 1920 1080 326217
+~ Move `main_dlg_cur` `proe_win` 9 777 281 0 1538 1584 829 1920 1080 326310
+~ Move `main_dlg_cur` `proe_win` 9 779 292 0 1538 1584 829 1920 1080 326369
+~ Move `main_dlg_cur` `proe_win` 9 780 299 0 1538 1584 829 1920 1080 326431
+~ Move `main_dlg_cur` `proe_win` 9 781 302 0 1538 1584 829 1920 1080 326492
+~ Move `main_dlg_cur` `proe_win` 9 782 308 0 1538 1584 829 1920 1080 326606
+~ Move `main_dlg_cur` `proe_win` 9 782 315 0 1026 1584 829 1920 1080 326617
+~ Move `main_dlg_cur` `proe_win` 9 781 324 0 1538 1584 829 1920 1080 326677
+~ Move `main_dlg_cur` `proe_win` 9 780 330 0 1538 1584 829 1920 1080 326741
+~ Move `main_dlg_cur` `proe_win` 9 778 337 0 1538 1584 829 1920 1080 326800
+~ Move `main_dlg_cur` `proe_win` 9 777 343 0 1538 1584 829 1920 1080 326863
+~ Move `main_dlg_cur` `proe_win` 9 776 347 0 1538 1584 829 1920 1080 326922
+~ Move `main_dlg_cur` `proe_win` 9 775 350 0 1538 1584 829 1920 1080 326985
+~ Move `main_dlg_cur` `proe_win` 9 775 351 0 1026 1584 829 1920 1080 327046
+~ Move `main_dlg_cur` `proe_win` 9 775 346 0 1026 1584 829 1920 1080 327108
+~ Move `main_dlg_cur` `proe_win` 9 775 331 0 1026 1584 829 1920 1080 327170
+~ Move `main_dlg_cur` `proe_win` 9 774 317 0 1538 1584 829 1920 1080 327232
+~ Move `main_dlg_cur` `proe_win` 9 773 308 0 1538 1584 829 1920 1080 327293
+~ Move `main_dlg_cur` `proe_win` 9 773 304 0 1026 1584 829 1920 1080 327354
+~ Move `main_dlg_cur` `proe_win` 9 772 302 0 1538 1584 829 1920 1080 327415
+~ Move `main_dlg_cur` `proe_win` 9 771 301 0 1538 1584 829 1920 1080 327477
+~ Move `main_dlg_cur` `proe_win` 9 768 297 0 1538 1584 829 1920 1080 327662
+~ Move `main_dlg_cur` `proe_win` 9 766 291 0 1538 1584 829 1920 1080 327722
+~ Move `main_dlg_cur` `proe_win` 9 765 285 0 1538 1584 829 1920 1080 327785
+~ Move `main_dlg_cur` `proe_win` 9 764 279 0 1538 1584 829 1920 1080 327848
+~ Move `main_dlg_cur` `proe_win` 9 764 276 0 1026 1584 829 1920 1080 327909
+~ Move `main_dlg_cur` `proe_win` 9 764 270 0 1026 1584 829 1920 1080 327971
+~ Move `main_dlg_cur` `proe_win` 9 762 266 0 1538 1584 829 1920 1080 328031
+~ Move `main_dlg_cur` `proe_win` 9 762 263 0 1026 1584 829 1920 1080 328093
+~ Move `main_dlg_cur` `proe_win` 9 761 261 0 1538 1584 829 1920 1080 328154
+~ Move `main_dlg_cur` `proe_win` 9 760 259 0 1538 1584 829 1920 1080 328216
+~ Move `main_dlg_cur` `proe_win` 9 762 255 0 1538 1584 829 1920 1080 328278
+~ Move `main_dlg_cur` `proe_win` 9 765 254 0 1538 1584 829 1920 1080 328339
+~ Move `main_dlg_cur` `proe_win` 9 768 253 0 1538 1584 829 1920 1080 328402
+~ Move `main_dlg_cur` `proe_win` 9 772 255 0 1538 1584 829 1920 1080 328464
+~ Move `main_dlg_cur` `proe_win` 9 778 261 0 1538 1584 829 1920 1080 328524
+~ Move `main_dlg_cur` `proe_win` 9 780 265 0 1538 1584 829 1920 1080 328586
+~ Move `main_dlg_cur` `proe_win` 9 782 268 0 1538 1584 829 1920 1080 328649
+~ Move `main_dlg_cur` `proe_win` 9 783 270 0 1538 1584 829 1920 1080 328710
+~ Move `main_dlg_cur` `proe_win` 9 783 272 0 1026 1584 829 1920 1080 328770
+~ Move `main_dlg_cur` `proe_win` 9 784 276 0 1538 1584 829 1920 1080 328834
+~ Move `main_dlg_cur` `proe_win` 9 784 277 0 1026 1584 829 1920 1080 328895
+~ Move `main_dlg_cur` `proe_win` 9 784 278 0 1026 1584 829 1920 1080 328958
+~ Move `main_dlg_cur` `proe_win` 9 784 283 0 1026 1584 829 1920 1080 329018
+~ Move `main_dlg_cur` `proe_win` 9 783 287 0 1538 1584 829 1920 1080 329081
+~ Move `main_dlg_cur` `proe_win` 9 783 288 0 1026 1584 829 1920 1080 329140
+~ Move `main_dlg_cur` `proe_win` 9 781 289 0 1538 1584 829 1920 1080 329201
+~ Move `main_dlg_cur` `proe_win` 9 778 289 0 514 1584 829 1920 1080 329264
+~ Move `main_dlg_cur` `proe_win` 9 772 289 0 514 1584 829 1920 1080 329325
+~ Move `main_dlg_cur` `proe_win` 9 772 290 0 1026 1584 829 1920 1080 329386
+~ Move `main_dlg_cur` `proe_win` 9 770 291 0 1538 1584 829 1920 1080 329449
+~ Move `main_dlg_cur` `proe_win` 9 769 292 0 1538 1584 829 1920 1080 329511
+~ Move `main_dlg_cur` `proe_win` 9 766 294 0 1538 1584 829 1920 1080 329571
+~ Move `main_dlg_cur` `proe_win` 9 764 294 0 514 1584 829 1920 1080 329634
+~ Move `main_dlg_cur` `proe_win` 9 763 295 0 1538 1584 829 1920 1080 329694
+~ Move `main_dlg_cur` `proe_win` 9 759 297 0 1538 1584 829 1920 1080 329757
+~ Move `main_dlg_cur` `proe_win` 9 755 298 0 1538 1584 829 1920 1080 329819
+~ Move `main_dlg_cur` `proe_win` 9 753 299 0 1538 1584 829 1920 1080 329879
+~ Move `main_dlg_cur` `proe_win` 9 752 300 0 1538 1584 829 1920 1080 329941
+~ Move `main_dlg_cur` `proe_win` 9 751 305 0 1538 1584 829 1920 1080 330002
+~ Move `main_dlg_cur` `proe_win` 9 750 309 0 1538 1584 829 1920 1080 330064
+~ Move `main_dlg_cur` `proe_win` 9 750 312 0 1026 1584 829 1920 1080 330126
+~ Move `main_dlg_cur` `proe_win` 9 752 312 0 514 1584 829 1920 1080 330373
+~ Move `main_dlg_cur` `proe_win` 9 754 312 0 514 1584 829 1920 1080 330434
+~ Move `main_dlg_cur` `proe_win` 9 759 301 0 1538 1584 829 1920 1080 330501
+~ Move `main_dlg_cur` `proe_win` 9 759 298 0 1026 1584 829 1920 1080 330569
+~ Move `main_dlg_cur` `proe_win` 9 759 297 0 1026 1584 829 1920 1080 330742
+~ Move `main_dlg_cur` `proe_win` 9 758 296 0 1538 1584 829 1920 1080 330987
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 758 296 0 0 1584 829 1920 1080 330990
+~ MButtonArm `main_dlg_cur` `proe_win` 9 808 277 0 2 1584 829 1920 1080 332402
+~ Move `main_dlg_cur` `proe_win` 9 808 283 0 1026 1584 829 1920 1080 332469
+~ Move `main_dlg_cur` `proe_win` 9 807 303 0 1538 1584 829 1920 1080 332532
+~ Move `main_dlg_cur` `proe_win` 9 807 328 0 1026 1584 829 1920 1080 332592
+~ Move `main_dlg_cur` `proe_win` 9 809 367 0 1538 1584 829 1920 1080 332651
+~ Move `main_dlg_cur` `proe_win` 9 812 403 0 1538 1584 829 1920 1080 332715
+~ Move `main_dlg_cur` `proe_win` 9 813 432 0 1538 1584 829 1920 1080 332775
+~ Move `main_dlg_cur` `proe_win` 9 815 464 0 1538 1584 829 1920 1080 332836
+~ Move `main_dlg_cur` `proe_win` 9 815 486 0 1026 1584 829 1920 1080 332898
+~ Move `main_dlg_cur` `proe_win` 9 815 497 0 1026 1584 829 1920 1080 332960
+~ Move `main_dlg_cur` `proe_win` 9 815 500 0 1026 1584 829 1920 1080 333023
+~ Move `main_dlg_cur` `proe_win` 9 814 492 0 1538 1584 829 1920 1080 333205
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 814 492 0 0 1584 829 1920 1080 333208
+~ LButtonArm `main_dlg_cur` `proe_win` 9 804 241 0 1 1584 829 1920 1080 334788
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 804 241 0 0 1584 829 1920 1080 334887
+@sel_pz_xyz 512.2135102533 598.4620024125 494.2462422136 395.0725036700 -1022.2044077440
+@ sel view 0
+ 10.165986 0.115024 0.095002 0.096430 -0.126317 -10.165838
+ -0.113830 10.165645 -0.127394 460.382744 404.330541 -1446.313528 26.781000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 420] 59 45 40 (0.6620427656 0.0000000000) (-0.4710551802 0.7637582911 0.0000000000)
+!Curve:F5(SKETCH_1):COLLECTOR_SCREWGEAR_GJS
+~ Move `main_dlg_cur` `proe_win` 9 810 273 33554432 0 1584 829 1920 1080 335320
+>M Chain_oa_sel_CB ProeWin0 810 273 c0 20000 1584 0 0 829 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 806 253 33554432 1 1584 829 1920 1080 335918
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 806 253 33554432 0 1584 829 1920 1080 335976
+@sel_pz_xyz 514.2490952955 586.2484921592 494.3222507664 394.6164523529 -1022.2044077440
+@ sel view 0
+ 10.165986 0.115024 0.095002 0.096430 -0.126317 -10.165838
+ -0.113830 10.165645 -0.127394 460.382744 404.330541 -1446.313528 26.781000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 420] 59 44 40 (0.6617136324 0.0000000000) (-0.5029662012 0.8117361968 0.0000000000)
+!Curve:F5(SKETCH_1):COLLECTOR_SCREWGEAR_GJS
+~ LButtonArm `main_dlg_cur` `proe_win` 9 816 283 33554432 1 1584 829 1920 1080 336279
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 816 283 33554432 0 1584 829 1920 1080 336360
+@sel_pz_xyz 524.4270205066 555.7147165259 494.7022935306 393.4763240601 -1022.2044077440
+@ sel view 0
+ 10.165986 0.115024 0.095002 0.096430 -0.126317 -10.165838
+ -0.113830 10.165645 -0.127394 460.382744 404.330541 -1446.313528 26.781000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 420] 59 43 40 (0.3362553321 0.0000000000) (-0.5418233258 0.8998973127 0.0000000000)
+!Curve:F5(SKETCH_1):COLLECTOR_SCREWGEAR_GJS
+~ Move `main_dlg_cur` `proe_win` 9 816 283 0 0 1584 829 1920 1080 336718
+>M Chain_oa_sel_CB ProeWin0 816 283 c0 0 1584 0 0 829 1920 0 0 1080 13
+~ Command `ProCmdViewHide@PopupMenuGraphicWinStack` 
+!Command ProCmdViewHidePost was pushed from the software.
+!Undo: added rec_id 577 type 10600 
+! Executed sub-command ProCmdViewHideStandard.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 848 296 0 2 1584 829 1920 1080 338652
+~ Move `main_dlg_cur` `proe_win` 9 848 294 0 1026 1584 829 1920 1080 338695
+~ Move `main_dlg_cur` `proe_win` 9 837 265 0 1538 1584 829 1920 1080 338757
+~ Move `main_dlg_cur` `proe_win` 9 829 234 0 1538 1584 829 1920 1080 338820
+~ Move `main_dlg_cur` `proe_win` 9 822 206 0 1538 1584 829 1920 1080 338882
+~ Move `main_dlg_cur` `proe_win` 9 822 197 0 1026 1584 829 1920 1080 338944
+~ Move `main_dlg_cur` `proe_win` 9 822 196 0 1026 1584 829 1920 1080 339006
+~ Move `main_dlg_cur` `proe_win` 9 822 182 0 1026 1584 829 1920 1080 339067
+~ Move `main_dlg_cur` `proe_win` 9 822 170 0 1026 1584 829 1920 1080 339129
+~ Move `main_dlg_cur` `proe_win` 9 822 169 0 1026 1584 829 1920 1080 339191
+~ Move `main_dlg_cur` `proe_win` 9 826 160 0 1538 1584 829 1920 1080 339376
+~ Move `main_dlg_cur` `proe_win` 9 832 133 0 1538 1584 829 1920 1080 339444
+~ Move `main_dlg_cur` `proe_win` 9 836 120 0 1538 1584 829 1920 1080 339502
+~ Move `main_dlg_cur` `proe_win` 9 838 110 0 1538 1584 829 1920 1080 339560
+~ Move `main_dlg_cur` `proe_win` 9 840 91 0 1538 1584 829 1920 1080 339622
+~ Move `main_dlg_cur` `proe_win` 9 845 75 0 1538 1584 829 1920 1080 339685
+~ Move `main_dlg_cur` `proe_win` 9 846 72 0 1538 1584 829 1920 1080 339747
+~ Move `main_dlg_cur` `proe_win` 9 846 71 0 1026 1584 829 1920 1080 339807
+~ Move `main_dlg_cur` `proe_win` 9 843 73 0 1538 1584 829 1920 1080 340054
+~ Move `main_dlg_cur` `proe_win` 9 824 83 0 1538 1584 829 1920 1080 340116
+~ Move `main_dlg_cur` `proe_win` 9 814 88 0 1538 1584 829 1920 1080 340176
+~ Move `main_dlg_cur` `proe_win` 9 814 91 0 1026 1584 829 1920 1080 340300
+~ Move `main_dlg_cur` `proe_win` 9 813 100 0 1538 1584 829 1920 1080 340362
+~ Move `main_dlg_cur` `proe_win` 9 812 103 0 1538 1584 829 1920 1080 340424
+~ Move `main_dlg_cur` `proe_win` 9 816 105 0 1538 1584 829 1920 1080 340733
+~ Move `main_dlg_cur` `proe_win` 9 817 105 0 514 1584 829 1920 1080 340795
+~ Move `main_dlg_cur` `proe_win` 9 819 103 0 1538 1584 829 1920 1080 340979
+~ Move `main_dlg_cur` `proe_win` 9 820 101 0 1538 1584 829 1920 1080 341041
+~ Move `main_dlg_cur` `proe_win` 9 822 99 0 1538 1584 829 1920 1080 341134
+~ Move `main_dlg_cur` `proe_win` 9 826 96 0 1538 1584 829 1920 1080 341166
+~ Move `main_dlg_cur` `proe_win` 9 832 92 0 1538 1584 829 1920 1080 341227
+~ Move `main_dlg_cur` `proe_win` 9 835 90 0 1538 1584 829 1920 1080 341288
+~ Move `main_dlg_cur` `proe_win` 9 838 88 0 1538 1584 829 1920 1080 341349
+~ Move `main_dlg_cur` `proe_win` 9 841 86 0 1538 1584 829 1920 1080 341410
+~ Move `main_dlg_cur` `proe_win` 9 844 84 0 1538 1584 829 1920 1080 341472
+~ Move `main_dlg_cur` `proe_win` 9 842 90 0 1538 1584 829 1920 1080 342276
+~ Move `main_dlg_cur` `proe_win` 9 838 96 0 1538 1584 829 1920 1080 342338
+~ Move `main_dlg_cur` `proe_win` 9 834 99 0 1538 1584 829 1920 1080 342399
+~ Move `main_dlg_cur` `proe_win` 9 826 101 0 1538 1584 829 1920 1080 342461
+~ Move `main_dlg_cur` `proe_win` 9 820 102 0 1538 1584 829 1920 1080 342526
+~ Move `main_dlg_cur` `proe_win` 9 816 102 0 514 1584 829 1920 1080 342583
+~ Move `main_dlg_cur` `proe_win` 9 815 102 0 514 1584 829 1920 1080 342648
+~ Move `main_dlg_cur` `proe_win` 9 814 102 0 514 1584 829 1920 1080 342707
+~ Move `main_dlg_cur` `proe_win` 9 813 102 0 514 1584 829 1920 1080 342769
+~ Move `main_dlg_cur` `proe_win` 9 810 99 0 1538 1584 829 1920 1080 342831
+~ Move `main_dlg_cur` `proe_win` 9 808 96 0 1538 1584 829 1920 1080 342893
+~ Move `main_dlg_cur` `proe_win` 9 807 93 0 1538 1584 829 1920 1080 342955
+~ Move `main_dlg_cur` `proe_win` 9 806 92 0 1538 1584 829 1920 1080 343016
+~ Move `main_dlg_cur` `proe_win` 9 806 91 0 1026 1584 829 1920 1080 343078
+~ Move `main_dlg_cur` `proe_win` 9 805 90 0 1538 1584 829 1920 1080 343140
+~ Move `main_dlg_cur` `proe_win` 9 805 89 0 1026 1584 829 1920 1080 343201
+~ Move `main_dlg_cur` `proe_win` 9 804 88 0 1538 1584 829 1920 1080 343264
+~ Move `main_dlg_cur` `proe_win` 9 804 87 0 1026 1584 829 1920 1080 343324
+~ Move `main_dlg_cur` `proe_win` 9 804 86 0 1026 1584 829 1920 1080 343386
+~ Move `main_dlg_cur` `proe_win` 9 813 86 0 514 1584 829 1920 1080 343511
+~ Move `main_dlg_cur` `proe_win` 9 820 86 0 514 1584 829 1920 1080 343572
+~ Move `main_dlg_cur` `proe_win` 9 824 86 0 514 1584 829 1920 1080 343635
+~ Move `main_dlg_cur` `proe_win` 9 825 86 0 514 1584 829 1920 1080 343695
+~ Move `main_dlg_cur` `proe_win` 9 829 87 0 1538 1584 829 1920 1080 343757
+~ Move `main_dlg_cur` `proe_win` 9 831 87 0 514 1584 829 1920 1080 343818
+~ Move `main_dlg_cur` `proe_win` 9 833 87 0 514 1584 829 1920 1080 343881
+~ Move `main_dlg_cur` `proe_win` 9 834 88 0 1538 1584 829 1920 1080 343943
+~ Move `main_dlg_cur` `proe_win` 9 835 89 0 1538 1584 829 1920 1080 344005
+~ Move `main_dlg_cur` `proe_win` 9 836 89 0 514 1584 829 1920 1080 344067
+~ Move `main_dlg_cur` `proe_win` 9 838 90 0 1538 1584 829 1920 1080 344127
+~ Move `main_dlg_cur` `proe_win` 9 839 90 0 514 1584 829 1920 1080 344189
+~ Move `main_dlg_cur` `proe_win` 9 841 90 0 514 1584 829 1920 1080 344250
+~ Move `main_dlg_cur` `proe_win` 9 844 91 0 1538 1584 829 1920 1080 344313
+~ Move `main_dlg_cur` `proe_win` 9 845 91 0 514 1584 829 1920 1080 344375
+~ Move `main_dlg_cur` `proe_win` 9 846 92 0 1538 1584 829 1920 1080 344436
+~ Move `main_dlg_cur` `proe_win` 9 847 95 0 1538 1584 829 1920 1080 344497
+~ Move `main_dlg_cur` `proe_win` 9 847 97 0 1026 1584 829 1920 1080 344559
+~ Move `main_dlg_cur` `proe_win` 9 847 98 0 1026 1584 829 1920 1080 344683
+~ Move `main_dlg_cur` `proe_win` 9 846 96 0 1538 1584 829 1920 1080 345117
+~ Move `main_dlg_cur` `proe_win` 9 844 93 0 1538 1584 829 1920 1080 345179
+~ Move `main_dlg_cur` `proe_win` 9 844 92 0 1026 1584 829 1920 1080 345240
+~ Move `main_dlg_cur` `proe_win` 9 842 92 0 514 1584 829 1920 1080 345363
+~ Move `main_dlg_cur` `proe_win` 9 839 92 0 514 1584 829 1920 1080 345424
+~ Move `main_dlg_cur` `proe_win` 9 835 92 0 514 1584 829 1920 1080 345485
+~ Move `main_dlg_cur` `proe_win` 9 828 92 0 514 1584 829 1920 1080 345554
+~ Move `main_dlg_cur` `proe_win` 9 824 92 0 514 1584 829 1920 1080 345611
+~ Move `main_dlg_cur` `proe_win` 9 823 92 0 514 1584 829 1920 1080 345746
+~ Move `main_dlg_cur` `proe_win` 9 819 98 0 1538 1584 829 1920 1080 345856
+~ Move `main_dlg_cur` `proe_win` 9 817 100 0 1538 1584 829 1920 1080 345917
+~ Move `main_dlg_cur` `proe_win` 9 816 100 0 514 1584 829 1920 1080 346040
+~ Move `main_dlg_cur` `proe_win` 9 816 99 0 1026 1584 829 1920 1080 346295
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 816 99 0 0 1584 829 1920 1080 346298
+~ LButtonArm `main_dlg_cur` `proe_win` 9 959 98 0 513 1584 829 1920 1080 346702
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 959 98 0 0 1584 829 1920 1080 346758
+@sel_pz_xyz 669.9713510253 744.0063329312 500.1369050594 400.5071151987 -1022.2044077440
+@ sel view 0
+ 10.002247 -1.245375 -1.331770 1.593768 9.578829 3.012550
+ 0.885706 -3.172475 9.618755 468.746962 340.254254 -1399.164868 26.781000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ MButtonArm `main_dlg_cur` `proe_win` 9 894 259 0 2 1584 829 1920 1080 347470
+~ Move `main_dlg_cur` `proe_win` 9 890 248 0 1538 1584 829 1920 1080 347521
+~ Move `main_dlg_cur` `proe_win` 9 886 242 0 1538 1584 829 1920 1080 347584
+~ Move `main_dlg_cur` `proe_win` 9 880 237 0 1538 1584 829 1920 1080 347643
+~ Move `main_dlg_cur` `proe_win` 9 879 237 0 514 1584 829 1920 1080 347705
+~ Move `main_dlg_cur` `proe_win` 9 879 238 0 1026 1584 829 1920 1080 347953
+~ Move `main_dlg_cur` `proe_win` 9 879 241 0 1026 1584 829 1920 1080 348014
+~ Move `main_dlg_cur` `proe_win` 9 879 242 0 1026 1584 829 1920 1080 348075
+~ Move `main_dlg_cur` `proe_win` 9 880 243 0 1538 1584 829 1920 1080 348198
+~ Move `main_dlg_cur` `proe_win` 9 884 244 0 1538 1584 829 1920 1080 348259
+~ Move `main_dlg_cur` `proe_win` 9 888 244 0 514 1584 829 1920 1080 348320
+~ Move `main_dlg_cur` `proe_win` 9 883 244 0 514 1584 829 1920 1080 349064
+~ Move `main_dlg_cur` `proe_win` 9 881 243 0 1538 1584 829 1920 1080 349123
+~ Move `main_dlg_cur` `proe_win` 9 877 243 0 514 1584 829 1920 1080 349185
+~ Move `main_dlg_cur` `proe_win` 9 876 243 0 514 1584 829 1920 1080 349247
+~ Move `main_dlg_cur` `proe_win` 9 875 243 0 514 1584 829 1920 1080 349308
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 875 243 0 0 1584 829 1920 1080 350492
+** 0.584477 0.705669 0 4 4
+0.496945 0.394958 M 0 0.982518519 0
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1164 190 0 2 1584 829 1920 1080 352022
+~ Move `main_dlg_cur` `proe_win` 9 1164 189 0 1026 1584 829 1920 1080 352023
+~ Move `main_dlg_cur` `proe_win` 9 1160 187 0 1538 1584 829 1920 1080 352084
+~ Move `main_dlg_cur` `proe_win` 9 1136 188 0 1538 1584 829 1920 1080 352146
+~ Move `main_dlg_cur` `proe_win` 9 1116 191 0 1538 1584 829 1920 1080 352207
+~ Move `main_dlg_cur` `proe_win` 9 1116 193 0 1026 1584 829 1920 1080 352577
+~ Move `main_dlg_cur` `proe_win` 9 1116 194 0 1026 1584 829 1920 1080 352638
+~ Move `main_dlg_cur` `proe_win` 9 1123 191 0 1538 1584 829 1920 1080 352823
+~ Move `main_dlg_cur` `proe_win` 9 1124 191 0 514 1584 829 1920 1080 352889
+~ Move `main_dlg_cur` `proe_win` 9 1126 190 0 1538 1584 829 1920 1080 352949
+~ Move `main_dlg_cur` `proe_win` 9 1129 187 0 1538 1584 829 1920 1080 353010
+~ Move `main_dlg_cur` `proe_win` 9 1132 184 0 1538 1584 829 1920 1080 353071
+~ Move `main_dlg_cur` `proe_win` 9 1135 182 0 1538 1584 829 1920 1080 353133
+~ Move `main_dlg_cur` `proe_win` 9 1136 181 0 1538 1584 829 1920 1080 353195
+~ Move `main_dlg_cur` `proe_win` 9 1140 179 0 1538 1584 829 1920 1080 353255
+~ Move `main_dlg_cur` `proe_win` 9 1142 177 0 1538 1584 829 1920 1080 353317
+~ Move `main_dlg_cur` `proe_win` 9 1144 177 0 514 1584 829 1920 1080 353378
+~ Move `main_dlg_cur` `proe_win` 9 1145 178 0 1538 1584 829 1920 1080 353504
+~ Move `main_dlg_cur` `proe_win` 9 1147 181 0 1538 1584 829 1920 1080 353565
+~ Move `main_dlg_cur` `proe_win` 9 1148 181 0 514 1584 829 1920 1080 353626
+~ Move `main_dlg_cur` `proe_win` 9 1150 181 0 514 1584 829 1920 1080 353750
+~ Move `main_dlg_cur` `proe_win` 9 1151 181 0 514 1584 829 1920 1080 353811
+~ Move `main_dlg_cur` `proe_win` 9 1152 181 0 514 1584 829 1920 1080 353874
+~ Move `main_dlg_cur` `proe_win` 9 1153 181 0 514 1584 829 1920 1080 353934
+~ Move `main_dlg_cur` `proe_win` 9 1154 182 0 1538 1584 829 1920 1080 353996
+~ Move `main_dlg_cur` `proe_win` 9 1155 183 0 1538 1584 829 1920 1080 354118
+~ Move `main_dlg_cur` `proe_win` 9 1156 183 0 514 1584 829 1920 1080 354677
+~ Move `main_dlg_cur` `proe_win` 9 1156 184 0 1026 1584 829 1920 1080 354865
+~ Move `main_dlg_cur` `proe_win` 9 1157 185 0 1538 1584 829 1920 1080 354942
+~ Move `main_dlg_cur` `proe_win` 9 1158 187 0 1538 1584 829 1920 1080 354991
+~ Move `main_dlg_cur` `proe_win` 9 1159 187 0 514 1584 829 1920 1080 355047
+~ Move `main_dlg_cur` `proe_win` 9 1159 188 0 1026 1584 829 1920 1080 355107
+~ Move `main_dlg_cur` `proe_win` 9 1160 188 0 514 1584 829 1920 1080 355168
+~ Move `main_dlg_cur` `proe_win` 9 1157 188 0 514 1584 829 1920 1080 357514
+~ Move `main_dlg_cur` `proe_win` 9 1156 188 0 514 1584 829 1920 1080 357701
+~ Move `main_dlg_cur` `proe_win` 9 1155 188 0 514 1584 829 1920 1080 357761
+~ Move `main_dlg_cur` `proe_win` 9 1154 188 0 514 1584 829 1920 1080 359275
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1154 188 0 0 1584 829 1920 1080 359302
+~ RButtonArm `main_dlg_cur` `proe_win` 9 209 269 0 4 1584 829 1920 1080 1574650
+~ Move `main_dlg_cur` `proe_win` 9 204 269 0 516 1584 829 1920 1080 1574708
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+@ sel_rmb_cmds 1
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 204 269 0 256 1584 829 1920 1080 1574975
+~ Exit `main_dlg_cur` `proe_win` 9 204 269 0 4 1584 829 1920 1080 1574988
+~ Close `rmb_popup` `PopupMenu`
+~ Command `ProCmdViewRestLayStat@PopupMenuGraphicWinStack` 
+!%CILayer status restored for all changed layers.
+!Undo: added rec_id 578 type 10605 
+!Undo: added rec_id 311 type 10605 
+!Undo: added rec_id 166 type 10605 
+!Undo: added rec_id 1225 type 10605 
+!Undo: added rec_id 252 type 10605 
+!Undo: added rec_id 83 type 10605 
+!Undo: added rec_id 115 type 10605 
+!Undo: added rec_id 91 type 10605 
+!Undo: added rec_id 231 type 10605 
+!Undo: added rec_id 129 type 10605 
+!Undo: added rec_id 382 type 10605 
+!Undo: added rec_id 6984 type 10605 
+!%CILayer statuses changed successfully. Repaint to see the results.
+~ Wheel `main_dlg_cur` `proe_win` 9 532 345 458752 0 1584 829 1920 1080 1577743
+~ Wheel `main_dlg_cur` `proe_win` 9 532 345 458752 0 1584 829 1920 1080 1577758
+~ Wheel `main_dlg_cur` `proe_win` 9 532 345 458752 0 1584 829 1920 1080 1577775
+~ Wheel `main_dlg_cur` `proe_win` 9 532 345 458752 0 1584 829 1920 1080 1577912
+~ Wheel `main_dlg_cur` `proe_win` 9 532 345 393216 0 1584 829 1920 1080 1578480
+~ Wheel `main_dlg_cur` `proe_win` 9 532 345 393216 0 1584 829 1920 1080 1578512
+~ Wheel `main_dlg_cur` `proe_win` 9 532 345 393216 0 1584 829 1920 1080 1578514
+~ Wheel `main_dlg_cur` `proe_win` 9 532 345 393216 0 1584 829 1920 1080 1578642
+~ Wheel `main_dlg_cur` `proe_win` 9 538 355 393216 0 1584 829 1920 1080 1579034
+~ Wheel `main_dlg_cur` `proe_win` 9 538 355 393216 0 1584 829 1920 1080 1579038
+~ Wheel `main_dlg_cur` `proe_win` 9 538 355 393216 0 1584 829 1920 1080 1579048
+~ Wheel `main_dlg_cur` `proe_win` 9 538 355 393216 0 1584 829 1920 1080 1579066
+~ Wheel `main_dlg_cur` `proe_win` 9 538 355 393216 0 1584 829 1920 1080 1579891
+~ Wheel `main_dlg_cur` `proe_win` 9 538 355 393216 0 1584 829 1920 1080 1579916
+~ Wheel `main_dlg_cur` `proe_win` 9 538 355 393216 0 1584 829 1920 1080 1579937
+~ MButtonArm `main_dlg_cur` `proe_win` 9 725 329 0 2 1584 829 1920 1080 1583194
+~ Move `main_dlg_cur` `proe_win` 9 725 330 0 1026 1584 829 1920 1080 1583483
+~ Move `main_dlg_cur` `proe_win` 9 724 330 0 514 1584 829 1920 1080 1583496
+~ Move `main_dlg_cur` `proe_win` 9 722 330 0 514 1584 829 1920 1080 1583600
+~ Move `main_dlg_cur` `proe_win` 9 717 332 0 1538 1584 829 1920 1080 1583663
+~ Move `main_dlg_cur` `proe_win` 9 711 333 0 1538 1584 829 1920 1080 1583725
+~ Move `main_dlg_cur` `proe_win` 9 707 333 0 514 1584 829 1920 1080 1583786
+~ Move `main_dlg_cur` `proe_win` 9 705 333 0 514 1584 829 1920 1080 1583846
+~ Move `main_dlg_cur` `proe_win` 9 702 332 0 1538 1584 829 1920 1080 1583909
+~ Move `main_dlg_cur` `proe_win` 9 701 331 0 1538 1584 829 1920 1080 1584091
+~ Move `main_dlg_cur` `proe_win` 9 699 330 0 1538 1584 829 1920 1080 1584155
+~ Move `main_dlg_cur` `proe_win` 9 697 329 0 1538 1584 829 1920 1080 1584215
+~ Move `main_dlg_cur` `proe_win` 9 695 323 0 1538 1584 829 1920 1080 1584277
+~ Move `main_dlg_cur` `proe_win` 9 693 320 0 1538 1584 829 1920 1080 1584347
+~ Move `main_dlg_cur` `proe_win` 9 691 317 0 1538 1584 829 1920 1080 1584400
+~ Move `main_dlg_cur` `proe_win` 9 688 312 0 1538 1584 829 1920 1080 1584460
+~ Move `main_dlg_cur` `proe_win` 9 687 309 0 1538 1584 829 1920 1080 1584522
+~ Move `main_dlg_cur` `proe_win` 9 685 305 0 1538 1584 829 1920 1080 1584586
+~ Move `main_dlg_cur` `proe_win` 9 684 302 0 1538 1584 829 1920 1080 1584648
+~ Move `main_dlg_cur` `proe_win` 9 681 299 0 1538 1584 829 1920 1080 1584709
+~ Move `main_dlg_cur` `proe_win` 9 679 296 0 1538 1584 829 1920 1080 1584769
+~ Move `main_dlg_cur` `proe_win` 9 675 292 0 1538 1584 829 1920 1080 1584831
+~ Move `main_dlg_cur` `proe_win` 9 660 283 0 1538 1584 829 1920 1080 1584893
+~ Move `main_dlg_cur` `proe_win` 9 649 279 0 1538 1584 829 1920 1080 1584955
+~ Move `main_dlg_cur` `proe_win` 9 645 277 0 1538 1584 829 1920 1080 1585015
+~ Move `main_dlg_cur` `proe_win` 9 638 273 0 1538 1584 829 1920 1080 1585076
+~ Move `main_dlg_cur` `proe_win` 9 632 270 0 1538 1584 829 1920 1080 1585140
+~ Move `main_dlg_cur` `proe_win` 9 630 269 0 1538 1584 829 1920 1080 1585200
+~ Move `main_dlg_cur` `proe_win` 9 627 268 0 1538 1584 829 1920 1080 1585262
+~ Move `main_dlg_cur` `proe_win` 9 623 267 0 1538 1584 829 1920 1080 1585322
+~ Move `main_dlg_cur` `proe_win` 9 622 267 0 514 1584 829 1920 1080 1585384
+~ Move `main_dlg_cur` `proe_win` 9 621 267 0 514 1584 829 1920 1080 1585508
+~ Move `main_dlg_cur` `proe_win` 9 621 268 0 1026 1584 829 1920 1080 1585630
+~ Move `main_dlg_cur` `proe_win` 9 621 273 0 1026 1584 829 1920 1080 1585691
+~ Move `main_dlg_cur` `proe_win` 9 621 275 0 1026 1584 829 1920 1080 1585753
+~ Move `main_dlg_cur` `proe_win` 9 622 279 0 1538 1584 829 1920 1080 1585815
+~ Move `main_dlg_cur` `proe_win` 9 623 283 0 1538 1584 829 1920 1080 1585877
+~ Move `main_dlg_cur` `proe_win` 9 625 289 0 1538 1584 829 1920 1080 1585939
+~ Move `main_dlg_cur` `proe_win` 9 626 294 0 1538 1584 829 1920 1080 1586000
+~ Move `main_dlg_cur` `proe_win` 9 628 299 0 1538 1584 829 1920 1080 1586060
+~ Move `main_dlg_cur` `proe_win` 9 629 303 0 1538 1584 829 1920 1080 1586126
+~ Move `main_dlg_cur` `proe_win` 9 630 310 0 1538 1584 829 1920 1080 1586184
+~ Move `main_dlg_cur` `proe_win` 9 632 317 0 1538 1584 829 1920 1080 1586245
+~ Move `main_dlg_cur` `proe_win` 9 634 326 0 1538 1584 829 1920 1080 1586307
+~ Move `main_dlg_cur` `proe_win` 9 635 329 0 1538 1584 829 1920 1080 1586368
+~ Move `main_dlg_cur` `proe_win` 9 635 334 0 1026 1584 829 1920 1080 1586428
+~ Move `main_dlg_cur` `proe_win` 9 636 337 0 1538 1584 829 1920 1080 1586490
+~ Move `main_dlg_cur` `proe_win` 9 636 342 0 1026 1584 829 1920 1080 1586552
+~ Move `main_dlg_cur` `proe_win` 9 636 346 0 1026 1584 829 1920 1080 1586707
+~ Move `main_dlg_cur` `proe_win` 9 631 357 0 1538 1584 829 1920 1080 1586737
+~ Move `main_dlg_cur` `proe_win` 9 630 361 0 1538 1584 829 1920 1080 1586797
+~ Move `main_dlg_cur` `proe_win` 9 630 362 0 1026 1584 829 1920 1080 1586859
+~ Move `main_dlg_cur` `proe_win` 9 629 361 0 1538 1584 829 1920 1080 1586909
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 629 361 0 0 1584 829 1920 1080 1586914
+~ Wheel `main_dlg_cur` `proe_win` 9 495 460 458752 0 1584 829 1920 1080 1591820
+~ Wheel `main_dlg_cur` `proe_win` 9 495 460 458752 0 1584 829 1920 1080 1591869
+~ Wheel `main_dlg_cur` `proe_win` 9 495 460 458752 0 1584 829 1920 1080 1591996
+~ Wheel `main_dlg_cur` `proe_win` 9 495 460 393216 0 1584 829 1920 1080 1592737
+~ Wheel `main_dlg_cur` `proe_win` 9 495 460 393216 0 1584 829 1920 1080 1592751
+~ Wheel `main_dlg_cur` `proe_win` 9 495 460 393216 0 1584 829 1920 1080 1592756
+~ Wheel `main_dlg_cur` `proe_win` 9 495 460 393216 0 1584 829 1920 1080 1592886
+~ Wheel `main_dlg_cur` `proe_win` 9 331 600 458752 0 1584 829 1920 1080 2085640
+~ Wheel `main_dlg_cur` `proe_win` 9 331 600 458752 0 1584 829 1920 1080 2085673
+~ Wheel `main_dlg_cur` `proe_win` 9 331 600 458752 0 1584 829 1920 1080 2085703
+~ Wheel `main_dlg_cur` `proe_win` 9 331 600 458752 0 1584 829 1920 1080 2085762
+~ Wheel `main_dlg_cur` `proe_win` 9 331 601 393216 0 1584 829 1920 1080 2086338
+~ Wheel `main_dlg_cur` `proe_win` 9 331 601 393216 0 1584 829 1920 1080 2086378
+~ Wheel `main_dlg_cur` `proe_win` 9 331 601 393216 0 1584 829 1920 1080 2086394
+~ Wheel `main_dlg_cur` `proe_win` 9 325 334 458752 0 1584 829 1920 1080 2088423
+~ Wheel `main_dlg_cur` `proe_win` 9 325 334 458752 0 1584 829 1920 1080 2088492
+~ Wheel `main_dlg_cur` `proe_win` 9 325 334 458752 0 1584 829 1920 1080 2088589
+~ Wheel `main_dlg_cur` `proe_win` 9 325 334 393216 0 1584 829 1920 1080 2089166
+~ Wheel `main_dlg_cur` `proe_win` 9 325 334 393216 0 1584 829 1920 1080 2089194
+~ Wheel `main_dlg_cur` `proe_win` 9 325 334 393216 0 1584 829 1920 1080 2089199
+~ Wheel `main_dlg_cur` `proe_win` 9 325 334 393216 0 1584 829 1920 1080 2089321
+~ Wheel `main_dlg_cur` `proe_win` 9 1221 580 458752 0 1584 829 1920 1080 2090323
+~ Wheel `main_dlg_cur` `proe_win` 9 1221 588 458752 1024 1584 829 1920 1080 2090353
+~ Wheel `main_dlg_cur` `proe_win` 9 1221 588 458752 0 1584 829 1920 1080 2090366
+~ Wheel `main_dlg_cur` `proe_win` 9 1221 588 458752 0 1584 829 1920 1080 2090464
+~ LButtonArm `main_dlg_cur` `proe_win` 9 917 597 0 1 1584 829 1920 1080 2091688
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 917 597 0 0 1584 829 1920 1080 2091743
+@sel_pz_xyz 627.2240651387 236.1278648975 612.8660369068 330.2818962846 -1022.2044077440
+@ sel view 0
+ 4.081255 5.609322 -7.432926 -1.904542 8.446746 5.328669
+ 9.115130 -0.746659 4.441444 515.102226 363.165186 -1431.755362 10.969498 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 575] 2 50 -1 (-0.2380914091 0.1703242433) (-0.2380914091 0.1703242433 0.5000000000)
+!Surf:F5(EXTRUDE_1):COLLECTOR_HINGE2CHASSIS_GJS
+~ Command `ProCmdViewNormal@PopupMenuGraphicWinStack` 
+~ Wheel `main_dlg_cur` `proe_win` 9 467 584 458752 0 1584 829 1920 1080 2094624
+~ Wheel `main_dlg_cur` `proe_win` 9 467 584 458752 0 1584 829 1920 1080 2094645
+~ Wheel `main_dlg_cur` `proe_win` 9 467 584 458752 0 1584 829 1920 1080 2094652
+~ Wheel `main_dlg_cur` `proe_win` 9 467 584 458752 0 1584 829 1920 1080 2094684
+~ Wheel `main_dlg_cur` `proe_win` 9 467 584 458752 0 1584 829 1920 1080 2094746
+~ Wheel `main_dlg_cur` `proe_win` 9 467 584 393216 0 1584 829 1920 1080 2095251
+~ Wheel `main_dlg_cur` `proe_win` 9 469 585 393216 1536 1584 829 1920 1080 2095279
+~ Wheel `main_dlg_cur` `proe_win` 9 469 585 393216 0 1584 829 1920 1080 2095293
+~ Wheel `main_dlg_cur` `proe_win` 9 472 590 393216 0 1584 829 1920 1080 2095606
+~ Wheel `main_dlg_cur` `proe_win` 9 472 590 393216 0 1584 829 1920 1080 2095612
+~ Wheel `main_dlg_cur` `proe_win` 9 472 590 393216 0 1584 829 1920 1080 2095629
+~ Wheel `main_dlg_cur` `proe_win` 9 468 599 393216 0 1584 829 1920 1080 2095910
+~ Wheel `main_dlg_cur` `proe_win` 9 468 599 393216 0 1584 829 1920 1080 2095934
+~ Wheel `main_dlg_cur` `proe_win` 9 469 604 393216 0 1584 829 1920 1080 2096230
+~ Wheel `main_dlg_cur` `proe_win` 9 469 604 393216 0 1584 829 1920 1080 2096238
+~ Wheel `main_dlg_cur` `proe_win` 9 469 604 393216 0 1584 829 1920 1080 2096242
+~ Wheel `main_dlg_cur` `proe_win` 9 469 604 393216 0 1584 829 1920 1080 2096312
+~ Wheel `main_dlg_cur` `proe_win` 9 469 604 393216 0 1584 829 1920 1080 2096591
+~ Wheel `main_dlg_cur` `proe_win` 9 469 604 393216 0 1584 829 1920 1080 2096597
+~ Wheel `main_dlg_cur` `proe_win` 9 469 604 393216 0 1584 829 1920 1080 2096658
+~ Wheel `main_dlg_cur` `proe_win` 9 469 604 393216 0 1584 829 1920 1080 2096686
+~ LButtonArm `main_dlg_cur` `proe_win` 9 681 554 0 1 1584 829 1920 1080 2097171
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 681 554 0 0 1584 829 1920 1080 2097249
+@sel_pz_xyz 387.0250301568 279.8929433052 800.0758028821 383.2105879093 -1022.2044077440
+@ sel view 0
+ 0.000002 2.113855 -9.944905 -0.000000 9.944905 2.113855
+ 10.167080 0.000000 0.000002 570.731205 371.981067 -1405.754770 0.942273 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 551 710 0 1 1584 829 1920 1080 2098946
+~ Move `main_dlg_cur` `proe_win` 9 533 704 0 1537 1584 829 1920 1080 2099050
+~ Move `main_dlg_cur` `proe_win` 9 502 680 0 1537 1584 829 1920 1080 2099113
+~ Move `main_dlg_cur` `proe_win` 9 463 657 0 1537 1584 829 1920 1080 2099177
+~ Move `main_dlg_cur` `proe_win` 9 453 651 0 1537 1584 829 1920 1080 2099247
+~ Move `main_dlg_cur` `proe_win` 9 451 650 0 1537 1584 829 1920 1080 2099304
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 451 650 0 0 1584 829 1920 1080 2099342
+@ sel view 0
+ 0.000002 2.113855 -9.944905 -0.000000 9.944905 2.113855
+ 10.167080 0.000000 0.000002 570.731205 371.981067 -1405.754770 0.942273 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 467 645 0 1 1584 829 1920 1080 2099785
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 467 645 0 0 1584 829 1920 1080 2099844
+@sel_pz_xyz 169.2174306393 187.2738238842 568.9244515285 284.9172562589 -1022.2044077440
+@ sel view 0
+ 0.000002 2.113855 -9.944905 -0.000000 9.944905 2.113855
+ 10.167080 0.000000 0.000002 570.731205 371.981067 -1405.754770 0.942273 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 467 638 0 1 1584 829 1920 1080 2100118
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 467 638 0 0 1584 829 1920 1080 2100212
+@sel_pz_xyz 169.2174306393 194.3983715320 568.9244515285 292.4782817704 -1022.2044077440
+@ sel view 0
+ 0.000002 2.113855 -9.944905 -0.000000 9.944905 2.113855
+ 10.167080 0.000000 0.000002 570.731205 371.981067 -1405.754770 0.942273 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 59 524 521 (0.2761194030 0.0000000000) (3.0915354331 -7.3225727739 -1.0823212544)
+!F106(CURVE)
+~ Move `main_dlg_cur` `proe_win` 9 467 636 33554432 0 1584 829 1920 1080 2100944
+>M Chain_oa_sel_CB ProeWin0 467 636 c0 20000 1584 0 0 829 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 457 603 33554432 1 1584 829 1920 1080 2101305
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 457 603 33554432 0 1584 829 1920 1080 2101351
+@sel_pz_xyz 159.0395054282 230.0211097708 558.1229865119 330.2834093283 -1022.2044077440
+@ sel view 0
+ 0.000002 2.113855 -9.944905 -0.000000 9.944905 2.113855
+ 10.167080 0.000000 0.000002 570.731205 371.981067 -1405.754770 0.942273 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [ ] 59 526 521 (0.3132754356 0.0000000000) (3.0915354331 -4.2694518689 0.0000000000)
+!F106(CURVE)
+~ Move `main_dlg_cur` `proe_win` 9 457 603 0 0 1584 829 1920 1080 2101527
+>M Chain_oa_sel_CB ProeWin0 457 603 c0 0 1584 0 0 829 1920 0 0 1080 13
+~ Command `ProCmdViewHide@PopupMenuGraphicWinStack` 
+!Command ProCmdViewHidePost was pushed from the software.
+!Undo: added rec_id 6985 type 10600 
+! Executed sub-command ProCmdViewHideStandard.
+~ Wheel `main_dlg_cur` `proe_win` 9 520 380 458752 0 1584 829 1920 1080 2104458
+~ Wheel `main_dlg_cur` `proe_win` 9 519 393 458752 0 1584 829 1920 1080 2105097
+~ Wheel `main_dlg_cur` `proe_win` 9 519 393 458752 0 1584 829 1920 1080 2105114
+~ Wheel `main_dlg_cur` `proe_win` 9 519 393 458752 0 1584 829 1920 1080 2105120
+~ Wheel `main_dlg_cur` `proe_win` 9 519 393 458752 0 1584 829 1920 1080 2105187
+~ Wheel `main_dlg_cur` `proe_win` 9 630 261 393216 0 1584 829 1920 1080 2107056
+~ Wheel `main_dlg_cur` `proe_win` 9 630 265 393216 1024 1584 829 1920 1080 2107194
+~ Move `main_dlg_cur` `proe_win` 9 810 447 16777216 0 1584 829 1920 1080 2110494
+>M Chain_oa_sel_CB ProeWin0 810 447 c0 10000 1584 0 0 829 1920 0 0 1080 13
+>M Collectors_CB ProeWin0 810 447 c0 10000 1584 0 0 829 1920 0 0 1080 13
+~ MButtonArm `main_dlg_cur` `proe_win` 9 813 433 16777216 2 1584 829 1920 1080 2110622
+~ Move `main_dlg_cur` `proe_win` 9 813 435 16777216 1026 1584 829 1920 1080 2110840
+~ Move `main_dlg_cur` `proe_win` 9 813 441 16777216 1026 1584 829 1920 1080 2110905
+~ Move `main_dlg_cur` `proe_win` 9 812 444 16777216 1538 1584 829 1920 1080 2110967
+~ Move `main_dlg_cur` `proe_win` 9 812 447 16777216 1026 1584 829 1920 1080 2111033
+~ Move `main_dlg_cur` `proe_win` 9 811 448 16777216 1538 1584 829 1920 1080 2111093
+~ Move `main_dlg_cur` `proe_win` 9 809 451 16777216 1538 1584 829 1920 1080 2111158
+~ Move `main_dlg_cur` `proe_win` 9 808 453 16777216 1538 1584 829 1920 1080 2111221
+~ Move `main_dlg_cur` `proe_win` 9 804 456 16777216 1538 1584 829 1920 1080 2111286
+~ Move `main_dlg_cur` `proe_win` 9 799 460 16777216 1538 1584 829 1920 1080 2111347
+~ Move `main_dlg_cur` `proe_win` 9 793 463 16777216 1538 1584 829 1920 1080 2111412
+~ Move `main_dlg_cur` `proe_win` 9 789 465 16777216 1538 1584 829 1920 1080 2111475
+~ Move `main_dlg_cur` `proe_win` 9 785 467 16777216 1538 1584 829 1920 1080 2111538
+~ Move `main_dlg_cur` `proe_win` 9 777 470 16777216 1538 1584 829 1920 1080 2111602
+~ Move `main_dlg_cur` `proe_win` 9 770 471 16777216 1538 1584 829 1920 1080 2111666
+~ Move `main_dlg_cur` `proe_win` 9 760 473 16777216 1538 1584 829 1920 1080 2111728
+~ Move `main_dlg_cur` `proe_win` 9 750 476 16777216 1538 1584 829 1920 1080 2111791
+~ Move `main_dlg_cur` `proe_win` 9 737 477 16777216 1538 1584 829 1920 1080 2111864
+~ Move `main_dlg_cur` `proe_win` 9 723 477 16777216 514 1584 829 1920 1080 2111919
+~ Move `main_dlg_cur` `proe_win` 9 716 477 16777216 514 1584 829 1920 1080 2111982
+~ Move `main_dlg_cur` `proe_win` 9 713 477 16777216 514 1584 829 1920 1080 2112046
+~ Move `main_dlg_cur` `proe_win` 9 711 476 16777216 1538 1584 829 1920 1080 2112110
+~ Move `main_dlg_cur` `proe_win` 9 707 473 16777216 1538 1584 829 1920 1080 2112174
+~ Move `main_dlg_cur` `proe_win` 9 705 472 16777216 1538 1584 829 1920 1080 2112238
+~ Move `main_dlg_cur` `proe_win` 9 704 472 16777216 514 1584 829 1920 1080 2112363
+~ Move `main_dlg_cur` `proe_win` 9 703 471 16777216 1538 1584 829 1920 1080 2112428
+~ Move `main_dlg_cur` `proe_win` 9 702 471 16777216 514 1584 829 1920 1080 2112556
+~ Move `main_dlg_cur` `proe_win` 9 700 471 16777216 514 1584 829 1920 1080 2112620
+~ Move `main_dlg_cur` `proe_win` 9 698 471 16777216 514 1584 829 1920 1080 2112684
+~ Move `main_dlg_cur` `proe_win` 9 697 471 16777216 514 1584 829 1920 1080 2112745
+~ Move `main_dlg_cur` `proe_win` 9 695 471 16777216 514 1584 829 1920 1080 2113000
+~ Move `main_dlg_cur` `proe_win` 9 691 471 16777216 514 1584 829 1920 1080 2113064
+~ Move `main_dlg_cur` `proe_win` 9 688 471 16777216 514 1584 829 1920 1080 2113127
+~ Move `main_dlg_cur` `proe_win` 9 675 471 16777216 514 1584 829 1920 1080 2113192
+~ Move `main_dlg_cur` `proe_win` 9 655 471 16777216 514 1584 829 1920 1080 2113271
+~ Move `main_dlg_cur` `proe_win` 9 643 471 16777216 514 1584 829 1920 1080 2113320
+~ Move `main_dlg_cur` `proe_win` 9 641 471 16777216 514 1584 829 1920 1080 2113382
+~ Move `main_dlg_cur` `proe_win` 9 638 471 16777216 514 1584 829 1920 1080 2113447
+~ Move `main_dlg_cur` `proe_win` 9 624 470 16777216 1538 1584 829 1920 1080 2113513
+~ Move `main_dlg_cur` `proe_win` 9 619 470 16777216 514 1584 829 1920 1080 2113578
+~ Move `main_dlg_cur` `proe_win` 9 618 470 16777216 514 1584 829 1920 1080 2113791
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 618 470 16777216 0 1584 829 1920 1080 2113796
+~ Move `main_dlg_cur` `proe_win` 9 561 530 0 0 1584 829 1920 1080 2113852
+>M Chain_oa_sel_CB ProeWin0 561 530 c0 0 1584 0 0 829 1920 0 0 1080 13
+>M Collectors_CB ProeWin0 561 530 c0 0 1584 0 0 829 1920 0 0 1080 13
+~ Wheel `main_dlg_cur` `proe_win` 9 289 421 458752 0 1584 829 1920 1080 2432397
+~ Wheel `main_dlg_cur` `proe_win` 9 300 428 458752 0 1584 829 1920 1080 2433344
+~ Wheel `main_dlg_cur` `proe_win` 9 300 428 458752 0 1584 829 1920 1080 2433364
+~ Wheel `main_dlg_cur` `proe_win` 9 300 428 458752 0 1584 829 1920 1080 2433374
+~ Wheel `main_dlg_cur` `proe_win` 9 300 428 458752 0 1584 829 1920 1080 2433466
+~ Wheel `main_dlg_cur` `proe_win` 9 304 422 393216 0 1584 829 1920 1080 2434690
+~ Wheel `main_dlg_cur` `proe_win` 9 304 422 393216 0 1584 829 1920 1080 2434701
+~ Wheel `main_dlg_cur` `proe_win` 9 304 422 393216 0 1584 829 1920 1080 2434729
+~ Wheel `main_dlg_cur` `proe_win` 9 304 427 393216 0 1584 829 1920 1080 2435716
+~ Wheel `main_dlg_cur` `proe_win` 9 304 429 393216 0 1584 829 1920 1080 2435733
+~ Wheel `main_dlg_cur` `proe_win` 9 304 429 393216 0 1584 829 1920 1080 2435763
+~ Wheel `main_dlg_cur` `proe_win` 9 304 429 458752 0 1584 829 1920 1080 2436767
+~ Wheel `main_dlg_cur` `proe_win` 9 304 429 458752 0 1584 829 1920 1080 2436790
+~ Wheel `main_dlg_cur` `proe_win` 9 304 429 458752 0 1584 829 1920 1080 2436797
+~ LButtonArm `main_dlg_cur` `proe_win` 9 779 464 0 1 1584 829 1920 1080 2440214
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 779 464 0 0 1584 829 1920 1080 2440280
+@sel_pz_xyz 486.7686972256 371.4942702051 757.5668194655 522.0098378260 -1022.2044077440
+@ sel view 0
+ 0.000002 2.113855 -9.944905 -0.000000 9.944905 2.113855
+ 10.167080 0.000000 0.000002 570.731205 371.981067 -1405.754770 2.875588 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Wheel `main_dlg_cur` `proe_win` 9 505 380 393216 0 1584 829 1920 1080 2441224
+~ Wheel `main_dlg_cur` `proe_win` 9 619 370 393216 0 1584 829 1920 1080 2450031
+~ Wheel `main_dlg_cur` `proe_win` 9 619 370 393216 0 1584 829 1920 1080 2450064
+~ Move `main_dlg_cur` `proe_win` 9 636 391 16777216 0 1584 829 1920 1080 2452984
+>M Chain_oa_sel_CB ProeWin0 636 391 c0 10000 1584 0 0 829 1920 0 0 1080 13
+>M Collectors_CB ProeWin0 636 391 c0 10000 1584 0 0 829 1920 0 0 1080 13
+~ MButtonArm `main_dlg_cur` `proe_win` 9 636 390 16777216 2 1584 829 1920 1080 2453134
+~ Move `main_dlg_cur` `proe_win` 9 635 391 16777216 1538 1584 829 1920 1080 2453211
+~ Move `main_dlg_cur` `proe_win` 9 622 392 16777216 1538 1584 829 1920 1080 2453265
+~ Move `main_dlg_cur` `proe_win` 9 578 394 16777216 1538 1584 829 1920 1080 2453431
+~ Move `main_dlg_cur` `proe_win` 9 568 394 16777216 514 1584 829 1920 1080 2453450
+~ Move `main_dlg_cur` `proe_win` 9 554 395 16777216 1538 1584 829 1920 1080 2453513
+~ Move `main_dlg_cur` `proe_win` 9 541 396 16777216 1538 1584 829 1920 1080 2453575
+~ Move `main_dlg_cur` `proe_win` 9 536 396 16777216 514 1584 829 1920 1080 2453638
+~ Move `main_dlg_cur` `proe_win` 9 528 396 16777216 514 1584 829 1920 1080 2453701
+~ Move `main_dlg_cur` `proe_win` 9 518 398 16777216 1538 1584 829 1920 1080 2453766
+~ Move `main_dlg_cur` `proe_win` 9 514 398 16777216 514 1584 829 1920 1080 2453827
+~ Move `main_dlg_cur` `proe_win` 9 510 400 16777216 1538 1584 829 1920 1080 2453891
+~ Move `main_dlg_cur` `proe_win` 9 507 400 16777216 514 1584 829 1920 1080 2453951
+~ Move `main_dlg_cur` `proe_win` 9 506 400 16777216 514 1584 829 1920 1080 2454015
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 506 400 16777216 0 1584 829 1920 1080 2454109
+~ Move `main_dlg_cur` `proe_win` 9 506 400 0 0 1584 829 1920 1080 2454178
+>M Chain_oa_sel_CB ProeWin0 506 400 c0 0 1584 0 0 829 1920 0 0 1080 13
+>M Collectors_CB ProeWin0 506 400 c0 0 1584 0 0 829 1920 0 0 1080 13
+~ Wheel `main_dlg_cur` `proe_win` 9 506 401 458752 0 1584 829 1920 1080 2454460
+~ Wheel `main_dlg_cur` `proe_win` 9 506 401 458752 0 1584 829 1920 1080 2454476
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 393216 0 1584 829 1920 1080 2457036
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 393216 0 1584 829 1920 1080 2457082
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 393216 0 1584 829 1920 1080 2457508
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 393216 0 1584 829 1920 1080 2457526
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 393216 0 1584 829 1920 1080 2457554
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 393216 0 1584 829 1920 1080 2458237
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 393216 0 1584 829 1920 1080 2458268
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 393216 0 1584 829 1920 1080 2458283
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 393216 0 1584 829 1920 1080 2458315
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 458752 0 1584 829 1920 1080 2458837
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 458752 0 1584 829 1920 1080 2458867
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 458752 0 1584 829 1920 1080 2458913
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 458752 0 1584 829 1920 1080 2458962
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 458752 0 1584 829 1920 1080 2459011
+~ Wheel `main_dlg_cur` `proe_win` 9 507 401 458752 0 1584 829 1920 1080 2459076
+~ Wheel `main_dlg_cur` `proe_win` 9 529 391 458752 0 1584 829 1920 1080 2460407
+~ Wheel `main_dlg_cur` `proe_win` 9 529 391 458752 0 1584 829 1920 1080 2460485
+~ Wheel `main_dlg_cur` `proe_win` 9 529 391 458752 0 1584 829 1920 1080 2460565
+~ Wheel `main_dlg_cur` `proe_win` 9 529 391 458752 0 1584 829 1920 1080 2460662
+~ Wheel `main_dlg_cur` `proe_win` 9 529 391 393216 0 1584 829 1920 1080 2461601
+~ Wheel `main_dlg_cur` `proe_win` 9 529 391 393216 0 1584 829 1920 1080 2461631
+~ Wheel `main_dlg_cur` `proe_win` 9 529 391 393216 0 1584 829 1920 1080 2461663
+~ Wheel `main_dlg_cur` `proe_win` 9 529 391 393216 0 1584 829 1920 1080 2461744
+~ Wheel `main_dlg_cur` `proe_win` 9 430 387 458752 0 1584 829 1920 1080 2466292
+~ Wheel `main_dlg_cur` `proe_win` 9 430 387 458752 0 1584 829 1920 1080 2466326
+~ Move `main_dlg_cur` `main_dlg_cur` 0
+~ Wheel `main_dlg_cur` `proe_win` 9 660 402 393216 0 1584 829 1920 1080 59029676
+~ Wheel `main_dlg_cur` `proe_win` 9 660 402 393216 0 1584 829 1920 1080 59029722
+~ Wheel `main_dlg_cur` `proe_win` 9 660 402 393216 0 1584 829 1920 1080 59029776
+~ MButtonArm `main_dlg_cur` `proe_win` 9 545 394 0 514 1584 829 1920 1080 59030123
+~ Move `main_dlg_cur` `proe_win` 9 545 394 0 2 1584 829 1920 1080 59030146
+~ Move `main_dlg_cur` `proe_win` 9 546 395 0 1538 1584 829 1920 1080 59030156
+~ Move `main_dlg_cur` `proe_win` 9 547 396 0 1538 1584 829 1920 1080 59030162
+~ Move `main_dlg_cur` `proe_win` 9 549 397 0 1538 1584 829 1920 1080 59030171
+~ Move `main_dlg_cur` `proe_win` 9 552 398 0 1538 1584 829 1920 1080 59030182
+~ Move `main_dlg_cur` `proe_win` 9 557 400 0 1538 1584 829 1920 1080 59030197
+~ Move `main_dlg_cur` `proe_win` 9 561 402 0 1538 1584 829 1920 1080 59030202
+~ Move `main_dlg_cur` `proe_win` 9 598 412 0 1538 1584 829 1920 1080 59030256
+~ Move `main_dlg_cur` `proe_win` 9 631 418 0 1538 1584 829 1920 1080 59030321
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 631 418 0 0 1584 829 1920 1080 59030418
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
