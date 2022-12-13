@@ -1,0 +1,97 @@
+____________________________________________________________
+
+Creo Simulate AutoGEM Log File
+Copyright(c) 2013 PTC (tm) -
+All Rights Reserved
+____________________________________________________________
+
+Model Name:                   frame_assembly
+Product Name:                 Creo Simulate Structure
+Product Version:              P-90-47:spg
+Machine:                      x86e_win64
+Creation Date:                12/12/2022
+Creation Time:                15:11:14
+Author:                       UNKNOWN
+
+____________________________________________________________
+
+          AutoGEM Settings
+
+  Isolate Surface Features: 
+
+  [x] Reentrant Corners
+  [x] Point Loads
+  [x] Point Constraints
+  [x] Point Heat Loads
+  [x] Point Prescribed Temperatures
+  [x] Point Convection Conditions
+
+ ------------------------------------------
+
+  [x] Insert Points
+  [x] Create Links Where Needed
+  [x] Move or Delete Existing Points
+  [x] Modify or Delete Existing Elements
+  [ ] Detailed Fillet Modeling
+  [ ] Display AutoGEM Messages
+  [ ] Automatic Interrupt
+
+ ------------------------------------------
+
+  Shell Element Type:   Quad and Tri
+  Solid Element Type:   Brick, Wedge, Tetra
+
+  Allowable Angles (Degrees):
+    Edge    Min:   5.0  Max:  175.0
+    Face    Min:   5.0  Max:  175.0
+
+  Max Allowable Edge Turn (Degrees):  95.0
+
+  Max Allowable Aspect Ratio:  30.0
+
+____________________________________________________________
+
+Working on 16 volume(s) ...
+Pre-processing features for surface 1 of 880 ...
+Pre-processing features for surface 200 of 880 ...
+Pre-processing features for surface 400 of 880 ...
+Pre-processing features for surface 600 of 880 ...
+Pre-processing features for surface 800 of 880 ...
+Pre-processing boundary features ...
+Optimizing boundary point locations ...
+Detecting thin features on the volume ...
+Pre-processing volume features ...
+Searching for existing solid elements inside the volume ...
+Found 0 existing solid element(s) inside the volume.
+Creating solid elements ...
+Optimizing elements ...
+Adding 16439 solid elements to model ...
+Displaying Elements ...
+
+____________________________________________________________
+
+          AutoGEM Summary
+
+  Entities Created:
+
+    Beam:         0       Edge:              28818
+    Tri:          0       Face:              38949
+    Quad:         0       Face-Face Link:    0
+    Tetra:     16439       Edge-Face Link:    0
+    Wedge:        0
+    Brick:        0
+
+ ----------------------------------------------------
+
+  Criteria Satisfied:
+
+  Angles (Degrees):
+    Edge  Min:   5.0    Max:  169.5
+    Face  Min:   5.0    Max:  175.0
+
+  Max Aspect Ratio: 11.4
+
+  Elapsed Time:    0.4 min    CPU Time:   0.4 min
+
+____________________________________________________________
+

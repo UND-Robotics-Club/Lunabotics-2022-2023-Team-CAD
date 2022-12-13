@@ -23,4 +23,4 @@ sketcher_lock_modified_dims yes
 sketcher_auto_create_references no
 shade_quality 5
 intelligent_fastener_enabled yes
-pro_font_dir C:\Program Files\PTC\Creo 9.0.0.0\Common Files\text\fonts\
+pro_font_dir C:\Windows\Fonts
