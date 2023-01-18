@@ -1,0 +1,150 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY HOPPER_ASSEMBLY
+
+VOLUME =  2.4190789e+02  INCH^3
+SURFACE AREA =  3.7583473e+03  INCH^2
+AVERAGE DENSITY =  1.5804867e-04 LBF SEC^2 / IN / INCH^3
+MASS =  3.8233220e-02 LBF SEC^2 / IN 
+CENTER OF GRAVITY with respect to _HOPPER_ASSEMBLY coordinate frame:
+X   Y   Z    -9.5443189e-01  1.6123177e+00  1.6491168e-01  INCH
+
+INERTIA with respect to _HOPPER_ASSEMBLY coordinate frame:  (LBF SEC^2 / IN * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  2.9836567e+00  1.7436894e-02 -2.9818083e-01
+Iyx Iyy Iyz  1.7436894e-02  3.3844684e+00 -2.6716866e-01
+Izx Izy Izz -2.9818083e-01 -2.6716866e-01  1.3417007e+00
+
+INERTIA at CENTER OF GRAVITY with respect to _HOPPER_ASSEMBLY coordinate frame:  (LBF SEC^2 / IN * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  2.8832271e+00 -4.1398200e-02 -3.0419862e-01
+Iyx Iyy Iyz -4.1398200e-02  3.3486004e+00 -2.5700283e-01
+Izx Izy Izz -3.0419862e-01 -2.5700283e-01  1.2074827e+00
+
+PRINCIPAL MOMENTS OF INERTIA:  (LBF SEC^2 / IN * INCH^2)
+I1  I2  I3   1.1235217e+00  2.9367082e+00  3.3790803e+00
+
+ROTATION MATRIX from _HOPPER_ASSEMBLY orientation to PRINCIPAL AXES:
+       0.17184        0.98505       -0.01183
+       0.11619       -0.00834        0.99319
+       0.97825       -0.17205       -0.11588
+
+ROTATION ANGLES from _HOPPER_ASSEMBLY orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -96.655         -0.678        -80.104 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 5.4208862e+00  8.7641532e+00  9.4011032e+00  INCH
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _HOPPER_ASSEMBLY coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+             HOPPER_MODELED_BELT            MATERIAL:                      SILICONE_RUBBER
+         1.04801e-04  6.24917e-03  0.00000e+00  0.00000e+00 -7.54669e-03
+              HOPPER_UNDERSHIELD            MATERIAL:                               AL6061
+         2.53600e-04  6.32045e-03  0.00000e+00  7.25949e-01  3.58390e-04
+                    HOPPER_IDLER            MATERIAL:                              UNKNOWN
+         1.43329e-04  1.65056e-03  0.00000e+00  0.00000e+00  1.10000e+01
+                HOPPER_SIDEPANEL            MATERIAL:                                  ABS
+         9.73154e-05  3.60790e-03  5.16250e+00  6.28126e+00  2.65124e+00
+                HOPPER_SIDEPANEL            MATERIAL:                                  ABS
+         9.73154e-05  3.60790e-03 -5.16250e+00  6.28126e+00  2.65124e+00
+                  HOPPER_FRAME_R            MATERIAL:                               AL6061
+         2.53600e-04  3.13121e-03 -5.47452e+00  8.11703e-02  8.67269e-01
+              HOPPER_FRAME_L_NEW            MATERIAL:                               AL6061
+         2.53600e-04  3.08471e-03  5.47451e+00  8.23475e-02  1.04565e+00
+                    HOPPER_MOTOR            MATERIAL:                              UNKNOWN
+         2.52533e-04  5.25786e-03 -6.98294e+00  4.89646e-01 -8.14705e+00
+       HOPPER_INSERT_111_1513_05            MATERIAL:                                STEEL
+         7.32400e-04  3.27755e-05  5.46993e+00  1.35423e+00  1.28710e+01
+       HOPPER_INSERT_111_1513_05            MATERIAL:                                STEEL
+         7.32400e-04  3.27755e-05 -5.46993e+00  1.35423e+00  1.28710e+01
+                HOPPER_TENSIONOR            MATERIAL:                               AL6061
+         2.53600e-04  1.63008e-04  5.47500e+00  0.00000e+00  1.11230e+01
+                HOPPER_TENSIONOR            MATERIAL:                               AL6061
+         2.53600e-04  1.63008e-04 -5.47500e+00  0.00000e+00  1.11230e+01
+           HOPPER_GRATE_ASSEMBLY            MATERIAL:                              UNKNOWN
+         2.53600e-04  1.80388e-03  3.36381e-03  4.06359e+00  1.31313e+01
+             HOPPER_PVC_PIPE_GJS            MATERIAL:                          PVC-U_RIGID
+         1.30066e-04  1.13283e-03  0.00000e+00  3.06093e-03 -1.09670e+01
+            HOPPER_TOP_SHAFT_GJS            MATERIAL:                               AL6061
+         2.53600e-04  6.45146e-04  1.69996e-01  3.06093e-03 -1.09670e+01
+         HOPPER_PIPE_BEARING_GJS            MATERIAL:                                 PEEK
+         1.22580e-04  1.01287e-04  4.85349e+00  5.93199e-03 -1.09662e+01
+         HOPPER_PIPE_BEARING_GJS            MATERIAL:                                 PEEK
+         1.22580e-04  1.01287e-04 -4.85349e+00  5.93200e-03 -1.09662e+01
+        217_3875_HEX_BEARING_1_2            MATERIAL:                                 PEEK
+         1.22580e-04  2.98177e-05  5.63702e+00  3.06093e-03 -1.09670e+01
+          217_2737_HEXCOLLAR_1_2            MATERIAL:                               AL6061
+         2.53600e-04  3.29963e-05  5.91250e+00  9.39782e-03 -1.09508e+01
+              HOPPER_109_1420_56            MATERIAL:                               AL6061
+         2.53600e-04  3.32516e-05 -5.47500e+00  0.00000e+00  1.27500e+01
+              HOPPER_109_1420_56            MATERIAL:                               AL6061
+         2.53600e-04  3.32516e-05  5.47500e+00  0.00000e+00  1.27500e+01
+         HOPPER_GAS_SPRING_MOUNT            MATERIAL:                               AL6061
+         2.53600e-04  3.93344e-04  5.69162e+00  1.39876e+00 -6.90411e-01
+     COLLECTOR_9512K52_BALL_STUD            MATERIAL:                               AL6061
+         2.53600e-04  2.04082e-05  5.91713e+00  2.73751e+00 -1.34018e+00
+  HOPPER_GAS_SPRING_MOUNT_MIRROR            MATERIAL:                               AL6061
+         2.53600e-04  3.93344e-04 -5.69162e+00  1.39876e+00 -6.90411e-01
+     COLLECTOR_9512K52_BALL_STUD            MATERIAL:                               AL6061
+         2.53600e-04  2.04082e-05 -5.91713e+00  2.73749e+00 -1.34018e+00
+                         CSEE256            MATERIAL:                               AL6061
+         2.53600e-04  6.50184e-06  5.66043e+00  3.62500e-01  5.09833e-01
+                         CSEE256            MATERIAL:                               AL6061
+         2.53600e-04  6.50184e-06  5.66043e+00  3.62500e-01 -1.19017e+00
+                         CSEE256            MATERIAL:                               AL6061
+         2.53600e-04  6.50184e-06 -5.66043e+00  3.62500e-01  5.09833e-01
+                         CSEE256            MATERIAL:                               AL6061
+         2.53600e-04  6.50184e-06 -5.66043e+00  3.62500e-01 -1.19017e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06  4.96828e+00 -1.06942e-01  8.16401e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06  4.96828e+00 -1.06942e-01  4.76401e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06  4.96828e+00 -1.06942e-01  1.36402e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06  4.96828e+00 -1.06942e-01 -2.03597e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06  4.96828e+00 -1.06942e-01 -5.43596e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06  4.96828e+00 -1.06942e-01 -7.97875e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06 -4.96828e+00 -1.06936e-01  8.16533e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06 -4.96828e+00 -1.06936e-01  4.76533e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06 -4.96828e+00 -1.06936e-01  1.36534e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06 -4.96828e+00 -1.06936e-01 -2.03465e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06 -4.96828e+00 -1.06936e-01 -5.43464e+00
+       HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
+         9.35730e-05  3.90374e-06 -4.96828e+00 -1.06936e-01 -7.97743e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06  5.08936e+00  5.30000e-02  8.16396e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06  5.08936e+00  5.30000e-02  4.76396e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06  5.08936e+00  5.30000e-02  1.36397e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06  5.08936e+00  5.30000e-02 -2.03602e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06  5.08936e+00  5.30000e-02 -5.43601e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06  5.08936e+00  5.30000e-02 -7.97880e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06 -5.08936e+00  5.30000e-02 -7.97880e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06 -5.08936e+00  5.30000e-02  8.16396e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06 -5.08936e+00  5.30000e-02  4.76396e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06 -5.08936e+00  5.30000e-02  1.36397e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06 -5.08936e+00  5.30000e-02 -2.03602e+00
+                          CSFF65            MATERIAL:                               AL6061
+         2.53600e-04  9.81635e-06 -5.08936e+00  5.30000e-02 -5.43601e+00
