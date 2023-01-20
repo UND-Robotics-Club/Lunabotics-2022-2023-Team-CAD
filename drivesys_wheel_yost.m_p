@@ -1,0 +1,78 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY DRIVESYS_WHEEL_YOST
+
+VOLUME =  3.8898903e+01  INCH^3
+SURFACE AREA =  5.7299091e+02  INCH^2
+AVERAGE DENSITY =  5.5820608e-02 POUND / INCH^3
+MASS =  2.1713604e+00 POUND 
+CENTER OF GRAVITY with respect to _DRIVESYS_WHEEL_YOST coordinate frame:
+X   Y   Z     3.9628839e-02  0.0000000e+00  0.0000000e+00  INCH
+
+INERTIA with respect to _DRIVESYS_WHEEL_YOST coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  4.6048022e+01  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  2.5825187e+01  0.0000000e+00
+Izx Izy Izz  0.0000000e+00  0.0000000e+00  2.5825186e+01
+
+INERTIA at CENTER OF GRAVITY with respect to _DRIVESYS_WHEEL_YOST coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  4.6048022e+01  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  2.5821777e+01  0.0000000e+00
+Izx Izy Izz  0.0000000e+00  0.0000000e+00  2.5821776e+01
+
+PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3   2.5821776e+01  2.5821777e+01  4.6048022e+01
+
+ROTATION MATRIX from _DRIVESYS_WHEEL_YOST orientation to PRINCIPAL AXES:
+       0.00000        0.00000        1.00000
+       1.00000        0.00000        0.00000
+       0.00000        1.00000        0.00000
+
+ROTATION ANGLES from _DRIVESYS_WHEEL_YOST orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z   0.000         90.000         90.000 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 3.4484751e+00  3.4484752e+00  4.6051049e+00  INCH
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _DRIVESYS_WHEEL_YOST coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+              DRIVESYS_CENTERHUB            MATERIAL:                                  ABS
+         3.75724e-02  1.61573e-01  0.00000e+00  0.00000e+00  0.00000e+00
+             DRIVESYS_TREAD_YOST            MATERIAL:                      EP-CF_COMPOSITE
+         5.67198e-02  6.62645e-01  0.00000e+00  0.00000e+00  0.00000e+00
+             DRIVESYS_SPOKE_YOST            MATERIAL:                               AL6061
+         9.79121e-02  1.82325e-01  1.16000e+00  0.00000e+00  0.00000e+00
+             DRIVESYS_SPOKE_YOST            MATERIAL:                               AL6061
+         9.79121e-02  1.82325e-01 -1.16000e+00  0.00000e+00  0.00000e+00
+         DRIVESYS_SIDECURVE_YOST            MATERIAL:                                  ABS
+         3.75724e-02  2.79146e-01  1.54691e+00  0.00000e+00  0.00000e+00
+         DRIVESYS_SIDECURVE_YOST            MATERIAL:                                  ABS
+         3.75724e-02  2.79146e-01 -1.54691e+00  0.00000e+00  0.00000e+00
+                ALUMINUMVERSAHUB            MATERIAL:                               AL6061
+         9.79121e-02  6.25800e-02  1.37502e+00  0.00000e+00  0.00000e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00 -5.46737e-01 -5.26513e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00 -3.53709e+00 -3.93822e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00 -5.17639e+00 -1.10704e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00 -4.83849e+00  2.14699e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00 -2.65245e+00  4.58094e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00  5.46737e-01  5.26513e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00  3.53709e+00  3.93822e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00  5.17639e+00  1.10704e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00  4.83849e+00 -2.14699e+00
+           DRIVESYS_GROUSER_YOST            MATERIAL:                               AL6061
+         9.79121e-02  3.61622e-02  0.00000e+00  2.65245e+00 -4.58094e+00
