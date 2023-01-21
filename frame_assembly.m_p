@@ -1,80 +1,92 @@
 ﻿MASS PROPERTIES OF THE ASSEMBLY FRAME_ASSEMBLY
 
-VOLUME =  1.1340395e+02  INCH^3
-SURFACE AREA =  9.9771356e+02  INCH^2
-AVERAGE DENSITY =  9.7756688e-02 POUND / INCH^3
-MASS =  1.1085995e+01 POUND 
-CENTER OF GRAVITY with respect to _FRAME_ASSEMBLY coordinate frame:
-X   Y   Z    -2.6953596e-03  5.9903046e+00 -2.2319092e+00  INCH
+VOLUME =  1.3323806e+02  INCH^3
+SURFACE AREA =  1.0092351e+03  INCH^2
+AVERAGE DENSITY =  9.7424078e-02 POUND / INCH^3
+MASS =  1.2980595e+01 POUND 
+CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
+X   Y   Z    -3.2160675e-03  6.0656990e+00 -2.1429115e+00  INCH
 
-INERTIA with respect to _FRAME_ASSEMBLY coordinate frame:  (POUND * INCH^2)
-
-INERTIA TENSOR:
-Ixx Ixy Ixz  1.4313645e+03  2.2370433e-01 -5.9762230e-02
-Iyx Iyy Iyz  2.2370433e-01  1.3391533e+03  1.4934449e+02
-Izx Izy Izz -5.9762230e-02  1.4934449e+02  7.2149723e+02
-
-INERTIA at CENTER OF GRAVITY with respect to _FRAME_ASSEMBLY coordinate frame:  (POUND * INCH^2)
+INERTIA with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
 
 INERTIA TENSOR:
-Ixx Ixy Ixz  9.7833346e+02  4.4709579e-02  6.9288755e-03
-Iyx Iyy Iyz  4.4709579e-02  1.2839292e+03  1.1267812e+00
-Izx Izy Izz  6.9288755e-03  1.1267812e+00  3.2369008e+02
+Ixx Ixy Ixz  1.6520672e+03  3.1148924e-01 -8.5172554e-02
+Iyx Iyy Iyz  3.1148924e-01  1.5396767e+03  1.6898806e+02
+Izx Izy Izz -8.5172554e-02  1.6898806e+02  8.6632773e+02
+
+INERTIA at CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.1148682e+03  5.8267720e-02  4.2864373e-03
+Iyx Iyy Iyz  5.8267720e-02  1.4800688e+03  2.6295900e-01
+Izx Izy Izz  4.2864373e-03  2.6295900e-01  3.8873639e+02
 
 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
-I1  I2  I3   3.2368876e+02  9.7833345e+02  1.2839305e+03
+I1  I2  I3   3.8873633e+02  1.1148682e+03  1.4800689e+03
 
-ROTATION MATRIX from _FRAME_ASSEMBLY orientation to PRINCIPAL AXES:
-      -0.00001        1.00000        0.00015
-      -0.00117       -0.00015        1.00000
-       1.00000        0.00001        0.00117
+ROTATION MATRIX from ASM_DEF_CSYS orientation to PRINCIPAL AXES:
+      -0.00001        1.00000        0.00016
+      -0.00024       -0.00016        1.00000
+       1.00000        0.00001        0.00024
 
-ROTATION ANGLES from _FRAME_ASSEMBLY orientation to PRINCIPAL AXES (degrees):
-angles about x  y  z -89.933          0.000        -90.001 
+ROTATION ANGLES from ASM_DEF_CSYS orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -89.986          0.000        -90.000 
 
 RADII OF GYRATION with respect to PRINCIPAL AXES:
-R1  R2  R3 5.4035164e+00  9.3941202e+00  1.0761763e+01  INCH
+R1  R2  R3 5.4724306e+00  9.2675398e+00  1.0678092e+01  INCH
 
 ---------------------------------------------
 
 MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
-(in assembly units and the _FRAME_ASSEMBLY coordinate frame)
+(in assembly units and the ASM_DEF_CSYS coordinate frame)
 
    DENSITY             MASS          C.G.:  X        Y         Z
 
                          FRAME_L            MATERIAL:                               AL6061
-         9.75000e-02  1.20310e+00  6.85996e+00  7.27193e+00 -2.00264e+00
+         9.75000e-02  1.64267e+00  6.85986e+00  7.28859e+00 -2.01570e+00
                   FRAME_FR_PLATE            MATERIAL:                               AL6061
-         9.79121e-02  5.59346e-01  4.99940e-04  5.44365e+00  9.12215e+00
+         9.79121e-02  8.60998e-01  4.99927e-04  5.34872e+00  9.12477e+00
                          FRAME_R            MATERIAL:                               AL6061
-         9.79121e-02  1.20819e+00 -6.85896e+00  7.27193e+00 -2.00264e+00
-             FRAME_UPPER_BRACE_1            MATERIAL:                               AL6061
-         9.79121e-02  1.12205e-01  5.95126e+00  6.76588e+00  7.58173e+00
-             FRAME_UPPER_BRACE_1            MATERIAL:                               AL6061
-         9.79121e-02  1.12205e-01 -5.95026e+00  6.76588e+00 -1.16322e+01
-             FRAME_LOWER_BRACE_1            MATERIAL:                               AL6061
-         9.79121e-02  7.15800e-02  5.76314e+00  5.80228e+00  6.85016e+00
-             FRAME_LOWER_BRACE_1            MATERIAL:                               AL6061
-         9.79121e-02  7.15800e-02 -5.76214e+00  5.80228e+00 -1.09006e+01
-             FRAME_UPPER_BRACE_2            MATERIAL:                               AL6061
-         9.79121e-02  1.12205e-01 -5.95026e+00  6.76588e+00  7.58173e+00
-             FRAME_UPPER_BRACE_2            MATERIAL:                               AL6061
-         9.79121e-02  1.12205e-01  5.95126e+00  6.76588e+00 -1.16322e+01
-             FRAME_LOWER_BRACE_2            MATERIAL:                               AL6061
-         9.79121e-02  7.15800e-02  5.76314e+00  5.80228e+00 -1.09006e+01
-             FRAME_LOWER_BRACE_2            MATERIAL:                               AL6061
-         9.79121e-02  7.15800e-02 -5.76214e+00  5.80228e+00  6.85016e+00
+         9.79121e-02  1.64961e+00 -6.85886e+00  7.28859e+00 -2.01570e+00
                   FRAME_FR_PLATE            MATERIAL:                               AL6061
-         9.79121e-02  5.59346e-01  5.00060e-04  5.44365e+00 -1.31726e+01
+         9.79121e-02  8.60998e-01  5.00073e-04  5.34872e+00 -1.31752e+01
                   FRAME_R_SHEILD            MATERIAL:                          AL_5052_H32
-         9.68000e-02  7.49586e-01  0.00000e+00  6.13226e+00 -9.73095e+00
-                  FRAME_F_SHIELD            MATERIAL:                          AL_5052_H32
-         9.68000e-02  3.41584e-01  0.00000e+00  5.73058e+00  8.01738e+00
+         9.68000e-02  9.09847e-01  0.00000e+00  6.15236e+00 -9.51029e+00
+                  FRAME_U_BRACE1            MATERIAL:                               AL6061
+         9.79121e-02  1.23777e-01  5.98238e+00  6.80290e+00  7.52880e+00
+                  FRAME_U_BRACE1            MATERIAL:                               AL6061
+         9.79121e-02  1.23777e-01 -5.98138e+00  6.80290e+00 -1.15793e+01
                FRAME_MOTOR_DUMMY            MATERIAL:                               AL6061
          9.79121e-02  1.43243e+00  4.53603e+00  5.50323e+00  7.99977e+00
+                  FRAME_L_BRACE1            MATERIAL:                               AL6061
+         9.79121e-02  7.10506e-02  5.83524e+00  5.87817e+00  6.74324e+00
+                  FRAME_L_BRACE1            MATERIAL:                               AL6061
+         9.79121e-02  7.10506e-02 -5.83424e+00  5.87817e+00 -1.07937e+01
+                  FRAME_U_BRACE2            MATERIAL:                               AL6061
+         9.79121e-02  1.23777e-01 -5.98138e+00  6.80290e+00  7.52880e+00
+                  FRAME_U_BRACE2            MATERIAL:                               AL6061
+         9.79121e-02  1.23777e-01  5.98238e+00  6.80290e+00 -1.15793e+01
+                  FRAME_L_BRACE2            MATERIAL:                               AL6061
+         9.79121e-02  7.10506e-02  5.83524e+00  5.87817e+00 -1.07937e+01
+                  FRAME_L_BRACE2            MATERIAL:                               AL6061
+         9.79121e-02  7.10506e-02 -5.83424e+00  5.87817e+00  6.74324e+00
+ 7815K19_MULTIPURPOSE_FLANGED_SL            MATERIAL:                                BRASS
+         3.03736e-01  1.65748e-02  6.90292e+00  7.33000e+00  3.49977e+00
+ 7815K19_MULTIPURPOSE_FLANGED_SL            MATERIAL:                                BRASS
+         3.03736e-01  1.65748e-02 -6.90192e+00  7.33000e+00  3.49977e+00
+                   HOPPER_SPACER            MATERIAL:                                NYLON
+         4.33577e-02  2.63830e-02 -6.14900e+00  7.33000e+00  3.49977e+00
+                   HOPPER_SPACER            MATERIAL:                                NYLON
+         4.33577e-02  2.63830e-02  6.15000e+00  7.33000e+00  3.49977e+00
                FRAME_MOTOR_DUMMY            MATERIAL:                               AL6061
          9.79121e-02  1.43243e+00  4.53603e+00  5.50323e+00 -1.20502e+01
                FRAME_MOTOR_DUMMY            MATERIAL:                               AL6061
          9.79121e-02  1.43243e+00 -4.53503e+00  5.50323e+00 -1.20502e+01
                FRAME_MOTOR_DUMMY            MATERIAL:                               AL6061
          9.79121e-02  1.43243e+00 -4.53503e+00  5.50323e+00  7.99977e+00
+          FRAME_COLLECTOR_BRACE1            MATERIAL:                               AL6061
+         9.79121e-02  6.99648e-02  6.12298e+00  5.67019e+00  9.83539e+00
+          FRAME_COLLECTOR_BRACE2            MATERIAL:                               AL6061
+         9.79121e-02  6.99648e-02 -6.12198e+00  5.67019e+00  9.83539e+00
+                  FRAME_F_SHIELD            MATERIAL:                          AL_5052_H32
+         9.68000e-02  3.21622e-01  0.00000e+00  6.02689e+00  7.66629e+00
