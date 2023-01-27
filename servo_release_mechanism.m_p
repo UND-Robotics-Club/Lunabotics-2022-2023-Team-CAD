@@ -1,0 +1,56 @@
+﻿MASS PROPERTIES OF THE ASSEMBLY SERVO_RELEASE_MECHANISM
+
+VOLUME =  6.1423373e+00  INCH^3
+SURFACE AREA =  7.2488476e+01  INCH^2
+AVERAGE DENSITY =  5.2968056e-02 POUND / INCH^3
+MASS =  3.2534766e-01 POUND 
+CENTER OF GRAVITY with respect to _SERVO_RELEASE_MECHANISM coordinate frame:
+X   Y   Z     1.2849934e-02  4.4619935e-01  2.0431804e-01  INCH
+
+INERTIA with respect to _SERVO_RELEASE_MECHANISM coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.8855045e-01 -1.9540756e-03 -1.7830925e-03
+Iyx Iyy Iyz -1.9540756e-03  1.0346274e+01 -2.6463337e-02
+Izx Izy Izz -1.7830925e-03 -2.6463337e-02  1.0405606e+01
+
+INERTIA at CENTER OF GRAVITY with respect to _SERVO_RELEASE_MECHANISM coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  1.1019381e-01 -8.8651813e-05 -9.2890089e-04
+Iyx Iyy Iyz -8.8651813e-05  1.0332638e+01  3.1974958e-03
+Izx Izy Izz -9.2890089e-04  3.1974958e-03  1.0340778e+01
+
+PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3   1.1019372e-01  1.0331533e+01  1.0341884e+01
+
+ROTATION MATRIX from _SERVO_RELEASE_MECHANISM orientation to PRINCIPAL AXES:
+       1.00000        0.00002       -0.00009
+       0.00001        0.94507        0.32686
+       0.00009       -0.32686        0.94507
+
+ROTATION ANGLES from _SERVO_RELEASE_MECHANISM orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -19.078          0.000          0.000 
+
+RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3 5.8197534e-01  5.6351896e+00  5.6380117e+00  INCH
+
+---------------------------------------------
+
+MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
+(in assembly units and the _SERVO_RELEASE_MECHANISM coordinate frame)
+
+   DENSITY             MASS          C.G.:  X        Y         Z
+
+              SERVO_MOTOR_MG996R            MATERIAL:                                  ABS
+         3.75724e-02  1.20490e-02  3.02704e-02 -3.40590e-01  0.00000e+00
+              SERVO_RELEASE_BASE            MATERIAL:                                 PEEK
+         4.73268e-02  2.98841e-02  5.62252e-03 -2.50000e-01 -3.63419e-02
+               SERVO_RELEASE_ARM            MATERIAL:                                 PEEK
+         4.73268e-02  9.17448e-03  3.97619e-01  6.05359e-01 -5.97191e-05
+                     SERVO_LATCH            MATERIAL:                                 PEEK
+         4.73268e-02  2.28867e-01  0.00000e+00  5.28366e-01  2.97969e-01
+                       SERVO_PIN            MATERIAL:                                STEEL
+         2.82771e-01  2.26864e-02 -5.84375e+00  6.67032e-01 -1.39788e-02
+                       SERVO_PIN            MATERIAL:                                STEEL
+         2.82771e-01  2.26864e-02  5.84375e+00  6.67032e-01 -1.39793e-02
