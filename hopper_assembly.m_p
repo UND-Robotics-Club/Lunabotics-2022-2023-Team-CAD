@@ -1,44 +1,44 @@
 ﻿MASS PROPERTIES OF THE ASSEMBLY HOPPER_ASSEMBLY
 
-VOLUME =  2.3566800e+02  INCH^3
-SURFACE AREA =  3.9314549e+03  INCH^2
-AVERAGE DENSITY =  6.0227420e-02 POUND / INCH^3
-MASS =  1.4193676e+01 POUND 
-CENTER OF GRAVITY with respect to _HOPPER_ASSEMBLY coordinate frame:
-X   Y   Z    -5.9613925e-01  1.5879142e+00  5.3310151e-01  INCH
+VOLUME =  2.2987586e+02  INCH^3
+SURFACE AREA =  3.7653990e+03  INCH^2
+AVERAGE DENSITY =  5.9156471e-02 POUND / INCH^3
+MASS =  1.3598645e+01 POUND 
+CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:
+X   Y   Z    -6.2278077e-01  1.5184242e+00  5.2000922e-02  INCH
 
-INERTIA with respect to _HOPPER_ASSEMBLY coordinate frame:  (POUND * INCH^2)
-
-INERTIA TENSOR:
-Ixx Ixy Ixz  1.0560627e+03  4.7264514e+00 -6.5168041e+01
-Iyx Iyy Iyz  4.7264514e+00  1.1839182e+03 -8.8667131e+01
-Izx Izy Izz -6.5168041e+01 -8.8667131e+01  4.7394917e+02
-
-INERTIA at CENTER OF GRAVITY with respect to _HOPPER_ASSEMBLY coordinate frame:  (POUND * INCH^2)
+INERTIA with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
 
 INERTIA TENSOR:
-Ixx Ixy Ixz  1.0162399e+03 -8.7095375e+00 -6.9678830e+01
-Iyx Iyy Iyz -8.7095375e+00  1.1748403e+03 -7.6651908e+01
-Izx Izy Izz -6.9678830e+01 -7.6651908e+01  4.3311604e+02
+Ixx Ixy Ixz  9.7830063e+02  4.7346683e+00 -6.5143138e+01
+Iyx Iyy Iyz  4.7346683e+00  1.1077376e+03 -6.8981250e+01
+Izx Izy Izz -6.5143138e+01 -6.8981250e+01  4.6546747e+02
+
+INERTIA at CENTER OF GRAVITY with respect to ASM_DEF_CSYS coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz  9.4691066e+02 -8.1248272e+00 -6.5583533e+01
+Iyx Iyy Iyz -8.1248272e+00  1.1024265e+03 -6.7907508e+01
+Izx Izy Izz -6.5583533e+01 -6.7907508e+01  4.2883996e+02
 
 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
-I1  I2  I3   4.1705209e+02  1.0244497e+03  1.1826944e+03
+I1  I2  I3   4.1387358e+02  9.5508333e+02  1.1092202e+03
 
-ROTATION MATRIX from _HOPPER_ASSEMBLY orientation to PRINCIPAL AXES:
-       0.11637        0.99316       -0.00985
-       0.10128       -0.00200        0.99486
-       0.98803       -0.11677       -0.10082
+ROTATION MATRIX from ASM_DEF_CSYS orientation to PRINCIPAL AXES:
+       0.12300        0.99236       -0.01007
+       0.09884       -0.00215        0.99510
+       0.98747       -0.12340       -0.09835
 
-ROTATION ANGLES from _HOPPER_ASSEMBLY orientation to PRINCIPAL AXES (degrees):
-angles about x  y  z -95.787         -0.564        -83.317 
+ROTATION ANGLES from ASM_DEF_CSYS orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z -95.644         -0.577        -82.934 
 
 RADII OF GYRATION with respect to PRINCIPAL AXES:
-R1  R2  R3 5.4206043e+00  8.4956749e+00  9.1282773e+00  INCH
+R1  R2  R3 5.5167847e+00  8.3805557e+00  9.0315246e+00  INCH
 
 ---------------------------------------------
 
 MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
-(in assembly units and the _HOPPER_ASSEMBLY coordinate frame)
+(in assembly units and the ASM_DEF_CSYS coordinate frame)
 
    DENSITY             MASS          C.G.:  X        Y         Z
 
@@ -47,7 +47,7 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
               HOPPER_UNDERSHIELD            MATERIAL:                               AL6061
          9.79121e-02  2.44026e+00  0.00000e+00  7.25949e-01  3.58390e-04
                     HOPPER_IDLER            MATERIAL:                              UNKNOWN
-         5.53377e-02  6.37261e-01  0.00000e+00  0.00000e+00  1.10000e+01
+         5.40510e-02  6.71047e-01  0.00000e+00 -1.65573e-04  1.10000e+01
                 HOPPER_SIDEPANEL            MATERIAL:                                  ABS
          3.75724e-02  1.39297e+00  5.16250e+00  6.28126e+00  2.65124e+00
                 HOPPER_SIDEPANEL            MATERIAL:                                  ABS
@@ -66,8 +66,6 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
          9.79121e-02  6.29507e-02  5.47500e+00  0.00000e+00  1.11230e+01
                 HOPPER_TENSIONOR            MATERIAL:                               AL6061
          9.79121e-02  6.29507e-02 -5.47500e+00  0.00000e+00  1.11230e+01
-           HOPPER_GRATE_ASSEMBLY            MATERIAL:                              UNKNOWN
-         9.79121e-02  6.99956e-01  3.34701e-03  2.71811e+00  1.02864e+01
              HOPPER_PVC_PIPE_GJS            MATERIAL:                          PVC-U_RIGID
          5.02169e-02  4.37372e-01  0.00000e+00  3.06093e-03 -1.09670e+01
             HOPPER_TOP_SHAFT_GJS            MATERIAL:                               AL6061
@@ -85,13 +83,13 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
               HOPPER_109_1420_56            MATERIAL:                               AL6061
          9.79121e-02  1.28381e-02  5.47500e+00  0.00000e+00  1.27500e+01
          HOPPER_GAS_SPRING_MOUNT            MATERIAL:                               AL6061
-         9.79121e-02  1.52923e-01  5.69332e+00  1.39159e+00 -6.87990e-01
+         9.79121e-02  1.60952e-01  5.69381e+00  1.42514e+00 -7.16593e-01
      COLLECTOR_9512K52_BALL_STUD            MATERIAL:                               AL6061
-         9.79121e-02  7.87938e-03  5.91713e+00  2.73751e+00 -1.34018e+00
+         9.79121e-02  7.87938e-03  5.91713e+00  2.85638e+00 -1.48838e+00
   HOPPER_GAS_SPRING_MOUNT_MIRROR            MATERIAL:                               AL6061
-         9.79121e-02  1.52923e-01 -5.69332e+00  1.39159e+00 -6.87990e-01
+         9.79121e-02  1.60952e-01 -5.69381e+00  1.42514e+00 -7.16593e-01
      COLLECTOR_9512K52_BALL_STUD            MATERIAL:                               AL6061
-         9.79121e-02  7.87938e-03 -5.91713e+00  2.73749e+00 -1.34018e+00
+         9.79121e-02  7.87938e-03 -5.91713e+00  2.85636e+00 -1.48838e+00
        HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
          3.61275e-02  1.50719e-03  4.96828e+00 -1.06942e-01  8.16401e+00
        HOPPER_CLIP_ON_BARREL_NUT            MATERIAL:                                     
@@ -160,19 +158,19 @@ MASS PROPERTIES OF COMPONENTS OF THE ASSEMBLY
          9.79121e-02  6.19310e-03 -5.41578e+00  0.00000e+00  6.46893e+00
                            WB031            MATERIAL:                                STEEL
          2.82771e-01  2.39310e-03 -5.75650e+00  0.00000e+00  6.46893e+00
-                          CSFF60            MATERIAL:                               AL6061
-         9.79121e-02  2.78908e-03 -5.74817e+00  3.62500e-01 -1.19017e+00
-                           WB025            MATERIAL:                                STEEL
-         2.82771e-01  1.09824e-03 -5.99500e+00  3.62500e-01 -1.19017e+00
-                          CSFF60            MATERIAL:                               AL6061
-         9.79121e-02  2.78908e-03 -5.74817e+00  3.62500e-01  5.09833e-01
+                         CSDD268            MATERIAL:                                STEEL
+         2.82771e-01  1.03747e-02 -5.75473e+00  3.62500e-01  5.09833e-01
                            WB025            MATERIAL:                                STEEL
          2.82771e-01  1.09824e-03 -5.99500e+00  3.62500e-01  5.09833e-01
-                          CSFF60            MATERIAL:                               AL6061
-         9.79121e-02  2.78908e-03  5.74817e+00  3.62500e-01 -1.19017e+00
-                           WB025            MATERIAL:                                STEEL
-         2.82771e-01  1.09824e-03  5.99500e+00  3.62500e-01 -1.19017e+00
-                          CSFF60            MATERIAL:                               AL6061
-         9.79121e-02  2.78908e-03  5.74817e+00  3.62500e-01  5.09833e-01
+                  SERVO_TIE_DOWN            MATERIAL:                              UNKNOWN
+         9.79121e-02  1.29661e-02 -6.13126e+00 -1.26278e+00  7.96428e-02
+                  SERVO_TIE_DOWN            MATERIAL:                              UNKNOWN
+         9.79121e-02  1.29661e-02  6.13126e+00 -1.26278e+00  7.96441e-02
+                         CSDD269            MATERIAL:                                STEEL
+         2.82771e-01  1.13769e-02 -5.96852e+00  3.62500e-01 -1.19017e+00
+                         CSDD269            MATERIAL:                                STEEL
+         2.82771e-01  1.13769e-02  5.96852e+00  3.62500e-01 -1.19017e+00
+                         CSDD267            MATERIAL:                                STEEL
+         2.82771e-01  9.37255e-03  5.81264e+00  3.62500e-01  5.09833e-01
                            WB025            MATERIAL:                                STEEL
          2.82771e-01  1.09824e-03  5.99500e+00  3.62500e-01  5.09833e-01
