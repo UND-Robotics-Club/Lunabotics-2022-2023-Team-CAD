@@ -1,0 +1,13 @@
+﻿! Enter or modify parameters for the spool.
+! You may use the help functionality of Pro/TABLE
+! to enter pre-defined parameters.
+! Spool Name
+NAME	14-AWG-RED
+! Spool Type
+TYPE	WIRE
+! Minimal Bend Radius
+MIN_BEND_RADIUS	1.13846
+! Wire Thickness
+THICKNESS	0.56923
+! Units
+UNITS	MM
