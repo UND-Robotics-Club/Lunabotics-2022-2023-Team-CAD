@@ -1,0 +1,19 @@
+﻿! Enter or modify parameters for the spool.
+! You may use the help functionality of Pro/TABLE
+! to enter pre-defined parameters.
+! Spool Name
+NAME	14-2-AWG-WHITE
+! Spool Type
+TYPE	SHEATH
+! Type of sheath
+SHEATH_TYPE	SHRINK
+! Wall thickness
+WALL_THICKNESS	0.08
+! Minimal Bend Radius
+MIN_BEND_RADIUS	0.5
+! Units
+UNITS	INCH
+! Preshrink inner diameter
+PRESHRINK_INNER_DIAMETER	0
+! Color
+COLOR	WHITE

@@ -1,0 +1,19 @@
+﻿! Enter or modify parameters for the spool.
+! You may use the help functionality of Pro/TABLE
+! to enter pre-defined parameters.
+! Spool Name
+NAME	DB9-IN
+! Spool Type
+TYPE	SHEATH
+! Type of sheath
+SHEATH_TYPE	SHRINK
+! Wall thickness
+WALL_THICKNESS	0.060179
+! Minimal Bend Radius
+MIN_BEND_RADIUS	0.2
+! Units
+UNITS	INCH
+! Preshrink inner diameter
+PRESHRINK_INNER_DIAMETER	0
+! Color
+COLOR	BLACK
