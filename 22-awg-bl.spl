@@ -1,0 +1,15 @@
+﻿! Enter or modify parameters for the spool.
+! You may use the help functionality of Pro/TABLE
+! to enter pre-defined parameters.
+! Spool Name
+NAME	22-AWG-BL
+! Spool Type
+TYPE	WIRE
+! Minimal Bend Radius
+MIN_BEND_RADIUS	0.2032
+! Wire Thickness
+THICKNESS	0.0254
+! Units
+UNITS	INCH
+! Color
+COLOR	blue
