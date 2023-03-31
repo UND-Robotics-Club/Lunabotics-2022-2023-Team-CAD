@@ -8,12 +8,12 @@
 
    Depth of loop is 3
 
-Feature number 29 (COMPONENT, id = 1556) 
+Feature number 33 (COMPONENT, id = 1556) 
   in model FRAME_ASSEMBLY refers to:
 
 Feature number 5 (PLANAR_1, id = 40) 
   in model FRAME_COLLECTOR_BRACE1 refers to:
 
-Feature number 29 (COMPONENT, id = 1556) 
+Feature number 33 (COMPONENT, id = 1556) 
   in model FRAME_ASSEMBLY - circle closed.
 
